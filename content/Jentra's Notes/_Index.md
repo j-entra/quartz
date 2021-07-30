@@ -15,11 +15,5 @@ alias: ["000", "Home", "Index"]
 - [[005MOC Sources]] 
 - [[006MOC People]]
 
-### Personal Management
-- [[007MOC Health]]
-- [[008MOC Goals]]
-- [[009MOC Projects]]
-- [[010MOC PKM]]
-
 ---
 [[MOC Commonplace]]

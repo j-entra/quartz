@@ -1,4 +1,6 @@
-
+---
+title: "{{title}}"
+---
 [[_Index]] | [[Machine Learning]]
 
 %% ---

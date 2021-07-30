@@ -1,3 +1,7 @@
+---
+title: "{{title}}"
+---
+
 %% ---
 alias: [" "]
 --- %%
@@ -13,4 +17,4 @@ To understand something, you have to engage, wrestle with it.
 
 -------------
 ### See also
-[[ here goes related concepts]]
+
