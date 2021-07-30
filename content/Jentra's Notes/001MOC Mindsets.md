@@ -1,14 +1,14 @@
-13. mental models/mindsets
-	1. method of loci/memory palace
 
+---
+title: "Mindsets"
+---
 
-
-
+# Mindsets
 
 ## Powers
 [[Perception]]
 [[Intuition]]
 [[Thinking]]
-
+[[Mental Models]]
 
 ## [[MBTI]]

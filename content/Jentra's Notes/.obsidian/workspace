@@ -7,8 +7,11 @@
         "id": "7eb47c3bf05db73f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Markov Blanket.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -50,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5e0b92893f0b17ee",
@@ -75,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Markov Blanket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Markov Blanket.md"
+              }
             }
           },
           {
@@ -131,19 +136,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "7eb47c3bf05db73f",
   "lastOpenFiles": [
-    "Work with the garage door up.md",
-    "Failing.md",
-    "Anne-Laure Le Cunff.md",
-    "Anti-Marketing.md",
-    "Digital Garden.md",
-    "Work with the Garagedoor Up.md",
-    "Timestamps/21-07-29_Th.md",
-    "Scenius.md",
-    "The Game of Life.md",
-    "Timeblocking = Tetris.md"
+    "Markov Blanket.md",
+    "Geoffrey Hinton.md",
+    "Cognition.md",
+    "Fi.md",
+    "ENTJ.md",
+    "Ni.md",
+    "Te.md",
+    "MBTI.md",
+    "001MOC Mindsets.md",
+    "_Index.md"
   ]
 }
