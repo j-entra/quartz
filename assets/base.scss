@@ -8,18 +8,20 @@
 
 h1, h2, h3, h4, ol, ul, thead {
   font-family: 'Helvetica Neue';
-  color: var(--dark)
+  text-transform: lowercase;
+  font-weight: 500;
+  color: var(--tertiary)
 }
 
 p, ul, text {
-  font-family: 'Helvetica Neue', sans-serif;
+  font-family: 'Roboto Mono', sans-serif;
   color: var(--gray);
   fill: var(--gray);
 }
 
-a {
-  font-family: Helvetica Neue;
-  font-weight: 700;
+a { /* links */
+  font-family: Roboto Mono;
+  font-weight: 300;
   font-size: 1em;
   text-decoration: none;
   transition: all 0.2s ease;
@@ -83,7 +85,7 @@ sup {
 }
 
 p, tbody, li {
-  font-family: Helvetica Neue;
+  font-family: Roboto Mono;
   color: var(--gray);
   line-height: 1.5em;
 }
@@ -120,11 +122,10 @@ td, th {
 }
 
 article a {
-  font-family: Source Sans Pro;
-  font-weight: 600;
-  text-decoration: underline;
+  font-family: Roboto Mono;
+  font-weight: 200;
   text-decoration-color: var(--tertiary);
-  text-decoration-thickness: .15em;
+  /* text-decoration-thickness: .15em; */
 }
 
 sup > a {
@@ -133,7 +134,7 @@ sup > a {
 }
 
 pre {
-  font-family: 'Fira Code';
+  font-family: 'Roboto Mono';
   padding: 0.75em;
   border-radius: 3px;
   overflow-x: scroll;
@@ -169,7 +170,7 @@ footer {
 
   & > a {
     font-size: 1em;
-    color: var(--secondary);
+    color: var(--dark);
     padding: 0 0.5em 3em 0.5em;
   }
 }
@@ -177,10 +178,10 @@ footer {
 hr {
   width: 25%;
   margin: 4em auto;
-  height: 2px;
+  height: 1px;
   border-radius: 1px;
   border-width: 0;
-  color: var(--dark);
+  color: var(--light);
   background-color: var(--dark);
 }
 
@@ -222,14 +223,14 @@ a[href^="/"] {
         margin: 0.5em 0;
         padding: 0.25em 1em;
         border: var(--outlinegray) 1px solid;
-        border-radius: 5px
+        border-radius: 20px
       }
     }
   }
 
   & #graph-container {
     border: var(--outlinegray) 1px solid;
-    border-radius: 5px
+    border-radius: 20px
   }
 }
 
