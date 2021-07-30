@@ -7,18 +7,18 @@
 }
 
 h1, h2, h3, h4, ol, ul, thead {
-  font-family: Inter;
+  font-family: 'Helvetica Neue';
   color: var(--dark)
 }
 
 p, ul, text {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Helvetica Neue', sans-serif;
   color: var(--gray);
   fill: var(--gray);
 }
 
 a {
-  font-family: Inter;
+  font-family: Helvetica Neue;
   font-weight: 700;
   font-size: 1em;
   text-decoration: none;
@@ -52,7 +52,7 @@ a {
   }
 
   & > li::marker, & > li > ol > li::marker {
-    font-family: Source Sans Pro;
+    font-family: Helvetica Neue;
     font-weight: 700;
   }
 }
@@ -83,7 +83,7 @@ sup {
 }
 
 p, tbody, li {
-  font-family: Source Sans Pro;
+  font-family: Helvetica Neue;
   color: var(--gray);
   line-height: 1.5em;
 }
