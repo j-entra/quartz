@@ -1,0 +1,17 @@
+{
+  "defaultLanguage": "en_US",
+  "shouldShowSynonymPopover": true,
+  "shouldShowCustomContextMenu": false,
+  "definitionApiName": "Free Dictionary API",
+  "synonymApiName": "Free Dictionary API",
+  "partOfSpeechApiName": "Systran API",
+  "advancedSynonymAnalysis": true,
+  "useCaching": false,
+  "cachedDefinitions": [],
+  "cachedSynonyms": [],
+  "folder": "Thesaurus",
+  "capitalizedFileName": true,
+  "prefix": "",
+  "suffix": "",
+  "template": "---\n# {{notice}}\n---\n[[Thesaurus]]\n\n# {{word}}\n\n## {{meaningHeader}}\n\n{{meanings}}\n\n----"
+}

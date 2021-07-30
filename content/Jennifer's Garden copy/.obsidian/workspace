@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "7f74c4acd71926bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7eb47c3bf05db73f",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5068d62fcf8dfaec",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f28f709575903b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8c6842c99a40e5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d1129be13de71472",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "hinton",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5e0b92893f0b17ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "f88fcdca6adabe2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6472738c02e34c39",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1148a7d1b9d2d934",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3253c0d335a61d9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ba2f439120756a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "bc6c4f269509093d",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ab3bb55aba19d3ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a63f8dfbe2f4c880",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "7eb47c3bf05db73f",
+  "lastOpenFiles": [
+    "Work with the garage door up.md",
+    "Failing.md",
+    "Anne-Laure Le Cunff.md",
+    "Anti-Marketing.md",
+    "Digital Garden.md",
+    "Work with the Garagedoor Up.md",
+    "Timestamps/21-07-29_Th.md",
+    "Scenius.md",
+    "The Game of Life.md",
+    "Timeblocking = Tetris.md"
+  ]
+}

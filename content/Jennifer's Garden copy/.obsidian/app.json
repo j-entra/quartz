@@ -1,0 +1,13 @@
+{
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "differentiator",
+    "unintuitive"
+  ],
+  "foldHeading": true,
+  "foldIndent": true,
+  "strictLineBreaks": false,
+  "promptDelete": false,
+  "fileSortOrder": "alphabetical"
+}

@@ -1,0 +1,6 @@
+{
+  "format": "YY-MM-DD_dd",
+  "autorun": true,
+  "folder": "Timestamps",
+  "template": "Assets/Dailies"
+}
