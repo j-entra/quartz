@@ -1,1 +1,0 @@
-[[7 Principles of Leonardo da Vinci]]
