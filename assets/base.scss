@@ -21,7 +21,7 @@ p, ul, text {
 
 a { /* links */
   font-family: Helvetica Neue;
-  font-weight: 300;
+  font-weight: 700;
   font-size: 1em;
   text-decoration: none;
   transition: all 0.2s ease;
@@ -160,6 +160,10 @@ body {
   background-color: var(--light);
 }
 
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
 
 footer {
   margin-top: 4em;
@@ -172,13 +176,13 @@ footer {
 }
 
 hr {
-  width: 25%;
+  width: 100%;
   margin: 4em auto;
   height: 1px;
   border-radius: 1px;
   border-width: 0;
-  color: var(--light);
-  background-color: var(--dark);
+  color: var(--outlinegray);
+  background-color: var(--outlinegray);
 }
 
 // internal link
