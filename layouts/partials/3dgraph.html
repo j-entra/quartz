@@ -79,9 +79,9 @@
     })
 
   const bloomPass = new UnrealBloomPass()
-  bloomPass.strength = 2
+  bloomPass.strength = 1
   bloomPass.radius = .5
-  bloomPass.threshold = 0.3
+  bloomPass.threshold = 0.2
   if (isDarkMode) {
     Graph.postProcessingComposer().addPass(bloomPass)
   }
@@ -130,8 +130,8 @@
 
   const animate = function () {
     const scene = Graph.scene()
-    scene.rotation.x += 4e-4
-    scene.rotation.y += 4e-4
+    scene.rotation.x += 5e-4
+    scene.rotation.y += 5e-4
     requestAnimationFrame(animate)
   }
   animate()
