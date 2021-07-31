@@ -1,0 +1,18 @@
+---
+title: "Workbench"
+---
+
+[[Karl Friston]]
+[[Voxel-based morphometry]]
+[[Free Energy Principle]]
+[[Index]]
+[[Combinational Creativity]]
+[[How to add script to entire site]]
+[[The Polymath - Unlocking the Power of Human Versatility ]]
+[[Mind Mapping]]
+[[Theory of Inventive Problem Solving]]
+[[Force Multiplier]]
+[[The Game of Life]]
+[[Timeblocking = Tetris]]
+[[Scenius]]
+[[MOC Commonplace]]
