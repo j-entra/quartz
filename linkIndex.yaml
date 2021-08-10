@@ -1,0 +1,4367 @@
+# THIS FILE WAS GENERATED using github.com/jackyzha0/hugo-obsidian
+# DO NOT EDIT
+index:
+    links:
+        content/:
+            - source: content/
+              target: /003MOC_concepts
+              text: concepts
+            - source: content/
+              target: /learn-in-public
+              text: working with the garage door up.
+            - source: content/
+              target: /001MOC_mindset
+              text: mindsets
+        content/_now:
+            - source: content/_now
+              target: /_index
+              text: index
+            - source: content/_now
+              target: /the-republic
+              text: the republic
+        content/_themes:
+            - source: content/_themes
+              target: /freedom-of-constraints
+              text: freedom-of-constraints
+        content/_workbench:
+            - source: content/_workbench
+              target: /free-energy-principle
+              text: free energy principle
+            - source: content/_workbench
+              target: /horizon-expansion
+              text: horizon expansion
+            - source: content/_workbench
+              target: /Inert-Ideas
+              text: inert-ideas
+            - source: content/_workbench
+              target: /_index
+              text: index
+            - source: content/_workbench
+              target: /puzzle-exploration-curiosity
+              text: puzzle-exploration-curiosity
+            - source: content/_workbench
+              target: /first-principles-thinking
+              text: first principles thinking
+        content/001MOC_mindset:
+            - source: content/001MOC_mindset
+              target: /smart-notes
+              text: smart notes
+            - source: content/001MOC_mindset
+              target: /great-prophet-theory
+              text: great prophet theory
+            - source: content/001MOC_mindset
+              target: /first-principles-thinking
+              text: first principles thinking
+            - source: content/001MOC_mindset
+              target: /books/power-of-now
+              text: power of now
+            - source: content/001MOC_mindset
+              target: /thinking
+              text: thinking
+            - source: content/001MOC_mindset
+              target: /creativity
+              text: creativity
+        content/002MOC_outputs:
+            - source: content/002MOC_outputs
+              target: /immersive-experiences
+              text: Immersive-Experiences
+            - source: content/002MOC_outputs
+              target: /_index
+              text: index
+            - source: content/002MOC_outputs
+              target: /Atoms
+              text: Atoms
+            - source: content/002MOC_outputs
+              target: /MOC_design
+              text: Design
+        content/3c-craftery:
+            - source: content/3c-craftery
+              target: /Chemistry
+              text: Chemistry
+            - source: content/3c-craftery
+              target: /curiosità
+              text: curiosità
+            - source: content/3c-craftery
+              target: /creative-turbulence
+              text: creative-turbulence
+        content/3d-design:
+            - source: content/3d-design
+              target: /_index
+              text: index
+        content/003MOC_concepts:
+            - source: content/003MOC_concepts
+              target: /minimalism
+              text: minimalism
+            - source: content/003MOC_concepts
+              target: /the-masks-we-wear
+              text: the masks we wear
+            - source: content/003MOC_concepts
+              target: /galls-law
+              text: galls law
+            - source: content/003MOC_concepts
+              target: /optionality
+              text: optionality
+            - source: content/003MOC_concepts
+              target: /_index
+              text: index
+            - source: content/003MOC_concepts
+              target: /creativity
+              text: creativity
+        content/004MOC_interests:
+            - source: content/004MOC_interests
+              target: /MOC_Philosophy
+              text: philosophy,
+            - source: content/004MOC_interests
+              target: /MOC_Programming
+              text: programming,
+            - source: content/004MOC_interests
+              target: /MOC_literature
+              text: literature,
+            - source: content/004MOC_interests
+              target: /MOC_design
+              text: design
+            - source: content/004MOC_interests
+              target: /probability
+              text: probability
+            - source: content/004MOC_interests
+              target: /MOC_productmgmt
+              text: product management,
+            - source: content/004MOC_interests
+              target: /010MOC_PKM
+              text: PKM,
+        content/005MOC_sources:
+            - source: content/005MOC_sources
+              target: /_index
+              text: _Index
+        content/010MOC_PKM:
+            - source: content/010MOC_PKM
+              target: /_index
+              text: index
+            - source: content/010MOC_PKM
+              target: /note-symbols
+              text: note-symbols
+            - source: content/010MOC_PKM
+              target: /smart-notes
+              text: smart notes
+            - source: content/010MOC_PKM
+              target: /refraction-thinking
+              text: refraction-thinking
+            - source: content/010MOC_PKM
+              target: /clear-thinking
+              text: clear-thinking
+            - source: content/010MOC_PKM
+              target: /private/Timestamps/21-08-01_Su
+              text: 21-08-01_Su
+            - source: content/010MOC_PKM
+              target: /The%20School%20of%20Life
+              text: The School of Life
+            - source: content/010MOC_PKM
+              target: /Haruki-Murakami
+              text: Haruki-Murakami
+        content/40-inventive-principles:
+            - source: content/40-inventive-principles
+              target: /inventive-problem-solving
+              text: inventive-problem-solving
+        content/Aesthetics:
+            - source: content/Aesthetics
+              target: /_index
+              text: index
+            - source: content/Aesthetics
+              target: /epicureanism
+              text: epicureanism
+        content/Atoms:
+            - source: content/Atoms
+              target: /_index
+              text: index
+        content/Haruki-Murakami:
+            - source: content/Haruki-Murakami
+              target: /books/Kafka-on-the-Shore
+              text: Kafka-on-the-Shore
+            - source: content/Haruki-Murakami
+              target: /books/What-I-Talk-About-When-I-Talk-About-Running
+              text: What-I-Talk-About-When-I-Talk-About-Running
+        content/Logic:
+            - source: content/Logic
+              target: /stoicism
+              text: stoicism
+            - source: content/Logic
+              target: /_index
+              text: index
+        content/MBTI:
+            - source: content/MBTI
+              target: /_index
+              text: index
+            - source: content/MBTI
+              target: /extroversion
+              text: extroversion
+            - source: content/MBTI
+              target: /carl-jung
+              text: carl jung
+            - source: content/MBTI
+              target: /private/ENTJ
+              text: ENTJ
+            - source: content/MBTI
+              target: /consciousness-attitudes
+              text: consciousness attitudes
+            - source: content/MBTI
+              target: /introversion
+              text: introversion
+            - source: content/MBTI
+              target: /cognitive-functions
+              text: cognitive functions
+            - source: content/MBTI
+              target: /judgment
+              text: judgment
+            - source: content/MBTI
+              target: /perception
+              text: perception
+        content/MOC Cosmology:
+            - source: content/MOC Cosmology
+              target: /_index
+              text: index
+        content/MOC_Artificial-Intelligence:
+            - source: content/MOC_Artificial-Intelligence
+              target: /machine-learning
+              text: machine-learning
+            - source: content/MOC_Artificial-Intelligence
+              target: /neural-networks
+              text: neural-networks
+        content/MOC_Communication:
+            - source: content/MOC_Communication
+              target: /_index
+              text: index
+            - source: content/MOC_Communication
+              target: /how-to-speak
+              text: how to speak
+        content/MOC_Marketing:
+            - source: content/MOC_Marketing
+              target: /_index
+              text: index
+            - source: content/MOC_Marketing
+              target: /copywriting
+              text: copywriting
+            - source: content/MOC_Marketing
+              target: /anti-marketing
+              text: anti-marketing
+            - source: content/MOC_Marketing
+              target: /puzzle-exploration-curiosity
+              text: puzzle, exploration, curiosity
+            - source: content/MOC_Marketing
+              target: /immersive-experiences
+              text: immersive experiences
+            - source: content/MOC_Marketing
+              target: /social-signaling
+              text: social signaling
+        content/MOC_Philosophy:
+            - source: content/MOC_Philosophy
+              target: /Logic
+              text: Logic
+            - source: content/MOC_Philosophy
+              target: /Aesthetics
+              text: Aesthetics
+            - source: content/MOC_Philosophy
+              target: /_index
+              text: index
+            - source: content/MOC_Philosophy
+              target: /metaphysics
+              text: Metaphysics
+            - source: content/MOC_Philosophy
+              target: /epistemology
+              text: Epistemology
+            - source: content/MOC_Philosophy
+              target: /Ethics
+              text: Ethics
+        content/MOC_Programming:
+            - source: content/MOC_Programming
+              target: /creative-code
+              text: creative code
+            - source: content/MOC_Programming
+              target: /_index
+              text: index
+        content/MOC_design:
+            - source: content/MOC_design
+              target: /graphic-design
+              text: graphic-design
+            - source: content/MOC_design
+              target: /motion-design
+              text: motion-design
+            - source: content/MOC_design
+              target: /3d-design
+              text: 3d-design
+            - source: content/MOC_design
+              target: /product-design
+              text: product design
+        content/MOC_literature:
+            - source: content/MOC_literature
+              target: /the-republic
+              text: the republic
+            - source: content/MOC_literature
+              target: /city-of-god
+              text: city of god
+            - source: content/MOC_literature
+              target: /summa-theologica
+              text: summa theologica
+            - source: content/MOC_literature
+              target: /divine-comedy
+              text: divine comedy
+            - source: content/MOC_literature
+              target: /dantes-inferno
+              text: dantes inferno
+            - source: content/MOC_literature
+              target: /paradise-lost
+              text: paradise lost
+            - source: content/MOC_literature
+              target: /_index
+              text: index
+            - source: content/MOC_literature
+              target: /books/how-to-read-a-book
+              text: how to read a book
+        content/MOC_productivity:
+            - source: content/MOC_productivity
+              target: /diminishing-returns
+              text: law of diminishing returns
+            - source: content/MOC_productivity
+              target: /parkinsons-law
+              text: parkinsons law
+            - source: content/MOC_productivity
+              target: /pareto-principle
+              text: pareto principle
+            - source: content/MOC_productivity
+              target: /_index
+              text: index
+            - source: content/MOC_productivity
+              target: /hit-your-quality-target-with-minimum-effort
+              text: hit your quality target with minimum effort
+        content/MOC_productmgmt:
+            - source: content/MOC_productmgmt
+              target: /_index
+              text: index
+            - source: content/MOC_productmgmt
+              target: /inversion
+              text: inversion
+        content/Memetic Evolution:
+            - source: content/Memetic Evolution
+              target: /_index
+              text: index
+        content/The School of Life:
+            - source: content/The School of Life
+              target: /_index
+              text: index
+        content/Tradition builds intuition.:
+            - source: content/Tradition builds intuition.
+              target: /Archetypes
+              text: Archetypes
+            - source: content/Tradition builds intuition.
+              target: /books/Sapiens
+              text: Sapiens
+        content/WebGL:
+            - source: content/WebGL
+              target: /_index
+              text: index
+            - source: content/WebGL
+              target: /3c-craftery
+              text: 3c-craftery
+            - source: content/WebGL
+              target: /freedom-of-constraints
+              text: freedom-of-constraints
+        content/Will technology and computers be able to replicate the human brain?:
+            - source: content/Will technology and computers be able to replicate the human brain?
+              target: /how-to-speak-machine
+              text: how-to-speak-machine
+        content/active-inference:
+            - source: content/active-inference
+              target: /bayesian-selectiveattention-article
+              text: bayesian-selectiveattention-article
+            - source: content/active-inference
+              target: /Learning
+              text: Learning
+            - source: content/active-inference
+              target: /free-energy-principle
+              text: free-energy-principle
+            - source: content/active-inference
+              target: /free-energy-principle
+              text: Free Energy Principle
+            - source: content/active-inference
+              target: /Optimization
+              text: Optimization
+            - source: content/active-inference
+              target: /LOA
+              text: LOA
+        content/alfred-korzybkski:
+            - source: content/alfred-korzybkski
+              target: /map-territory-relation
+              text: A map is not the territory
+            - source: content/alfred-korzybkski
+              target: /general-semantics
+              text: general-semantics
+            - source: content/alfred-korzybkski
+              target: /consciousness-of-abstracting
+              text: consciousness-of-abstracting
+        content/alfred-whitehead:
+            - source: content/alfred-whitehead
+              target: /Inert-Ideas
+              text: Inert-Ideas
+        content/anti-marketing:
+            - source: content/anti-marketing
+              target: /_index
+              text: index
+            - source: content/anti-marketing
+              target: /learn-in-public
+              text: learn in public
+        content/archetypes:
+            - source: content/archetypes
+              target: /_index
+              text: index
+        content/bayesian-probability:
+            - source: content/bayesian-probability
+              target: /machine-learning
+              text: machine learning
+            - source: content/bayesian-probability
+              target: /Hermann%20von%20Helmholtz
+              text: Hermann von Helmholtz
+            - source: content/bayesian-probability
+              target: /carl-jung
+              text: jung
+            - source: content/bayesian-probability
+              target: /first-principles-thinking
+              text: first principles thinking
+        content/bayesian-selectiveattention-article:
+            - source: content/bayesian-selectiveattention-article
+              target: /epistemic-foraging
+              text: epistemic-foraging
+        content/books/Atomic-Habits:
+            - source: content/books/Atomic-Habits
+              target: /one-percent
+              text: 1% better everyday.
+            - source: content/books/Atomic-Habits
+              target: /fall-to-systems
+              text: You don't rise to the level of your goals, you fall to the level of your systems
+            - source: content/books/Atomic-Habits
+              target: /identity-not-habits
+              text: Build your identity, not your habits.
+            - source: content/books/Atomic-Habits
+              target: /hoea
+              text: Make ideal habits obvious, easy, attractive.
+        content/books/Awaken-the-Giant-Within:
+            - source: content/books/Awaken-the-Giant-Within
+              target: /decisions-determine-destiny
+              text: Decisions determine destiny
+            - source: content/books/Awaken-the-Giant-Within
+              target: /neuro-associative-conditioning
+              text: Rewrite pain and pleasure.
+            - source: content/books/Awaken-the-Giant-Within
+              target: /niagara-syndrome
+              text: Direct yourself
+        content/books/Mastery:
+            - source: content/books/Mastery
+              target: /Robert-Greene
+              text: Robert Greene
+            - source: content/books/Mastery
+              target: /apprenticeship
+              text: apprenticeship
+        content/books/how-to-read-a-book:
+            - source: content/books/how-to-read-a-book
+              target: /_index
+              text: index
+        content/buddhism:
+            - source: content/buddhism
+              target: /_index
+              text: index
+        content/carl-jung:
+            - source: content/carl-jung
+              target: /_index
+              text: index
+        content/cognition:
+            - source: content/cognition
+              target: /baader-meinhof
+              text: baader-meinhof
+        content/cognitive-functions:
+            - source: content/cognitive-functions
+              target: /_index
+              text: index
+            - source: content/cognitive-functions
+              target: /thinking
+              text: thinking
+            - source: content/cognitive-functions
+              target: /MBTI
+              text: MBTI
+        content/color:
+            - source: content/color
+              target: /color-perception-and-emotions
+              text: color-perception-and-emotions
+        content/color-perception-and-emotions:
+            - source: content/color-perception-and-emotions
+              target: /what-is-there
+              text: what-is-there
+            - source: content/color-perception-and-emotions
+              target: /color
+              text: color
+        content/complexity-then-simplicity:
+            - source: content/complexity-then-simplicity
+              target: /_index
+              text: _index
+            - source: content/complexity-then-simplicity
+              target: /apprenticeship
+              text: apprenticeship
+        content/consciousness-attitudes:
+            - source: content/consciousness-attitudes
+              target: /004MOC_interests
+              text: '[Interests'
+            - source: content/consciousness-attitudes
+              target: /introversion
+              text: introversion
+            - source: content/consciousness-attitudes
+              target: /MBTI
+              text: MBTI
+            - source: content/consciousness-attitudes
+              target: /_index
+              text: index
+        content/consciousness-of-abstracting:
+            - source: content/consciousness-of-abstracting
+              target: /general-semantics
+              text: general-semantics
+        content/contemplate-questions:
+            - source: content/contemplate-questions
+              target: /curiosità
+              text: curiosità
+        content/continuous-learning:
+            - source: content/continuous-learning
+              target: /transmissionism
+              text: transmissionism
+            - source: content/continuous-learning
+              target: /mnemonic-medium
+              text: mnemonic-medium
+            - source: content/continuous-learning
+              target: /elaborative-encoding
+              text: elaborative-encoding
+        content/creative-code:
+            - source: content/creative-code
+              target: /Design
+              text: design
+            - source: content/creative-code
+              target: /WebGL
+              text: WebGL
+            - source: content/creative-code
+              target: /_index
+              text: index
+        content/creativity:
+            - source: content/creativity
+              target: /combinational-creativity
+              text: combinational creativity
+            - source: content/creativity
+              target: /systematic-inventive-thinking
+              text: systematic inventive thinking
+            - source: content/creativity
+              target: /_index
+              text: index
+        content/critical-thinking:
+            - source: content/critical-thinking
+              target: /criticalthinking-vs-overthinking
+              text: criticalthinking-vs-overthinking
+        content/criticalthinking-vs-overthinking:
+            - source: content/criticalthinking-vs-overthinking
+              target: /critical-thinking
+              text: Critical thinking
+        content/crypto-mining:
+            - source: content/crypto-mining
+              target: /cryptocurrency
+              text: cryptocurrency
+        content/curiosità:
+            - source: content/curiosità
+              target: /unconsciousness
+              text: unconsciousness
+            - source: content/curiosità
+              target: /contemplate-questions
+              text: contemplate-questions
+            - source: content/curiosità
+              target: /Stream%20of%20Consciousness
+              text: Stream of Consciousness
+            - source: content/curiosità
+              target: /question-reframing
+              text: question-reframing
+            - source: content/curiosità
+              target: /thinking
+              text: thinking
+            - source: content/curiosità
+              target: /vinci
+              text: vinci
+            - source: content/curiosità
+              target: /books/How-to-Think-Like-Leonardo-da-Vinci
+              text: How-to-Think-Like-Leonardo-da-Vinci
+            - source: content/curiosità
+              target: /continuous-learning
+              text: continuous-learning
+            - source: content/curiosità
+              target: /theme-observation
+              text: theme-observation
+        content/darwinian-strategy:
+            - source: content/darwinian-strategy
+              target: /books/Mastery
+              text: Mastery
+        content/death-of-design:
+            - source: content/death-of-design
+              target: /_index
+              text: index
+        content/decisions-determine-destiny:
+            - source: content/decisions-determine-destiny
+              target: /books/Awaken-the-Giant-Within
+              text: Awaken-the-Giant-Within
+        content/digital-garden:
+            - source: content/digital-garden
+              target: /Atomicity
+              text: Atomicity
+        content/dogstudio:
+            - source: content/dogstudio
+              target: /WebGL
+              text: WebGL
+        content/epicureanism:
+            - source: content/epicureanism
+              target: /_index
+              text: index
+            - source: content/epicureanism
+              target: /hedonism
+              text: hedonism
+            - source: content/epicureanism
+              target: /books/power-of-now
+              text: power-of-now
+            - source: content/epicureanism
+              target: /buddhism
+              text: buddhism
+            - source: content/epicureanism
+              target: /paradox-of-epicurus
+              text: paradoxof epicurus
+        content/extroversion:
+            - source: content/extroversion
+              target: /_index
+              text: index
+            - source: content/extroversion
+              target: /books/Be-Here-Now
+              text: Be Here Now
+            - source: content/extroversion
+              target: /Morals
+              text: Morals
+            - source: content/extroversion
+              target: /introversion
+              text: introversion
+        content/feeling:
+            - source: content/feeling
+              target: /judgment
+              text: judgment
+            - source: content/feeling
+              target: /private/Fi
+              text: Fi
+            - source: content/feeling
+              target: /private/Fe
+              text: Fe
+            - source: content/feeling
+              target: /carl-jung
+              text: carl-jung
+            - source: content/feeling
+              target: /cognitive-functions
+              text: cognitive-functions
+        content/feynman-technique:
+            - source: content/feynman-technique
+              target: /bayesian-probability
+              text: bayesian probability
+            - source: content/feynman-technique
+              target: /elon-musk
+              text: elon-musk
+            - source: content/feynman-technique
+              target: /_index
+              text: index
+        content/first-principles-thinking:
+            - source: content/first-principles-thinking
+              target: /syllogism
+              text: Syllogisms
+            - source: content/first-principles-thinking
+              target: /math
+              text: Math
+            - source: content/first-principles-thinking
+              target: /axiom
+              text: axioms
+            - source: content/first-principles-thinking
+              target: /epistemology
+              text: Epistemology
+            - source: content/first-principles-thinking
+              target: /inductive-reasoning
+              text: Inductive Reasoning
+            - source: content/first-principles-thinking
+              target: /_index
+              text: index
+            - source: content/first-principles-thinking
+              target: /stoicism
+              text: stoicism
+            - source: content/first-principles-thinking
+              target: /logic
+              text: Logic
+        content/free-energy-principle:
+            - source: content/free-energy-principle
+              target: /sensation
+              text: sensation
+            - source: content/free-energy-principle
+              target: /Surrealism
+              text: Surrealism
+            - source: content/free-energy-principle
+              target: /active-inference
+              text: active-inference
+            - source: content/free-energy-principle
+              target: /markov-blanket
+              text: markov-blanket
+        content/galls-law:
+            - source: content/galls-law
+              target: /murphys-law
+              text: Murphy's Law
+            - source: content/galls-law
+              target: /systems-design
+              text: Systems Design
+        content/game-of-life:
+            - source: content/game-of-life
+              target: /timeblocking=tetris
+              text: timeblocking=tetris
+        content/general-semantics:
+            - source: content/general-semantics
+              target: /consciousness-of-abstracting
+              text: consciousness-of-abstracting
+        content/graphic-design:
+            - source: content/graphic-design
+              target: /_index
+              text: index
+        content/great-prophet-theory:
+            - source: content/great-prophet-theory
+              target: /books/Creativity-Flow
+              text: Creativity-Flow
+            - source: content/great-prophet-theory
+              target: /plato
+              text: plato
+        content/hedonism:
+            - source: content/hedonism
+              target: /_index
+              text: index
+        content/hit-your-quality-target-with-minimum-effort:
+            - source: content/hit-your-quality-target-with-minimum-effort
+              target: /fall-to-systems
+              text: systems
+            - source: content/hit-your-quality-target-with-minimum-effort
+              target: /pareto-principle
+              text: pareto-principle
+        content/ideal-apprenticeship:
+            - source: content/ideal-apprenticeship
+              target: /apprenticeship
+              text: apprenticeship
+        content/idealism:
+            - source: content/idealism
+              target: /allegory-cave
+              text: allegory of the cave
+            - source: content/idealism
+              target: /theory-of-ideas
+              text: theory-of-ideas
+            - source: content/idealism
+              target: /hyperuranion
+              text: hyperuranion
+            - source: content/idealism
+              target: /mathematics
+              text: mathematics
+        content/immanuel-kant:
+            - source: content/immanuel-kant
+              target: /synthetic-apriori-knowledge
+              text: synthetic-apriori-knowledge
+        content/immersive-experiences:
+            - source: content/immersive-experiences
+              target: /_index
+              text: index
+            - source: content/immersive-experiences
+              target: /MOC_Marketing
+              text: Marketing
+        content/inductive-reasoning:
+            - source: content/inductive-reasoning
+              target: /first-principles-thinking
+              text: First Principles Thinking
+            - source: content/inductive-reasoning
+              target: /mental-models
+              text: Mental Models
+            - source: content/inductive-reasoning
+              target: /systems-thinking
+              text: Systems Thinking
+            - source: content/inductive-reasoning
+              target: /first-principles-thinking
+              text: first-principles-thinking
+            - source: content/inductive-reasoning
+              target: /deductive-reasoning
+              text: Deductive Reasoning
+            - source: content/inductive-reasoning
+              target: /rory-sutherland
+              text: Rory Sutherland
+        content/internet:
+            - source: content/internet
+              target: /_index
+              text: index
+        content/introversion:
+            - source: content/introversion
+              target: /idealism
+              text: idealism
+            - source: content/introversion
+              target: /extroversion
+              text: extroversion
+        content/intuition:
+            - source: content/intuition
+              target: /private/MOC_Astrology
+              text: astrology
+            - source: content/intuition
+              target: /collective-unconscious
+              text: collective unconscious
+            - source: content/intuition
+              target: /Tradition-builds-intuition
+              text: Tradition-builds-intuition
+            - source: content/intuition
+              target: /private/Ne
+              text: Ne
+            - source: content/intuition
+              target: /_index
+              text: index
+            - source: content/intuition
+              target: /sensation
+              text: sensation
+        content/inventive-problem-solving:
+            - source: content/inventive-problem-solving
+              target: /40-inventive-principles
+              text: 40-inventive-principles
+        content/inversion:
+            - source: content/inversion
+              target: /_index
+              text: index
+        content/judgment:
+            - source: content/judgment
+              target: /_index
+              text: index
+            - source: content/judgment
+              target: /thinking
+              text: thinking,
+        content/karl-friston:
+            - source: content/karl-friston
+              target: /free-energy-principle
+              text: free-energy-principle
+            - source: content/karl-friston
+              target: /statistical-parametric-mapping
+              text: statistical-parametric-mapping
+        content/knowledge-power:
+            - source: content/knowledge-power
+              target: /books/Mastery
+              text: Mastery
+        content/learn-in-public:
+            - source: content/learn-in-public
+              target: /_index
+              text: _index
+            - source: content/learn-in-public
+              target: /force-multiplier
+              text: Force multiplier
+        content/library:
+            - source: content/library
+              target: /addiction-by-design
+              text: Addiction by Design
+            - source: content/library
+              target: /books/Creativity-Flow
+              text: Creativity - Flow
+            - source: content/library
+              target: /books/The-Mistborn-Trilogy
+              text: The Mistborn Trilogy
+            - source: content/library
+              target: /books/Illusions-The-Adventures-of-a-Reluctant-Messiah
+              text: Illusions The Adventures of a Reluctant Messiah
+            - source: content/library
+              target: /books/A-New-Earth
+              text: A New Earth
+            - source: content/library
+              target: /books/How-to-Think-Like-Leonardo-da-Vinci
+              text: How to Think Like Leonardo da Vinci
+            - source: content/library
+              target: /books/The-Power-of-Full-Engagement
+              text: The Power of Full Engagement
+            - source: content/library
+              target: /books/Jade-City
+              text: Jade City
+            - source: content/library
+              target: /books/This%20Is%20Marketing
+              text: This Is Marketing
+            - source: content/library
+              target: /books/The-Talent-Code
+              text: The Talent Code
+            - source: content/library
+              target: /books/What-I-Talk-About-When-I-Talk-About-Running
+              text: What I Talk About When I Talk About Running
+            - source: content/library
+              target: /books/How-to-Think-More-Effectively
+              text: How to Think More Effectively
+            - source: content/library
+              target: /books/The-Essence-of-Jungs-Psychology-and-Tibetan-Buddhism
+              text: The Essence of Jung's Psychology and Tibetan Buddhism
+            - source: content/library
+              target: /books/Steve%20Jobs
+              text: Steve Jobs
+            - source: content/library
+              target: /books/Meditations
+              text: Meditations
+            - source: content/library
+              target: /books/Deep-Work
+              text: Deep Work
+            - source: content/library
+              target: /books/Essentialism
+              text: Essentialism
+            - source: content/library
+              target: /tao-te-ching
+              text: tao te ching
+            - source: content/library
+              target: /books/power-of-now
+              text: power of now
+            - source: content/library
+              target: /books/Be-Here-Now
+              text: Be Here Now
+            - source: content/library
+              target: /books/High-Performance-Habits
+              text: High Performance Habits
+            - source: content/library
+              target: /books/Kafka-on-the-Shore
+              text: Kafka on the Shore
+            - source: content/library
+              target: /books/Getting-Things-Done
+              text: Getting Things Done
+            - source: content/library
+              target: /books/Homo-Deus
+              text: Homo Deus
+            - source: content/library
+              target: /books/intuition-pumps
+              text: Intuition Pumps and Other Tools for Thinking
+            - source: content/library
+              target: /books/Great-Thinkers
+              text: Great Thinkers
+            - source: content/library
+              target: /books/1Q84
+              text: 1Q84
+            - source: content/library
+              target: /books/history-of-nearly-everything
+              text: history of nearly everything
+            - source: content/library
+              target: /books/Mans-Search-for-Meaning
+              text: Mans Search for Meaning
+            - source: content/library
+              target: /books/The%2015%20Invaluable%20Laws%20of%20Growth
+              text: The 15 Invaluable Laws of Growth
+            - source: content/library
+              target: /books/The%20Magic%20of%20Thinking%20Big
+              text: The Magic of Thinking Big
+            - source: content/library
+              target: /books/Sapiens
+              text: Sapiens
+            - source: content/library
+              target: /books/Cant-Hurt-Me
+              text: Cant Hurt Me
+            - source: content/library
+              target: /books/Circe
+              text: Circe
+            - source: content/library
+              target: /books/Atomic-Habits
+              text: Atomic Habits
+            - source: content/library
+              target: /books/No%20Excuses!
+              text: No Excuses!
+            - source: content/library
+              target: /books/The%20War%20Of%20Art
+              text: The War Of Art
+            - source: content/library
+              target: /books/the-order-of-time
+              text: The Order of Time
+            - source: content/library
+              target: /books/Mastery
+              text: Mastery
+            - source: content/library
+              target: /_index
+              text: index
+        content/map-territory-relation:
+            - source: content/map-territory-relation
+              target: /munger-two-step
+              text: munger-two-step
+            - source: content/map-territory-relation
+              target: /the-medium-is-the-message
+              text: the-medium-is-the-message
+            - source: content/map-territory-relation
+              target: /allegory-cave
+              text: allegory of the cave
+            - source: content/map-territory-relation
+              target: /product-design
+              text: product-design
+            - source: content/map-territory-relation
+              target: /first-principles-thinking
+              text: first-principles-thinking
+        content/memory-palace:
+            - source: content/memory-palace
+              target: /_index
+              text: index
+        content/mental-models:
+            - source: content/mental-models
+              target: /second-order-thinking
+              text: second-order-thinking
+            - source: content/mental-models
+              target: /map-territory-relation
+              text: a map is not the territory
+            - source: content/mental-models
+              target: /availability-bias
+              text: availability-bias
+            - source: content/mental-models
+              target: /pareto-principle
+              text: pareto-principle
+            - source: content/mental-models
+              target: /diminishing-returns
+              text: diminishing-returns
+            - source: content/mental-models
+              target: /munger-two-step
+              text: munger-two-step
+            - source: content/mental-models
+              target: /_index
+              text: index
+            - source: content/mental-models
+              target: /first-principles-thinking
+              text: first-principles-thinking
+        content/motion-design:
+            - source: content/motion-design
+              target: /_index
+              text: index
+        content/munger-two-step:
+            - source: content/munger-two-step
+              target: /_index
+              text: index
+        content/neuro-associative-conditioning:
+            - source: content/neuro-associative-conditioning
+              target: /allegory-cave
+              text: allegory of the cave
+            - source: content/neuro-associative-conditioning
+              target: /future-pacing
+              text: future pacing
+        content/niagara-syndrome:
+            - source: content/niagara-syndrome
+              target: /tao-te-ching
+              text: tao-te-ching
+            - source: content/niagara-syndrome
+              target: /decisions-determine-destiny
+              text: decisions-determine-destiny
+        content/optionality:
+            - source: content/optionality
+              target: /_index
+              text: index
+        content/paradox-of-epicurus:
+            - source: content/paradox-of-epicurus
+              target: /_index
+              text: index
+        content/pareto-principle:
+            - source: content/pareto-principle
+              target: /1%25-rule
+              text: 1%-rule
+        content/perception:
+            - source: content/perception
+              target: /cognitive-functions
+              text: cognitive-functions
+            - source: content/perception
+              target: /intuition
+              text: intuition
+            - source: content/perception
+              target: /judgment
+              text: judgment
+            - source: content/perception
+              target: /carl-jung
+              text: Carl Jung
+        content/platoism:
+            - source: content/platoism
+              target: /the-republic
+              text: The Republic
+        content/primal-inclination-strategy:
+            - source: content/primal-inclination-strategy
+              target: /MOC_Marketing
+              text: MOC_Marketing
+        content/private/Dimonstratzione:
+            - source: content/private/Dimonstratzione
+              target: /vinci-principles
+              text: vinci-principles
+        content/private/ENTJ:
+            - source: content/private/ENTJ
+              target: /private/Te
+              text: Te
+            - source: content/private/ENTJ
+              target: /private/INTJ
+              text: INTJ
+        content/private/INTJ:
+            - source: content/private/INTJ
+              target: /_index
+              text: index
+        content/private/Te:
+            - source: content/private/Te
+              target: /thinking
+              text: thinking
+        content/private/Ti:
+            - source: content/private/Ti
+              target: /thinking
+              text: thinking
+            - source: content/private/Ti
+              target: /private/Te
+              text: Te
+            - source: content/private/Ti
+              target: /private/ENTJ
+              text: ENTJ
+            - source: content/private/Ti
+              target: /carl-jung
+              text: Carl%20Jung
+        content/private/Timestamps/21-08-01_Su:
+            - source: content/private/Timestamps/21-08-01_Su
+              target: /digital-garden
+              text: Digital Garden
+            - source: content/private/Timestamps/21-08-01_Su
+              target: /galls-law
+              text: Gall's Law
+            - source: content/private/Timestamps/21-08-01_Su
+              target: /first-principles-thinking
+              text: first-principles-thinking
+            - source: content/private/Timestamps/21-08-01_Su
+              target: /daniel-goleman
+              text: Daniel Goleman
+        content/private/Timestamps/21-08-03_Tu:
+            - source: content/private/Timestamps/21-08-03_Tu
+              target: /Haruki-Murakami
+              text: Haruki-Murakami
+            - source: content/private/Timestamps/21-08-03_Tu
+              target: /kuleshov-effect
+              text: Kuleshov Effect
+            - source: content/private/Timestamps/21-08-03_Tu
+              target: /two-words
+              text: two-words
+        content/private/Timestamps/21-08-07_Sa:
+            - source: content/private/Timestamps/21-08-07_Sa
+              target: /one-percent
+              text: one-percent
+            - source: content/private/Timestamps/21-08-07_Sa
+              target: /hoea
+              text: hoea
+        content/private/Timestamps/21-08-08_Su:
+            - source: content/private/Timestamps/21-08-08_Su
+              target: /The%20School%20of%20Life
+              text: The School of Life
+            - source: content/private/Timestamps/21-08-08_Su
+              target: /memory-palace
+              text: memory palace
+        content/private/Timestamps/21-08-09_Mo:
+            - source: content/private/Timestamps/21-08-09_Mo
+              target: /first-principles-thinking
+              text: first-principles-thinking
+        content/probability:
+            - source: content/probability
+              target: /bayesian-probability
+              text: bayesian probability
+            - source: content/probability
+              target: /mathematics
+              text: mathematics
+        content/product-design:
+            - source: content/product-design
+              target: /_index
+              text: index
+        content/product-of-experts:
+            - source: content/product-of-experts
+              target: /karl-friston
+              text: karl-friston
+        content/puzzle-exploration-curiosity:
+            - source: content/puzzle-exploration-curiosity
+              target: /immersive-experiences
+              text: immersive-experiences
+            - source: content/puzzle-exploration-curiosity
+              target: /digital-garden
+              text: digital garden
+            - source: content/puzzle-exploration-curiosity
+              target: /MOC_design
+              text: design
+            - source: content/puzzle-exploration-curiosity
+              target: /MOC_Marketing
+              text: marketing
+            - source: content/puzzle-exploration-curiosity
+              target: /copywriting
+              text: copywriting
+            - source: content/puzzle-exploration-curiosity
+              target: /MOC_design
+              text: MOC_design
+        content/quantum-computing:
+            - source: content/quantum-computing
+              target: /linear-algebra
+              text: linear-algebra
+        content/red-queen-effect:
+            - source: content/red-queen-effect
+              target: /_index
+              text: index
+            - source: content/red-queen-effect
+              target: /temple-of-design
+              text: temple-of-design
+        content/refraction-thinking:
+            - source: content/refraction-thinking
+              target: /_index
+              text: _index
+            - source: content/refraction-thinking
+              target: /limiting-beliefs
+              text: limiting-beliefs
+            - source: content/refraction-thinking
+              target: /Design
+              text: Design
+            - source: content/refraction-thinking
+              target: /the-medium-is-the-message
+              text: the-medium-is-the-message
+            - source: content/refraction-thinking
+              target: /carl-jung
+              text: carl-jung
+            - source: content/refraction-thinking
+              target: /first-principles-thinking
+              text: first-principles-thinking
+            - source: content/refraction-thinking
+              target: /map-territory-relation
+              text: a map is not the territory
+        content/richard-feynman:
+            - source: content/richard-feynman
+              target: /_index
+              text: index
+            - source: content/richard-feynman
+              target: /feynman-technique
+              text: feynman technique
+        content/save-what-speaks:
+            - source: content/save-what-speaks
+              target: /learn-in-public
+              text: learn in public
+        content/scenius:
+            - source: content/scenius
+              target: /learn-in-public
+              text: learn-in-public
+        content/sensation:
+            - source: content/sensation
+              target: /_index
+              text: index
+            - source: content/sensation
+              target: /intuition
+              text: intuition
+            - source: content/sensation
+              target: /private/Se
+              text: Se
+        content/significance-of-aesthetic:
+            - source: content/significance-of-aesthetic
+              target: /_index
+              text: index
+            - source: content/significance-of-aesthetic
+              target: /social-signaling
+              text: social signaling
+            - source: content/significance-of-aesthetic
+              target: /refraction-thinking
+              text: refraction thinking
+            - source: content/significance-of-aesthetic
+              target: /decisions-determine-destiny
+              text: decisions-determine-destiny
+        content/smart-notes:
+            - source: content/smart-notes
+              target: /_index
+              text: index
+            - source: content/smart-notes
+              target: /emergent-knowledge
+              text: emergent knowledge
+            - source: content/smart-notes
+              target: /save-what-speaks
+              text: save what speaks
+            - source: content/smart-notes
+              target: /note-symbols
+              text: note symbols
+        content/social-signaling:
+            - source: content/social-signaling
+              target: /significance-of-aesthetic
+              text: significance-of-aesthetic
+            - source: content/social-signaling
+              target: /books/Sapiens
+              text: Sapiens
+            - source: content/social-signaling
+              target: /the-masks-we-wear
+              text: the masks we wear
+        content/spirituality:
+            - source: content/spirituality
+              target: /_index
+              text: index
+            - source: content/spirituality
+              target: /buddhism
+              text: buddhism
+        content/statistical-parametric-mapping:
+            - source: content/statistical-parametric-mapping
+              target: /voxel-based-morphometry
+              text: voxel-based-morphometry
+        content/still-waters:
+            - source: content/still-waters
+              target: /introversion
+              text: introversion
+            - source: content/still-waters
+              target: /feeling
+              text: feeling
+            - source: content/still-waters
+              target: /shakespeare
+              text: shakespeare
+        content/stoicism:
+            - source: content/stoicism
+              target: /_index
+              text: index
+        content/synthetic-apriori-knowledge:
+            - source: content/synthetic-apriori-knowledge
+              target: /judgment
+              text: judgment
+            - source: content/synthetic-apriori-knowledge
+              target: /analytic-judgments
+              text: analytic-judgments
+            - source: content/synthetic-apriori-knowledge
+              target: /synthetic-judgments
+              text: synthetic-judgments
+            - source: content/synthetic-apriori-knowledge
+              target: /immanuel-kant
+              text: immanuel-kant
+            - source: content/synthetic-apriori-knowledge
+              target: /apriori
+              text: apriori
+            - source: content/synthetic-apriori-knowledge
+              target: /aposteriori
+              text: aposteriori
+        content/systematic-inventive-thinking:
+            - source: content/systematic-inventive-thinking
+              target: /convergent-thinking
+              text: Convergent Thinking
+            - source: content/systematic-inventive-thinking
+              target: /parkinsons-law
+              text: Parkinson's Law
+            - source: content/systematic-inventive-thinking
+              target: /40-inventive-principles
+              text: 40-inventive-principles
+            - source: content/systematic-inventive-thinking
+              target: /freedom-of-constraints
+              text: freedom-of-constraints
+        content/templates/post:
+            - source: content/templates/post
+              target: /_index
+              text: index
+        content/temple-of-design:
+            - source: content/temple-of-design
+              target: /_index
+              text: index
+            - source: content/temple-of-design
+              target: /death-of-design
+              text: death-of-design
+        content/the-masks-we-wear:
+            - source: content/the-masks-we-wear
+              target: /persona
+              text: persona
+            - source: content/the-masks-we-wear
+              target: /MBTI
+              text: MBTI
+        content/the-republic:
+            - source: content/the-republic
+              target: /_index
+              text: index
+        content/theme-observation:
+            - source: content/theme-observation
+              target: /curiosit%C3%A0
+              text: curiosità
+            - source: content/theme-observation
+              target: /perception
+              text: perception
+        content/theory-of-constraints:
+            - source: content/theory-of-constraints
+              target: /_index
+              text: index
+            - source: content/theory-of-constraints
+              target: /pleasure-of-challenge
+              text: pleasure-of-challenge
+        content/thinking:
+            - source: content/thinking
+              target: /carl-jung
+              text: carl-jung
+            - source: content/thinking
+              target: /judgment
+              text: judgment
+            - source: content/thinking
+              target: /private/Te
+              text: Te
+            - source: content/thinking
+              target: /cognitive-functions
+              text: cognitive-functions
+            - source: content/thinking
+              target: /vinci-principles
+              text: 7 Principles of da Vinci
+            - source: content/thinking
+              target: /critical-thinking
+              text: Critical Thinking
+            - source: content/thinking
+              target: /cognition
+              text: cognition
+            - source: content/thinking
+              target: /first-principles-thinking
+              text: first-principles-thinking
+        content/thinking-in-maps:
+            - source: content/thinking-in-maps
+              target: /memory-palace
+              text: Memory Palace
+            - source: content/thinking-in-maps
+              target: /vinci
+              text: vinci
+            - source: content/thinking-in-maps
+              target: /polymath-book
+              text: polymath-book
+            - source: content/thinking-in-maps
+              target: /illusion-of-specialization
+              text: Illusion of Specialization
+            - source: content/thinking-in-maps
+              target: /markov-blanket
+              text: markov-blanket
+            - source: content/thinking-in-maps
+              target: /memory-palace
+              text: memory-palace
+        content/three.js:
+            - source: content/three.js
+              target: /_index
+              text: index
+        content/time-value-of-shipping:
+            - source: content/time-value-of-shipping
+              target: /_index
+              text: index
+        content/train-perception:
+            - source: content/train-perception
+              target: /theme-observation
+              text: theme-observation
+            - source: content/train-perception
+              target: /perception
+              text: perception
+        content/transmissionism:
+            - source: content/transmissionism
+              target: /continuous-learning
+              text: continuous-learning
+        content/two-words:
+            - source: content/two-words
+              target: /apple
+              text: Apple
+            - source: content/two-words
+              target: /infinite-games
+              text: Infinite Games
+            - source: content/two-words
+              target: /Atomicity
+              text: Atomicity
+            - source: content/two-words
+              target: /purple-cow
+              text: Purple Cow
+        content/vinci:
+            - source: content/vinci
+              target: /vinci-principles
+              text: vinci-principles
+            - source: content/vinci
+              target: /renaissance-man
+              text: Renaissance Man
+        content/vinci-principles:
+            - source: content/vinci-principles
+              target: /private/Dimonstratzione
+              text: Dimonstratzione
+            - source: content/vinci-principles
+              target: /Sfumato
+              text: Sfumato
+            - source: content/vinci-principles
+              target: /Arte/Scienza
+              text: Arte/Scienza
+            - source: content/vinci-principles
+              target: /Corporalita
+              text: Corporalita
+            - source: content/vinci-principles
+              target: /books/How-to-Think-Like-Leonardo-da-Vinci
+              text: How-to-Think-Like-Leonardo-da-Vinci
+            - source: content/vinci-principles
+              target: /curiosità
+              text: curiosità
+        content/voxel-based-morphometry:
+            - source: content/voxel-based-morphometry
+              target: /hippocampus
+              text: Hippocampus
+    backlinks:
+        /_index:
+            - source: content/002MOC_outputs
+              target: /_index
+              text: index
+            - source: content/003MOC_concepts
+              target: /_index
+              text: index
+            - source: content/005MOC_sources
+              target: /_index
+              text: _Index
+            - source: content/010MOC_PKM
+              target: /_index
+              text: index
+            - source: content/3d-design
+              target: /_index
+              text: index
+            - source: content/Aesthetics
+              target: /_index
+              text: index
+            - source: content/Atoms
+              target: /_index
+              text: index
+            - source: content/Logic
+              target: /_index
+              text: index
+            - source: content/MBTI
+              target: /_index
+              text: index
+            - source: content/MOC Cosmology
+              target: /_index
+              text: index
+            - source: content/MOC_Communication
+              target: /_index
+              text: index
+            - source: content/MOC_Marketing
+              target: /_index
+              text: index
+            - source: content/MOC_Philosophy
+              target: /_index
+              text: index
+            - source: content/MOC_Programming
+              target: /_index
+              text: index
+            - source: content/MOC_literature
+              target: /_index
+              text: index
+            - source: content/MOC_productivity
+              target: /_index
+              text: index
+            - source: content/MOC_productmgmt
+              target: /_index
+              text: index
+            - source: content/Memetic Evolution
+              target: /_index
+              text: index
+            - source: content/The School of Life
+              target: /_index
+              text: index
+            - source: content/WebGL
+              target: /_index
+              text: index
+            - source: content/_now
+              target: /_index
+              text: index
+            - source: content/_workbench
+              target: /_index
+              text: index
+            - source: content/anti-marketing
+              target: /_index
+              text: index
+            - source: content/archetypes
+              target: /_index
+              text: index
+            - source: content/books/how-to-read-a-book
+              target: /_index
+              text: index
+            - source: content/buddhism
+              target: /_index
+              text: index
+            - source: content/carl-jung
+              target: /_index
+              text: index
+            - source: content/cognitive-functions
+              target: /_index
+              text: index
+            - source: content/complexity-then-simplicity
+              target: /_index
+              text: _index
+            - source: content/consciousness-attitudes
+              target: /_index
+              text: index
+            - source: content/creative-code
+              target: /_index
+              text: index
+            - source: content/creativity
+              target: /_index
+              text: index
+            - source: content/death-of-design
+              target: /_index
+              text: index
+            - source: content/epicureanism
+              target: /_index
+              text: index
+            - source: content/extroversion
+              target: /_index
+              text: index
+            - source: content/feynman-technique
+              target: /_index
+              text: index
+            - source: content/first-principles-thinking
+              target: /_index
+              text: index
+            - source: content/graphic-design
+              target: /_index
+              text: index
+            - source: content/hedonism
+              target: /_index
+              text: index
+            - source: content/immersive-experiences
+              target: /_index
+              text: index
+            - source: content/internet
+              target: /_index
+              text: index
+            - source: content/intuition
+              target: /_index
+              text: index
+            - source: content/inversion
+              target: /_index
+              text: index
+            - source: content/judgment
+              target: /_index
+              text: index
+            - source: content/learn-in-public
+              target: /_index
+              text: _index
+            - source: content/library
+              target: /_index
+              text: index
+            - source: content/memory-palace
+              target: /_index
+              text: index
+            - source: content/mental-models
+              target: /_index
+              text: index
+            - source: content/motion-design
+              target: /_index
+              text: index
+            - source: content/munger-two-step
+              target: /_index
+              text: index
+            - source: content/optionality
+              target: /_index
+              text: index
+            - source: content/paradox-of-epicurus
+              target: /_index
+              text: index
+            - source: content/private/INTJ
+              target: /_index
+              text: index
+            - source: content/product-design
+              target: /_index
+              text: index
+            - source: content/red-queen-effect
+              target: /_index
+              text: index
+            - source: content/refraction-thinking
+              target: /_index
+              text: _index
+            - source: content/richard-feynman
+              target: /_index
+              text: index
+            - source: content/sensation
+              target: /_index
+              text: index
+            - source: content/significance-of-aesthetic
+              target: /_index
+              text: index
+            - source: content/smart-notes
+              target: /_index
+              text: index
+            - source: content/spirituality
+              target: /_index
+              text: index
+            - source: content/stoicism
+              target: /_index
+              text: index
+            - source: content/templates/post
+              target: /_index
+              text: index
+            - source: content/temple-of-design
+              target: /_index
+              text: index
+            - source: content/the-republic
+              target: /_index
+              text: index
+            - source: content/theory-of-constraints
+              target: /_index
+              text: index
+            - source: content/three.js
+              target: /_index
+              text: index
+            - source: content/time-value-of-shipping
+              target: /_index
+              text: index
+        /1%25-rule:
+            - source: content/pareto-principle
+              target: /1%25-rule
+              text: 1%-rule
+        /001MOC_mindset:
+            - source: content/
+              target: /001MOC_mindset
+              text: mindsets
+        /3c-craftery:
+            - source: content/WebGL
+              target: /3c-craftery
+              text: 3c-craftery
+        /3d-design:
+            - source: content/MOC_design
+              target: /3d-design
+              text: 3d-design
+        /003MOC_concepts:
+            - source: content/
+              target: /003MOC_concepts
+              text: concepts
+        /004MOC_interests:
+            - source: content/consciousness-attitudes
+              target: /004MOC_interests
+              text: '[Interests'
+        /010MOC_PKM:
+            - source: content/004MOC_interests
+              target: /010MOC_PKM
+              text: PKM,
+        /40-inventive-principles:
+            - source: content/inventive-problem-solving
+              target: /40-inventive-principles
+              text: 40-inventive-principles
+            - source: content/systematic-inventive-thinking
+              target: /40-inventive-principles
+              text: 40-inventive-principles
+        /Aesthetics:
+            - source: content/MOC_Philosophy
+              target: /Aesthetics
+              text: Aesthetics
+        /Archetypes:
+            - source: content/Tradition builds intuition.
+              target: /Archetypes
+              text: Archetypes
+        /Arte/Scienza:
+            - source: content/vinci-principles
+              target: /Arte/Scienza
+              text: Arte/Scienza
+        /Atomicity:
+            - source: content/digital-garden
+              target: /Atomicity
+              text: Atomicity
+            - source: content/two-words
+              target: /Atomicity
+              text: Atomicity
+        /Atoms:
+            - source: content/002MOC_outputs
+              target: /Atoms
+              text: Atoms
+        /Chemistry:
+            - source: content/3c-craftery
+              target: /Chemistry
+              text: Chemistry
+        /Corporalita:
+            - source: content/vinci-principles
+              target: /Corporalita
+              text: Corporalita
+        /Design:
+            - source: content/creative-code
+              target: /Design
+              text: design
+            - source: content/refraction-thinking
+              target: /Design
+              text: Design
+        /Ethics:
+            - source: content/MOC_Philosophy
+              target: /Ethics
+              text: Ethics
+        /Haruki-Murakami:
+            - source: content/010MOC_PKM
+              target: /Haruki-Murakami
+              text: Haruki-Murakami
+            - source: content/private/Timestamps/21-08-03_Tu
+              target: /Haruki-Murakami
+              text: Haruki-Murakami
+        /Hermann%20von%20Helmholtz:
+            - source: content/bayesian-probability
+              target: /Hermann%20von%20Helmholtz
+              text: Hermann von Helmholtz
+        /Inert-Ideas:
+            - source: content/_workbench
+              target: /Inert-Ideas
+              text: inert-ideas
+            - source: content/alfred-whitehead
+              target: /Inert-Ideas
+              text: Inert-Ideas
+        /LOA:
+            - source: content/active-inference
+              target: /LOA
+              text: LOA
+        /Learning:
+            - source: content/active-inference
+              target: /Learning
+              text: Learning
+        /Logic:
+            - source: content/MOC_Philosophy
+              target: /Logic
+              text: Logic
+        /MBTI:
+            - source: content/cognitive-functions
+              target: /MBTI
+              text: MBTI
+            - source: content/consciousness-attitudes
+              target: /MBTI
+              text: MBTI
+            - source: content/the-masks-we-wear
+              target: /MBTI
+              text: MBTI
+        /MOC_Marketing:
+            - source: content/immersive-experiences
+              target: /MOC_Marketing
+              text: Marketing
+            - source: content/primal-inclination-strategy
+              target: /MOC_Marketing
+              text: MOC_Marketing
+            - source: content/puzzle-exploration-curiosity
+              target: /MOC_Marketing
+              text: marketing
+        /MOC_Philosophy:
+            - source: content/004MOC_interests
+              target: /MOC_Philosophy
+              text: philosophy,
+        /MOC_Programming:
+            - source: content/004MOC_interests
+              target: /MOC_Programming
+              text: programming,
+        /MOC_design:
+            - source: content/002MOC_outputs
+              target: /MOC_design
+              text: Design
+            - source: content/004MOC_interests
+              target: /MOC_design
+              text: design
+            - source: content/puzzle-exploration-curiosity
+              target: /MOC_design
+              text: design
+            - source: content/puzzle-exploration-curiosity
+              target: /MOC_design
+              text: MOC_design
+        /MOC_literature:
+            - source: content/004MOC_interests
+              target: /MOC_literature
+              text: literature,
+        /MOC_productmgmt:
+            - source: content/004MOC_interests
+              target: /MOC_productmgmt
+              text: product management,
+        /Morals:
+            - source: content/extroversion
+              target: /Morals
+              text: Morals
+        /Optimization:
+            - source: content/active-inference
+              target: /Optimization
+              text: Optimization
+        /Robert-Greene:
+            - source: content/books/Mastery
+              target: /Robert-Greene
+              text: Robert Greene
+        /Sfumato:
+            - source: content/vinci-principles
+              target: /Sfumato
+              text: Sfumato
+        /Stream%20of%20Consciousness:
+            - source: content/curiosità
+              target: /Stream%20of%20Consciousness
+              text: Stream of Consciousness
+        /Surrealism:
+            - source: content/free-energy-principle
+              target: /Surrealism
+              text: Surrealism
+        /The%20School%20of%20Life:
+            - source: content/010MOC_PKM
+              target: /The%20School%20of%20Life
+              text: The School of Life
+            - source: content/private/Timestamps/21-08-08_Su
+              target: /The%20School%20of%20Life
+              text: The School of Life
+        /Tradition-builds-intuition:
+            - source: content/intuition
+              target: /Tradition-builds-intuition
+              text: Tradition-builds-intuition
+        /WebGL:
+            - source: content/creative-code
+              target: /WebGL
+              text: WebGL
+            - source: content/dogstudio
+              target: /WebGL
+              text: WebGL
+        /active-inference:
+            - source: content/free-energy-principle
+              target: /active-inference
+              text: active-inference
+        /addiction-by-design:
+            - source: content/library
+              target: /addiction-by-design
+              text: Addiction by Design
+        /allegory-cave:
+            - source: content/idealism
+              target: /allegory-cave
+              text: allegory of the cave
+            - source: content/map-territory-relation
+              target: /allegory-cave
+              text: allegory of the cave
+            - source: content/neuro-associative-conditioning
+              target: /allegory-cave
+              text: allegory of the cave
+        /analytic-judgments:
+            - source: content/synthetic-apriori-knowledge
+              target: /analytic-judgments
+              text: analytic-judgments
+        /anti-marketing:
+            - source: content/MOC_Marketing
+              target: /anti-marketing
+              text: anti-marketing
+        /aposteriori:
+            - source: content/synthetic-apriori-knowledge
+              target: /aposteriori
+              text: aposteriori
+        /apple:
+            - source: content/two-words
+              target: /apple
+              text: Apple
+        /apprenticeship:
+            - source: content/books/Mastery
+              target: /apprenticeship
+              text: apprenticeship
+            - source: content/complexity-then-simplicity
+              target: /apprenticeship
+              text: apprenticeship
+            - source: content/ideal-apprenticeship
+              target: /apprenticeship
+              text: apprenticeship
+        /apriori:
+            - source: content/synthetic-apriori-knowledge
+              target: /apriori
+              text: apriori
+        /availability-bias:
+            - source: content/mental-models
+              target: /availability-bias
+              text: availability-bias
+        /axiom:
+            - source: content/first-principles-thinking
+              target: /axiom
+              text: axioms
+        /baader-meinhof:
+            - source: content/cognition
+              target: /baader-meinhof
+              text: baader-meinhof
+        /bayesian-probability:
+            - source: content/feynman-technique
+              target: /bayesian-probability
+              text: bayesian probability
+            - source: content/probability
+              target: /bayesian-probability
+              text: bayesian probability
+        /bayesian-selectiveattention-article:
+            - source: content/active-inference
+              target: /bayesian-selectiveattention-article
+              text: bayesian-selectiveattention-article
+        /books/1Q84:
+            - source: content/library
+              target: /books/1Q84
+              text: 1Q84
+        /books/A-New-Earth:
+            - source: content/library
+              target: /books/A-New-Earth
+              text: A New Earth
+        /books/Atomic-Habits:
+            - source: content/library
+              target: /books/Atomic-Habits
+              text: Atomic Habits
+        /books/Awaken-the-Giant-Within:
+            - source: content/decisions-determine-destiny
+              target: /books/Awaken-the-Giant-Within
+              text: Awaken-the-Giant-Within
+        /books/Be-Here-Now:
+            - source: content/extroversion
+              target: /books/Be-Here-Now
+              text: Be Here Now
+            - source: content/library
+              target: /books/Be-Here-Now
+              text: Be Here Now
+        /books/Cant-Hurt-Me:
+            - source: content/library
+              target: /books/Cant-Hurt-Me
+              text: Cant Hurt Me
+        /books/Circe:
+            - source: content/library
+              target: /books/Circe
+              text: Circe
+        /books/Creativity-Flow:
+            - source: content/great-prophet-theory
+              target: /books/Creativity-Flow
+              text: Creativity-Flow
+            - source: content/library
+              target: /books/Creativity-Flow
+              text: Creativity - Flow
+        /books/Deep-Work:
+            - source: content/library
+              target: /books/Deep-Work
+              text: Deep Work
+        /books/Essentialism:
+            - source: content/library
+              target: /books/Essentialism
+              text: Essentialism
+        /books/Getting-Things-Done:
+            - source: content/library
+              target: /books/Getting-Things-Done
+              text: Getting Things Done
+        /books/Great-Thinkers:
+            - source: content/library
+              target: /books/Great-Thinkers
+              text: Great Thinkers
+        /books/High-Performance-Habits:
+            - source: content/library
+              target: /books/High-Performance-Habits
+              text: High Performance Habits
+        /books/Homo-Deus:
+            - source: content/library
+              target: /books/Homo-Deus
+              text: Homo Deus
+        /books/How-to-Think-Like-Leonardo-da-Vinci:
+            - source: content/curiosità
+              target: /books/How-to-Think-Like-Leonardo-da-Vinci
+              text: How-to-Think-Like-Leonardo-da-Vinci
+            - source: content/library
+              target: /books/How-to-Think-Like-Leonardo-da-Vinci
+              text: How to Think Like Leonardo da Vinci
+            - source: content/vinci-principles
+              target: /books/How-to-Think-Like-Leonardo-da-Vinci
+              text: How-to-Think-Like-Leonardo-da-Vinci
+        /books/How-to-Think-More-Effectively:
+            - source: content/library
+              target: /books/How-to-Think-More-Effectively
+              text: How to Think More Effectively
+        /books/Illusions-The-Adventures-of-a-Reluctant-Messiah:
+            - source: content/library
+              target: /books/Illusions-The-Adventures-of-a-Reluctant-Messiah
+              text: Illusions The Adventures of a Reluctant Messiah
+        /books/Jade-City:
+            - source: content/library
+              target: /books/Jade-City
+              text: Jade City
+        /books/Kafka-on-the-Shore:
+            - source: content/Haruki-Murakami
+              target: /books/Kafka-on-the-Shore
+              text: Kafka-on-the-Shore
+            - source: content/library
+              target: /books/Kafka-on-the-Shore
+              text: Kafka on the Shore
+        /books/Mans-Search-for-Meaning:
+            - source: content/library
+              target: /books/Mans-Search-for-Meaning
+              text: Mans Search for Meaning
+        /books/Mastery:
+            - source: content/darwinian-strategy
+              target: /books/Mastery
+              text: Mastery
+            - source: content/knowledge-power
+              target: /books/Mastery
+              text: Mastery
+            - source: content/library
+              target: /books/Mastery
+              text: Mastery
+        /books/Meditations:
+            - source: content/library
+              target: /books/Meditations
+              text: Meditations
+        /books/No%20Excuses!:
+            - source: content/library
+              target: /books/No%20Excuses!
+              text: No Excuses!
+        /books/Sapiens:
+            - source: content/Tradition builds intuition.
+              target: /books/Sapiens
+              text: Sapiens
+            - source: content/library
+              target: /books/Sapiens
+              text: Sapiens
+            - source: content/social-signaling
+              target: /books/Sapiens
+              text: Sapiens
+        /books/Steve%20Jobs:
+            - source: content/library
+              target: /books/Steve%20Jobs
+              text: Steve Jobs
+        /books/The%20Magic%20of%20Thinking%20Big:
+            - source: content/library
+              target: /books/The%20Magic%20of%20Thinking%20Big
+              text: The Magic of Thinking Big
+        /books/The%20War%20Of%20Art:
+            - source: content/library
+              target: /books/The%20War%20Of%20Art
+              text: The War Of Art
+        /books/The%2015%20Invaluable%20Laws%20of%20Growth:
+            - source: content/library
+              target: /books/The%2015%20Invaluable%20Laws%20of%20Growth
+              text: The 15 Invaluable Laws of Growth
+        /books/The-Essence-of-Jungs-Psychology-and-Tibetan-Buddhism:
+            - source: content/library
+              target: /books/The-Essence-of-Jungs-Psychology-and-Tibetan-Buddhism
+              text: The Essence of Jung's Psychology and Tibetan Buddhism
+        /books/The-Mistborn-Trilogy:
+            - source: content/library
+              target: /books/The-Mistborn-Trilogy
+              text: The Mistborn Trilogy
+        /books/The-Power-of-Full-Engagement:
+            - source: content/library
+              target: /books/The-Power-of-Full-Engagement
+              text: The Power of Full Engagement
+        /books/The-Talent-Code:
+            - source: content/library
+              target: /books/The-Talent-Code
+              text: The Talent Code
+        /books/This%20Is%20Marketing:
+            - source: content/library
+              target: /books/This%20Is%20Marketing
+              text: This Is Marketing
+        /books/What-I-Talk-About-When-I-Talk-About-Running:
+            - source: content/Haruki-Murakami
+              target: /books/What-I-Talk-About-When-I-Talk-About-Running
+              text: What-I-Talk-About-When-I-Talk-About-Running
+            - source: content/library
+              target: /books/What-I-Talk-About-When-I-Talk-About-Running
+              text: What I Talk About When I Talk About Running
+        /books/history-of-nearly-everything:
+            - source: content/library
+              target: /books/history-of-nearly-everything
+              text: history of nearly everything
+        /books/how-to-read-a-book:
+            - source: content/MOC_literature
+              target: /books/how-to-read-a-book
+              text: how to read a book
+        /books/intuition-pumps:
+            - source: content/library
+              target: /books/intuition-pumps
+              text: Intuition Pumps and Other Tools for Thinking
+        /books/power-of-now:
+            - source: content/001MOC_mindset
+              target: /books/power-of-now
+              text: power of now
+            - source: content/epicureanism
+              target: /books/power-of-now
+              text: power-of-now
+            - source: content/library
+              target: /books/power-of-now
+              text: power of now
+        /books/the-order-of-time:
+            - source: content/library
+              target: /books/the-order-of-time
+              text: The Order of Time
+        /buddhism:
+            - source: content/epicureanism
+              target: /buddhism
+              text: buddhism
+            - source: content/spirituality
+              target: /buddhism
+              text: buddhism
+        /carl-jung:
+            - source: content/MBTI
+              target: /carl-jung
+              text: carl jung
+            - source: content/bayesian-probability
+              target: /carl-jung
+              text: jung
+            - source: content/feeling
+              target: /carl-jung
+              text: carl-jung
+            - source: content/perception
+              target: /carl-jung
+              text: Carl Jung
+            - source: content/private/Ti
+              target: /carl-jung
+              text: Carl%20Jung
+            - source: content/refraction-thinking
+              target: /carl-jung
+              text: carl-jung
+            - source: content/thinking
+              target: /carl-jung
+              text: carl-jung
+        /city-of-god:
+            - source: content/MOC_literature
+              target: /city-of-god
+              text: city of god
+        /clear-thinking:
+            - source: content/010MOC_PKM
+              target: /clear-thinking
+              text: clear-thinking
+        /cognition:
+            - source: content/thinking
+              target: /cognition
+              text: cognition
+        /cognitive-functions:
+            - source: content/MBTI
+              target: /cognitive-functions
+              text: cognitive functions
+            - source: content/feeling
+              target: /cognitive-functions
+              text: cognitive-functions
+            - source: content/perception
+              target: /cognitive-functions
+              text: cognitive-functions
+            - source: content/thinking
+              target: /cognitive-functions
+              text: cognitive-functions
+        /collective-unconscious:
+            - source: content/intuition
+              target: /collective-unconscious
+              text: collective unconscious
+        /color:
+            - source: content/color-perception-and-emotions
+              target: /color
+              text: color
+        /color-perception-and-emotions:
+            - source: content/color
+              target: /color-perception-and-emotions
+              text: color-perception-and-emotions
+        /combinational-creativity:
+            - source: content/creativity
+              target: /combinational-creativity
+              text: combinational creativity
+        /consciousness-attitudes:
+            - source: content/MBTI
+              target: /consciousness-attitudes
+              text: consciousness attitudes
+        /consciousness-of-abstracting:
+            - source: content/alfred-korzybkski
+              target: /consciousness-of-abstracting
+              text: consciousness-of-abstracting
+            - source: content/general-semantics
+              target: /consciousness-of-abstracting
+              text: consciousness-of-abstracting
+        /contemplate-questions:
+            - source: content/curiosità
+              target: /contemplate-questions
+              text: contemplate-questions
+        /continuous-learning:
+            - source: content/curiosità
+              target: /continuous-learning
+              text: continuous-learning
+            - source: content/transmissionism
+              target: /continuous-learning
+              text: continuous-learning
+        /convergent-thinking:
+            - source: content/systematic-inventive-thinking
+              target: /convergent-thinking
+              text: Convergent Thinking
+        /copywriting:
+            - source: content/MOC_Marketing
+              target: /copywriting
+              text: copywriting
+            - source: content/puzzle-exploration-curiosity
+              target: /copywriting
+              text: copywriting
+        /creative-code:
+            - source: content/MOC_Programming
+              target: /creative-code
+              text: creative code
+        /creative-turbulence:
+            - source: content/3c-craftery
+              target: /creative-turbulence
+              text: creative-turbulence
+        /creativity:
+            - source: content/001MOC_mindset
+              target: /creativity
+              text: creativity
+            - source: content/003MOC_concepts
+              target: /creativity
+              text: creativity
+        /critical-thinking:
+            - source: content/criticalthinking-vs-overthinking
+              target: /critical-thinking
+              text: Critical thinking
+            - source: content/thinking
+              target: /critical-thinking
+              text: Critical Thinking
+        /criticalthinking-vs-overthinking:
+            - source: content/critical-thinking
+              target: /criticalthinking-vs-overthinking
+              text: criticalthinking-vs-overthinking
+        /cryptocurrency:
+            - source: content/crypto-mining
+              target: /cryptocurrency
+              text: cryptocurrency
+        /curiosit%C3%A0:
+            - source: content/theme-observation
+              target: /curiosit%C3%A0
+              text: curiosità
+        /curiosità:
+            - source: content/3c-craftery
+              target: /curiosità
+              text: curiosità
+            - source: content/contemplate-questions
+              target: /curiosità
+              text: curiosità
+            - source: content/vinci-principles
+              target: /curiosità
+              text: curiosità
+        /daniel-goleman:
+            - source: content/private/Timestamps/21-08-01_Su
+              target: /daniel-goleman
+              text: Daniel Goleman
+        /dantes-inferno:
+            - source: content/MOC_literature
+              target: /dantes-inferno
+              text: dantes inferno
+        /death-of-design:
+            - source: content/temple-of-design
+              target: /death-of-design
+              text: death-of-design
+        /decisions-determine-destiny:
+            - source: content/books/Awaken-the-Giant-Within
+              target: /decisions-determine-destiny
+              text: Decisions determine destiny
+            - source: content/niagara-syndrome
+              target: /decisions-determine-destiny
+              text: decisions-determine-destiny
+            - source: content/significance-of-aesthetic
+              target: /decisions-determine-destiny
+              text: decisions-determine-destiny
+        /deductive-reasoning:
+            - source: content/inductive-reasoning
+              target: /deductive-reasoning
+              text: Deductive Reasoning
+        /digital-garden:
+            - source: content/private/Timestamps/21-08-01_Su
+              target: /digital-garden
+              text: Digital Garden
+            - source: content/puzzle-exploration-curiosity
+              target: /digital-garden
+              text: digital garden
+        /diminishing-returns:
+            - source: content/MOC_productivity
+              target: /diminishing-returns
+              text: law of diminishing returns
+            - source: content/mental-models
+              target: /diminishing-returns
+              text: diminishing-returns
+        /divine-comedy:
+            - source: content/MOC_literature
+              target: /divine-comedy
+              text: divine comedy
+        /elaborative-encoding:
+            - source: content/continuous-learning
+              target: /elaborative-encoding
+              text: elaborative-encoding
+        /elon-musk:
+            - source: content/feynman-technique
+              target: /elon-musk
+              text: elon-musk
+        /emergent-knowledge:
+            - source: content/smart-notes
+              target: /emergent-knowledge
+              text: emergent knowledge
+        /epicureanism:
+            - source: content/Aesthetics
+              target: /epicureanism
+              text: epicureanism
+        /epistemic-foraging:
+            - source: content/bayesian-selectiveattention-article
+              target: /epistemic-foraging
+              text: epistemic-foraging
+        /epistemology:
+            - source: content/MOC_Philosophy
+              target: /epistemology
+              text: Epistemology
+            - source: content/first-principles-thinking
+              target: /epistemology
+              text: Epistemology
+        /extroversion:
+            - source: content/MBTI
+              target: /extroversion
+              text: extroversion
+            - source: content/introversion
+              target: /extroversion
+              text: extroversion
+        /fall-to-systems:
+            - source: content/books/Atomic-Habits
+              target: /fall-to-systems
+              text: You don't rise to the level of your goals, you fall to the level of your systems
+            - source: content/hit-your-quality-target-with-minimum-effort
+              target: /fall-to-systems
+              text: systems
+        /feeling:
+            - source: content/still-waters
+              target: /feeling
+              text: feeling
+        /feynman-technique:
+            - source: content/richard-feynman
+              target: /feynman-technique
+              text: feynman technique
+        /first-principles-thinking:
+            - source: content/001MOC_mindset
+              target: /first-principles-thinking
+              text: first principles thinking
+            - source: content/_workbench
+              target: /first-principles-thinking
+              text: first principles thinking
+            - source: content/bayesian-probability
+              target: /first-principles-thinking
+              text: first principles thinking
+            - source: content/inductive-reasoning
+              target: /first-principles-thinking
+              text: First Principles Thinking
+            - source: content/inductive-reasoning
+              target: /first-principles-thinking
+              text: first-principles-thinking
+            - source: content/map-territory-relation
+              target: /first-principles-thinking
+              text: first-principles-thinking
+            - source: content/mental-models
+              target: /first-principles-thinking
+              text: first-principles-thinking
+            - source: content/private/Timestamps/21-08-01_Su
+              target: /first-principles-thinking
+              text: first-principles-thinking
+            - source: content/private/Timestamps/21-08-09_Mo
+              target: /first-principles-thinking
+              text: first-principles-thinking
+            - source: content/refraction-thinking
+              target: /first-principles-thinking
+              text: first-principles-thinking
+            - source: content/thinking
+              target: /first-principles-thinking
+              text: first-principles-thinking
+        /force-multiplier:
+            - source: content/learn-in-public
+              target: /force-multiplier
+              text: Force multiplier
+        /free-energy-principle:
+            - source: content/_workbench
+              target: /free-energy-principle
+              text: free energy principle
+            - source: content/active-inference
+              target: /free-energy-principle
+              text: free-energy-principle
+            - source: content/active-inference
+              target: /free-energy-principle
+              text: Free Energy Principle
+            - source: content/karl-friston
+              target: /free-energy-principle
+              text: free-energy-principle
+        /freedom-of-constraints:
+            - source: content/WebGL
+              target: /freedom-of-constraints
+              text: freedom-of-constraints
+            - source: content/_themes
+              target: /freedom-of-constraints
+              text: freedom-of-constraints
+            - source: content/systematic-inventive-thinking
+              target: /freedom-of-constraints
+              text: freedom-of-constraints
+        /future-pacing:
+            - source: content/neuro-associative-conditioning
+              target: /future-pacing
+              text: future pacing
+        /galls-law:
+            - source: content/003MOC_concepts
+              target: /galls-law
+              text: galls law
+            - source: content/private/Timestamps/21-08-01_Su
+              target: /galls-law
+              text: Gall's Law
+        /general-semantics:
+            - source: content/alfred-korzybkski
+              target: /general-semantics
+              text: general-semantics
+            - source: content/consciousness-of-abstracting
+              target: /general-semantics
+              text: general-semantics
+        /graphic-design:
+            - source: content/MOC_design
+              target: /graphic-design
+              text: graphic-design
+        /great-prophet-theory:
+            - source: content/001MOC_mindset
+              target: /great-prophet-theory
+              text: great prophet theory
+        /hedonism:
+            - source: content/epicureanism
+              target: /hedonism
+              text: hedonism
+        /hippocampus:
+            - source: content/voxel-based-morphometry
+              target: /hippocampus
+              text: Hippocampus
+        /hit-your-quality-target-with-minimum-effort:
+            - source: content/MOC_productivity
+              target: /hit-your-quality-target-with-minimum-effort
+              text: hit your quality target with minimum effort
+        /hoea:
+            - source: content/books/Atomic-Habits
+              target: /hoea
+              text: Make ideal habits obvious, easy, attractive.
+            - source: content/private/Timestamps/21-08-07_Sa
+              target: /hoea
+              text: hoea
+        /horizon-expansion:
+            - source: content/_workbench
+              target: /horizon-expansion
+              text: horizon expansion
+        /how-to-speak:
+            - source: content/MOC_Communication
+              target: /how-to-speak
+              text: how to speak
+        /how-to-speak-machine:
+            - source: content/Will technology and computers be able to replicate the human brain?
+              target: /how-to-speak-machine
+              text: how-to-speak-machine
+        /hyperuranion:
+            - source: content/idealism
+              target: /hyperuranion
+              text: hyperuranion
+        /idealism:
+            - source: content/introversion
+              target: /idealism
+              text: idealism
+        /identity-not-habits:
+            - source: content/books/Atomic-Habits
+              target: /identity-not-habits
+              text: Build your identity, not your habits.
+        /illusion-of-specialization:
+            - source: content/thinking-in-maps
+              target: /illusion-of-specialization
+              text: Illusion of Specialization
+        /immanuel-kant:
+            - source: content/synthetic-apriori-knowledge
+              target: /immanuel-kant
+              text: immanuel-kant
+        /immersive-experiences:
+            - source: content/002MOC_outputs
+              target: /immersive-experiences
+              text: Immersive-Experiences
+            - source: content/MOC_Marketing
+              target: /immersive-experiences
+              text: immersive experiences
+            - source: content/puzzle-exploration-curiosity
+              target: /immersive-experiences
+              text: immersive-experiences
+        /inductive-reasoning:
+            - source: content/first-principles-thinking
+              target: /inductive-reasoning
+              text: Inductive Reasoning
+        /infinite-games:
+            - source: content/two-words
+              target: /infinite-games
+              text: Infinite Games
+        /introversion:
+            - source: content/MBTI
+              target: /introversion
+              text: introversion
+            - source: content/consciousness-attitudes
+              target: /introversion
+              text: introversion
+            - source: content/extroversion
+              target: /introversion
+              text: introversion
+            - source: content/still-waters
+              target: /introversion
+              text: introversion
+        /intuition:
+            - source: content/perception
+              target: /intuition
+              text: intuition
+            - source: content/sensation
+              target: /intuition
+              text: intuition
+        /inventive-problem-solving:
+            - source: content/40-inventive-principles
+              target: /inventive-problem-solving
+              text: inventive-problem-solving
+        /inversion:
+            - source: content/MOC_productmgmt
+              target: /inversion
+              text: inversion
+        /judgment:
+            - source: content/MBTI
+              target: /judgment
+              text: judgment
+            - source: content/feeling
+              target: /judgment
+              text: judgment
+            - source: content/perception
+              target: /judgment
+              text: judgment
+            - source: content/synthetic-apriori-knowledge
+              target: /judgment
+              text: judgment
+            - source: content/thinking
+              target: /judgment
+              text: judgment
+        /karl-friston:
+            - source: content/product-of-experts
+              target: /karl-friston
+              text: karl-friston
+        /kuleshov-effect:
+            - source: content/private/Timestamps/21-08-03_Tu
+              target: /kuleshov-effect
+              text: Kuleshov Effect
+        /learn-in-public:
+            - source: content/
+              target: /learn-in-public
+              text: working with the garage door up.
+            - source: content/anti-marketing
+              target: /learn-in-public
+              text: learn in public
+            - source: content/save-what-speaks
+              target: /learn-in-public
+              text: learn in public
+            - source: content/scenius
+              target: /learn-in-public
+              text: learn-in-public
+        /limiting-beliefs:
+            - source: content/refraction-thinking
+              target: /limiting-beliefs
+              text: limiting-beliefs
+        /linear-algebra:
+            - source: content/quantum-computing
+              target: /linear-algebra
+              text: linear-algebra
+        /logic:
+            - source: content/first-principles-thinking
+              target: /logic
+              text: Logic
+        /machine-learning:
+            - source: content/MOC_Artificial-Intelligence
+              target: /machine-learning
+              text: machine-learning
+            - source: content/bayesian-probability
+              target: /machine-learning
+              text: machine learning
+        /map-territory-relation:
+            - source: content/alfred-korzybkski
+              target: /map-territory-relation
+              text: A map is not the territory
+            - source: content/mental-models
+              target: /map-territory-relation
+              text: a map is not the territory
+            - source: content/refraction-thinking
+              target: /map-territory-relation
+              text: a map is not the territory
+        /markov-blanket:
+            - source: content/free-energy-principle
+              target: /markov-blanket
+              text: markov-blanket
+            - source: content/thinking-in-maps
+              target: /markov-blanket
+              text: markov-blanket
+        /math:
+            - source: content/first-principles-thinking
+              target: /math
+              text: Math
+        /mathematics:
+            - source: content/idealism
+              target: /mathematics
+              text: mathematics
+            - source: content/probability
+              target: /mathematics
+              text: mathematics
+        /memory-palace:
+            - source: content/private/Timestamps/21-08-08_Su
+              target: /memory-palace
+              text: memory palace
+            - source: content/thinking-in-maps
+              target: /memory-palace
+              text: Memory Palace
+            - source: content/thinking-in-maps
+              target: /memory-palace
+              text: memory-palace
+        /mental-models:
+            - source: content/inductive-reasoning
+              target: /mental-models
+              text: Mental Models
+        /metaphysics:
+            - source: content/MOC_Philosophy
+              target: /metaphysics
+              text: Metaphysics
+        /minimalism:
+            - source: content/003MOC_concepts
+              target: /minimalism
+              text: minimalism
+        /mnemonic-medium:
+            - source: content/continuous-learning
+              target: /mnemonic-medium
+              text: mnemonic-medium
+        /motion-design:
+            - source: content/MOC_design
+              target: /motion-design
+              text: motion-design
+        /munger-two-step:
+            - source: content/map-territory-relation
+              target: /munger-two-step
+              text: munger-two-step
+            - source: content/mental-models
+              target: /munger-two-step
+              text: munger-two-step
+        /murphys-law:
+            - source: content/galls-law
+              target: /murphys-law
+              text: Murphy's Law
+        /neural-networks:
+            - source: content/MOC_Artificial-Intelligence
+              target: /neural-networks
+              text: neural-networks
+        /neuro-associative-conditioning:
+            - source: content/books/Awaken-the-Giant-Within
+              target: /neuro-associative-conditioning
+              text: Rewrite pain and pleasure.
+        /niagara-syndrome:
+            - source: content/books/Awaken-the-Giant-Within
+              target: /niagara-syndrome
+              text: Direct yourself
+        /note-symbols:
+            - source: content/010MOC_PKM
+              target: /note-symbols
+              text: note-symbols
+            - source: content/smart-notes
+              target: /note-symbols
+              text: note symbols
+        /one-percent:
+            - source: content/books/Atomic-Habits
+              target: /one-percent
+              text: 1% better everyday.
+            - source: content/private/Timestamps/21-08-07_Sa
+              target: /one-percent
+              text: one-percent
+        /optionality:
+            - source: content/003MOC_concepts
+              target: /optionality
+              text: optionality
+        /paradise-lost:
+            - source: content/MOC_literature
+              target: /paradise-lost
+              text: paradise lost
+        /paradox-of-epicurus:
+            - source: content/epicureanism
+              target: /paradox-of-epicurus
+              text: paradoxof epicurus
+        /pareto-principle:
+            - source: content/MOC_productivity
+              target: /pareto-principle
+              text: pareto principle
+            - source: content/hit-your-quality-target-with-minimum-effort
+              target: /pareto-principle
+              text: pareto-principle
+            - source: content/mental-models
+              target: /pareto-principle
+              text: pareto-principle
+        /parkinsons-law:
+            - source: content/MOC_productivity
+              target: /parkinsons-law
+              text: parkinsons law
+            - source: content/systematic-inventive-thinking
+              target: /parkinsons-law
+              text: Parkinson's Law
+        /perception:
+            - source: content/MBTI
+              target: /perception
+              text: perception
+            - source: content/theme-observation
+              target: /perception
+              text: perception
+            - source: content/train-perception
+              target: /perception
+              text: perception
+        /persona:
+            - source: content/the-masks-we-wear
+              target: /persona
+              text: persona
+        /plato:
+            - source: content/great-prophet-theory
+              target: /plato
+              text: plato
+        /pleasure-of-challenge:
+            - source: content/theory-of-constraints
+              target: /pleasure-of-challenge
+              text: pleasure-of-challenge
+        /polymath-book:
+            - source: content/thinking-in-maps
+              target: /polymath-book
+              text: polymath-book
+        /private/Dimonstratzione:
+            - source: content/vinci-principles
+              target: /private/Dimonstratzione
+              text: Dimonstratzione
+        /private/ENTJ:
+            - source: content/MBTI
+              target: /private/ENTJ
+              text: ENTJ
+            - source: content/private/Ti
+              target: /private/ENTJ
+              text: ENTJ
+        /private/Fe:
+            - source: content/feeling
+              target: /private/Fe
+              text: Fe
+        /private/Fi:
+            - source: content/feeling
+              target: /private/Fi
+              text: Fi
+        /private/INTJ:
+            - source: content/private/ENTJ
+              target: /private/INTJ
+              text: INTJ
+        /private/MOC_Astrology:
+            - source: content/intuition
+              target: /private/MOC_Astrology
+              text: astrology
+        /private/Ne:
+            - source: content/intuition
+              target: /private/Ne
+              text: Ne
+        /private/Se:
+            - source: content/sensation
+              target: /private/Se
+              text: Se
+        /private/Te:
+            - source: content/private/ENTJ
+              target: /private/Te
+              text: Te
+            - source: content/private/Ti
+              target: /private/Te
+              text: Te
+            - source: content/thinking
+              target: /private/Te
+              text: Te
+        /private/Timestamps/21-08-01_Su:
+            - source: content/010MOC_PKM
+              target: /private/Timestamps/21-08-01_Su
+              text: 21-08-01_Su
+        /probability:
+            - source: content/004MOC_interests
+              target: /probability
+              text: probability
+        /product-design:
+            - source: content/MOC_design
+              target: /product-design
+              text: product design
+            - source: content/map-territory-relation
+              target: /product-design
+              text: product-design
+        /purple-cow:
+            - source: content/two-words
+              target: /purple-cow
+              text: Purple Cow
+        /puzzle-exploration-curiosity:
+            - source: content/MOC_Marketing
+              target: /puzzle-exploration-curiosity
+              text: puzzle, exploration, curiosity
+            - source: content/_workbench
+              target: /puzzle-exploration-curiosity
+              text: puzzle-exploration-curiosity
+        /question-reframing:
+            - source: content/curiosità
+              target: /question-reframing
+              text: question-reframing
+        /refraction-thinking:
+            - source: content/010MOC_PKM
+              target: /refraction-thinking
+              text: refraction-thinking
+            - source: content/significance-of-aesthetic
+              target: /refraction-thinking
+              text: refraction thinking
+        /renaissance-man:
+            - source: content/vinci
+              target: /renaissance-man
+              text: Renaissance Man
+        /rory-sutherland:
+            - source: content/inductive-reasoning
+              target: /rory-sutherland
+              text: Rory Sutherland
+        /save-what-speaks:
+            - source: content/smart-notes
+              target: /save-what-speaks
+              text: save what speaks
+        /second-order-thinking:
+            - source: content/mental-models
+              target: /second-order-thinking
+              text: second-order-thinking
+        /sensation:
+            - source: content/free-energy-principle
+              target: /sensation
+              text: sensation
+            - source: content/intuition
+              target: /sensation
+              text: sensation
+        /shakespeare:
+            - source: content/still-waters
+              target: /shakespeare
+              text: shakespeare
+        /significance-of-aesthetic:
+            - source: content/social-signaling
+              target: /significance-of-aesthetic
+              text: significance-of-aesthetic
+        /smart-notes:
+            - source: content/001MOC_mindset
+              target: /smart-notes
+              text: smart notes
+            - source: content/010MOC_PKM
+              target: /smart-notes
+              text: smart notes
+        /social-signaling:
+            - source: content/MOC_Marketing
+              target: /social-signaling
+              text: social signaling
+            - source: content/significance-of-aesthetic
+              target: /social-signaling
+              text: social signaling
+        /statistical-parametric-mapping:
+            - source: content/karl-friston
+              target: /statistical-parametric-mapping
+              text: statistical-parametric-mapping
+        /stoicism:
+            - source: content/Logic
+              target: /stoicism
+              text: stoicism
+            - source: content/first-principles-thinking
+              target: /stoicism
+              text: stoicism
+        /summa-theologica:
+            - source: content/MOC_literature
+              target: /summa-theologica
+              text: summa theologica
+        /syllogism:
+            - source: content/first-principles-thinking
+              target: /syllogism
+              text: Syllogisms
+        /synthetic-apriori-knowledge:
+            - source: content/immanuel-kant
+              target: /synthetic-apriori-knowledge
+              text: synthetic-apriori-knowledge
+        /synthetic-judgments:
+            - source: content/synthetic-apriori-knowledge
+              target: /synthetic-judgments
+              text: synthetic-judgments
+        /systematic-inventive-thinking:
+            - source: content/creativity
+              target: /systematic-inventive-thinking
+              text: systematic inventive thinking
+        /systems-design:
+            - source: content/galls-law
+              target: /systems-design
+              text: Systems Design
+        /systems-thinking:
+            - source: content/inductive-reasoning
+              target: /systems-thinking
+              text: Systems Thinking
+        /tao-te-ching:
+            - source: content/library
+              target: /tao-te-ching
+              text: tao te ching
+            - source: content/niagara-syndrome
+              target: /tao-te-ching
+              text: tao-te-ching
+        /temple-of-design:
+            - source: content/red-queen-effect
+              target: /temple-of-design
+              text: temple-of-design
+        /the-masks-we-wear:
+            - source: content/003MOC_concepts
+              target: /the-masks-we-wear
+              text: the masks we wear
+            - source: content/social-signaling
+              target: /the-masks-we-wear
+              text: the masks we wear
+        /the-medium-is-the-message:
+            - source: content/map-territory-relation
+              target: /the-medium-is-the-message
+              text: the-medium-is-the-message
+            - source: content/refraction-thinking
+              target: /the-medium-is-the-message
+              text: the-medium-is-the-message
+        /the-republic:
+            - source: content/MOC_literature
+              target: /the-republic
+              text: the republic
+            - source: content/_now
+              target: /the-republic
+              text: the republic
+            - source: content/platoism
+              target: /the-republic
+              text: The Republic
+        /theme-observation:
+            - source: content/curiosità
+              target: /theme-observation
+              text: theme-observation
+            - source: content/train-perception
+              target: /theme-observation
+              text: theme-observation
+        /theory-of-ideas:
+            - source: content/idealism
+              target: /theory-of-ideas
+              text: theory-of-ideas
+        /thinking:
+            - source: content/001MOC_mindset
+              target: /thinking
+              text: thinking
+            - source: content/cognitive-functions
+              target: /thinking
+              text: thinking
+            - source: content/curiosità
+              target: /thinking
+              text: thinking
+            - source: content/judgment
+              target: /thinking
+              text: thinking,
+            - source: content/private/Te
+              target: /thinking
+              text: thinking
+            - source: content/private/Ti
+              target: /thinking
+              text: thinking
+        /timeblocking=tetris:
+            - source: content/game-of-life
+              target: /timeblocking=tetris
+              text: timeblocking=tetris
+        /transmissionism:
+            - source: content/continuous-learning
+              target: /transmissionism
+              text: transmissionism
+        /two-words:
+            - source: content/private/Timestamps/21-08-03_Tu
+              target: /two-words
+              text: two-words
+        /unconsciousness:
+            - source: content/curiosità
+              target: /unconsciousness
+              text: unconsciousness
+        /vinci:
+            - source: content/curiosità
+              target: /vinci
+              text: vinci
+            - source: content/thinking-in-maps
+              target: /vinci
+              text: vinci
+        /vinci-principles:
+            - source: content/private/Dimonstratzione
+              target: /vinci-principles
+              text: vinci-principles
+            - source: content/thinking
+              target: /vinci-principles
+              text: 7 Principles of da Vinci
+            - source: content/vinci
+              target: /vinci-principles
+              text: vinci-principles
+        /voxel-based-morphometry:
+            - source: content/statistical-parametric-mapping
+              target: /voxel-based-morphometry
+              text: voxel-based-morphometry
+        /what-is-there:
+            - source: content/color-perception-and-emotions
+              target: /what-is-there
+              text: what-is-there
+links:
+    - source: content/001MOC_mindset
+      target: /smart-notes
+      text: smart notes
+    - source: content/001MOC_mindset
+      target: /great-prophet-theory
+      text: great prophet theory
+    - source: content/001MOC_mindset
+      target: /first-principles-thinking
+      text: first principles thinking
+    - source: content/001MOC_mindset
+      target: /books/power-of-now
+      text: power of now
+    - source: content/001MOC_mindset
+      target: /thinking
+      text: thinking
+    - source: content/001MOC_mindset
+      target: /creativity
+      text: creativity
+    - source: content/002MOC_outputs
+      target: /immersive-experiences
+      text: Immersive-Experiences
+    - source: content/002MOC_outputs
+      target: /_index
+      text: index
+    - source: content/002MOC_outputs
+      target: /Atoms
+      text: Atoms
+    - source: content/002MOC_outputs
+      target: /MOC_design
+      text: Design
+    - source: content/003MOC_concepts
+      target: /minimalism
+      text: minimalism
+    - source: content/003MOC_concepts
+      target: /the-masks-we-wear
+      text: the masks we wear
+    - source: content/003MOC_concepts
+      target: /galls-law
+      text: galls law
+    - source: content/003MOC_concepts
+      target: /optionality
+      text: optionality
+    - source: content/003MOC_concepts
+      target: /_index
+      text: index
+    - source: content/003MOC_concepts
+      target: /creativity
+      text: creativity
+    - source: content/004MOC_interests
+      target: /MOC_Philosophy
+      text: philosophy,
+    - source: content/004MOC_interests
+      target: /MOC_Programming
+      text: programming,
+    - source: content/004MOC_interests
+      target: /MOC_literature
+      text: literature,
+    - source: content/004MOC_interests
+      target: /MOC_design
+      text: design
+    - source: content/004MOC_interests
+      target: /probability
+      text: probability
+    - source: content/004MOC_interests
+      target: /MOC_productmgmt
+      text: product management,
+    - source: content/004MOC_interests
+      target: /010MOC_PKM
+      text: PKM,
+    - source: content/005MOC_sources
+      target: /_index
+      text: _Index
+    - source: content/010MOC_PKM
+      target: /_index
+      text: index
+    - source: content/010MOC_PKM
+      target: /note-symbols
+      text: note-symbols
+    - source: content/010MOC_PKM
+      target: /smart-notes
+      text: smart notes
+    - source: content/010MOC_PKM
+      target: /refraction-thinking
+      text: refraction-thinking
+    - source: content/010MOC_PKM
+      target: /clear-thinking
+      text: clear-thinking
+    - source: content/010MOC_PKM
+      target: /private/Timestamps/21-08-01_Su
+      text: 21-08-01_Su
+    - source: content/010MOC_PKM
+      target: /The%20School%20of%20Life
+      text: The School of Life
+    - source: content/010MOC_PKM
+      target: /Haruki-Murakami
+      text: Haruki-Murakami
+    - source: content/3c-craftery
+      target: /Chemistry
+      text: Chemistry
+    - source: content/3c-craftery
+      target: /curiosità
+      text: curiosità
+    - source: content/3c-craftery
+      target: /creative-turbulence
+      text: creative-turbulence
+    - source: content/3d-design
+      target: /_index
+      text: index
+    - source: content/40-inventive-principles
+      target: /inventive-problem-solving
+      text: inventive-problem-solving
+    - source: content/Aesthetics
+      target: /_index
+      text: index
+    - source: content/Aesthetics
+      target: /epicureanism
+      text: epicureanism
+    - source: content/Atoms
+      target: /_index
+      text: index
+    - source: content/Haruki-Murakami
+      target: /books/Kafka-on-the-Shore
+      text: Kafka-on-the-Shore
+    - source: content/Haruki-Murakami
+      target: /books/What-I-Talk-About-When-I-Talk-About-Running
+      text: What-I-Talk-About-When-I-Talk-About-Running
+    - source: content/Logic
+      target: /stoicism
+      text: stoicism
+    - source: content/Logic
+      target: /_index
+      text: index
+    - source: content/MBTI
+      target: /_index
+      text: index
+    - source: content/MBTI
+      target: /extroversion
+      text: extroversion
+    - source: content/MBTI
+      target: /carl-jung
+      text: carl jung
+    - source: content/MBTI
+      target: /private/ENTJ
+      text: ENTJ
+    - source: content/MBTI
+      target: /consciousness-attitudes
+      text: consciousness attitudes
+    - source: content/MBTI
+      target: /introversion
+      text: introversion
+    - source: content/MBTI
+      target: /cognitive-functions
+      text: cognitive functions
+    - source: content/MBTI
+      target: /judgment
+      text: judgment
+    - source: content/MBTI
+      target: /perception
+      text: perception
+    - source: content/MOC Cosmology
+      target: /_index
+      text: index
+    - source: content/MOC_Artificial-Intelligence
+      target: /machine-learning
+      text: machine-learning
+    - source: content/MOC_Artificial-Intelligence
+      target: /neural-networks
+      text: neural-networks
+    - source: content/MOC_Communication
+      target: /_index
+      text: index
+    - source: content/MOC_Communication
+      target: /how-to-speak
+      text: how to speak
+    - source: content/MOC_Marketing
+      target: /_index
+      text: index
+    - source: content/MOC_Marketing
+      target: /copywriting
+      text: copywriting
+    - source: content/MOC_Marketing
+      target: /anti-marketing
+      text: anti-marketing
+    - source: content/MOC_Marketing
+      target: /puzzle-exploration-curiosity
+      text: puzzle, exploration, curiosity
+    - source: content/MOC_Marketing
+      target: /immersive-experiences
+      text: immersive experiences
+    - source: content/MOC_Marketing
+      target: /social-signaling
+      text: social signaling
+    - source: content/MOC_Philosophy
+      target: /Logic
+      text: Logic
+    - source: content/MOC_Philosophy
+      target: /Aesthetics
+      text: Aesthetics
+    - source: content/MOC_Philosophy
+      target: /_index
+      text: index
+    - source: content/MOC_Philosophy
+      target: /metaphysics
+      text: Metaphysics
+    - source: content/MOC_Philosophy
+      target: /epistemology
+      text: Epistemology
+    - source: content/MOC_Philosophy
+      target: /Ethics
+      text: Ethics
+    - source: content/MOC_Programming
+      target: /creative-code
+      text: creative code
+    - source: content/MOC_Programming
+      target: /_index
+      text: index
+    - source: content/MOC_design
+      target: /graphic-design
+      text: graphic-design
+    - source: content/MOC_design
+      target: /motion-design
+      text: motion-design
+    - source: content/MOC_design
+      target: /3d-design
+      text: 3d-design
+    - source: content/MOC_design
+      target: /product-design
+      text: product design
+    - source: content/MOC_literature
+      target: /the-republic
+      text: the republic
+    - source: content/MOC_literature
+      target: /city-of-god
+      text: city of god
+    - source: content/MOC_literature
+      target: /summa-theologica
+      text: summa theologica
+    - source: content/MOC_literature
+      target: /divine-comedy
+      text: divine comedy
+    - source: content/MOC_literature
+      target: /dantes-inferno
+      text: dantes inferno
+    - source: content/MOC_literature
+      target: /paradise-lost
+      text: paradise lost
+    - source: content/MOC_literature
+      target: /_index
+      text: index
+    - source: content/MOC_literature
+      target: /books/how-to-read-a-book
+      text: how to read a book
+    - source: content/MOC_productivity
+      target: /diminishing-returns
+      text: law of diminishing returns
+    - source: content/MOC_productivity
+      target: /parkinsons-law
+      text: parkinsons law
+    - source: content/MOC_productivity
+      target: /pareto-principle
+      text: pareto principle
+    - source: content/MOC_productivity
+      target: /_index
+      text: index
+    - source: content/MOC_productivity
+      target: /hit-your-quality-target-with-minimum-effort
+      text: hit your quality target with minimum effort
+    - source: content/MOC_productmgmt
+      target: /_index
+      text: index
+    - source: content/MOC_productmgmt
+      target: /inversion
+      text: inversion
+    - source: content/Memetic Evolution
+      target: /_index
+      text: index
+    - source: content/The School of Life
+      target: /_index
+      text: index
+    - source: content/Tradition builds intuition.
+      target: /Archetypes
+      text: Archetypes
+    - source: content/Tradition builds intuition.
+      target: /books/Sapiens
+      text: Sapiens
+    - source: content/WebGL
+      target: /_index
+      text: index
+    - source: content/WebGL
+      target: /3c-craftery
+      text: 3c-craftery
+    - source: content/WebGL
+      target: /freedom-of-constraints
+      text: freedom-of-constraints
+    - source: content/Will technology and computers be able to replicate the human brain?
+      target: /how-to-speak-machine
+      text: how-to-speak-machine
+    - source: content/
+      target: /003MOC_concepts
+      text: concepts
+    - source: content/
+      target: /learn-in-public
+      text: working with the garage door up.
+    - source: content/
+      target: /001MOC_mindset
+      text: mindsets
+    - source: content/_now
+      target: /_index
+      text: index
+    - source: content/_now
+      target: /the-republic
+      text: the republic
+    - source: content/_themes
+      target: /freedom-of-constraints
+      text: freedom-of-constraints
+    - source: content/_workbench
+      target: /free-energy-principle
+      text: free energy principle
+    - source: content/_workbench
+      target: /horizon-expansion
+      text: horizon expansion
+    - source: content/_workbench
+      target: /Inert-Ideas
+      text: inert-ideas
+    - source: content/_workbench
+      target: /_index
+      text: index
+    - source: content/_workbench
+      target: /puzzle-exploration-curiosity
+      text: puzzle-exploration-curiosity
+    - source: content/_workbench
+      target: /first-principles-thinking
+      text: first principles thinking
+    - source: content/active-inference
+      target: /bayesian-selectiveattention-article
+      text: bayesian-selectiveattention-article
+    - source: content/active-inference
+      target: /Learning
+      text: Learning
+    - source: content/active-inference
+      target: /free-energy-principle
+      text: free-energy-principle
+    - source: content/active-inference
+      target: /free-energy-principle
+      text: Free Energy Principle
+    - source: content/active-inference
+      target: /Optimization
+      text: Optimization
+    - source: content/active-inference
+      target: /LOA
+      text: LOA
+    - source: content/alfred-korzybkski
+      target: /map-territory-relation
+      text: A map is not the territory
+    - source: content/alfred-korzybkski
+      target: /general-semantics
+      text: general-semantics
+    - source: content/alfred-korzybkski
+      target: /consciousness-of-abstracting
+      text: consciousness-of-abstracting
+    - source: content/alfred-whitehead
+      target: /Inert-Ideas
+      text: Inert-Ideas
+    - source: content/anti-marketing
+      target: /_index
+      text: index
+    - source: content/anti-marketing
+      target: /learn-in-public
+      text: learn in public
+    - source: content/archetypes
+      target: /_index
+      text: index
+    - source: content/bayesian-probability
+      target: /machine-learning
+      text: machine learning
+    - source: content/bayesian-probability
+      target: /Hermann%20von%20Helmholtz
+      text: Hermann von Helmholtz
+    - source: content/bayesian-probability
+      target: /carl-jung
+      text: jung
+    - source: content/bayesian-probability
+      target: /first-principles-thinking
+      text: first principles thinking
+    - source: content/bayesian-selectiveattention-article
+      target: /epistemic-foraging
+      text: epistemic-foraging
+    - source: content/books/Atomic-Habits
+      target: /one-percent
+      text: 1% better everyday.
+    - source: content/books/Atomic-Habits
+      target: /fall-to-systems
+      text: You don't rise to the level of your goals, you fall to the level of your systems
+    - source: content/books/Atomic-Habits
+      target: /identity-not-habits
+      text: Build your identity, not your habits.
+    - source: content/books/Atomic-Habits
+      target: /hoea
+      text: Make ideal habits obvious, easy, attractive.
+    - source: content/books/Awaken-the-Giant-Within
+      target: /decisions-determine-destiny
+      text: Decisions determine destiny
+    - source: content/books/Awaken-the-Giant-Within
+      target: /neuro-associative-conditioning
+      text: Rewrite pain and pleasure.
+    - source: content/books/Awaken-the-Giant-Within
+      target: /niagara-syndrome
+      text: Direct yourself
+    - source: content/books/Mastery
+      target: /Robert-Greene
+      text: Robert Greene
+    - source: content/books/Mastery
+      target: /apprenticeship
+      text: apprenticeship
+    - source: content/books/how-to-read-a-book
+      target: /_index
+      text: index
+    - source: content/buddhism
+      target: /_index
+      text: index
+    - source: content/carl-jung
+      target: /_index
+      text: index
+    - source: content/cognition
+      target: /baader-meinhof
+      text: baader-meinhof
+    - source: content/cognitive-functions
+      target: /_index
+      text: index
+    - source: content/cognitive-functions
+      target: /thinking
+      text: thinking
+    - source: content/cognitive-functions
+      target: /MBTI
+      text: MBTI
+    - source: content/color-perception-and-emotions
+      target: /what-is-there
+      text: what-is-there
+    - source: content/color-perception-and-emotions
+      target: /color
+      text: color
+    - source: content/color
+      target: /color-perception-and-emotions
+      text: color-perception-and-emotions
+    - source: content/complexity-then-simplicity
+      target: /_index
+      text: _index
+    - source: content/complexity-then-simplicity
+      target: /apprenticeship
+      text: apprenticeship
+    - source: content/consciousness-attitudes
+      target: /004MOC_interests
+      text: '[Interests'
+    - source: content/consciousness-attitudes
+      target: /introversion
+      text: introversion
+    - source: content/consciousness-attitudes
+      target: /MBTI
+      text: MBTI
+    - source: content/consciousness-attitudes
+      target: /_index
+      text: index
+    - source: content/consciousness-of-abstracting
+      target: /general-semantics
+      text: general-semantics
+    - source: content/contemplate-questions
+      target: /curiosità
+      text: curiosità
+    - source: content/continuous-learning
+      target: /transmissionism
+      text: transmissionism
+    - source: content/continuous-learning
+      target: /mnemonic-medium
+      text: mnemonic-medium
+    - source: content/continuous-learning
+      target: /elaborative-encoding
+      text: elaborative-encoding
+    - source: content/creative-code
+      target: /Design
+      text: design
+    - source: content/creative-code
+      target: /WebGL
+      text: WebGL
+    - source: content/creative-code
+      target: /_index
+      text: index
+    - source: content/creativity
+      target: /combinational-creativity
+      text: combinational creativity
+    - source: content/creativity
+      target: /systematic-inventive-thinking
+      text: systematic inventive thinking
+    - source: content/creativity
+      target: /_index
+      text: index
+    - source: content/critical-thinking
+      target: /criticalthinking-vs-overthinking
+      text: criticalthinking-vs-overthinking
+    - source: content/criticalthinking-vs-overthinking
+      target: /critical-thinking
+      text: Critical thinking
+    - source: content/crypto-mining
+      target: /cryptocurrency
+      text: cryptocurrency
+    - source: content/curiosità
+      target: /unconsciousness
+      text: unconsciousness
+    - source: content/curiosità
+      target: /contemplate-questions
+      text: contemplate-questions
+    - source: content/curiosità
+      target: /Stream%20of%20Consciousness
+      text: Stream of Consciousness
+    - source: content/curiosità
+      target: /question-reframing
+      text: question-reframing
+    - source: content/curiosità
+      target: /thinking
+      text: thinking
+    - source: content/curiosità
+      target: /vinci
+      text: vinci
+    - source: content/curiosità
+      target: /books/How-to-Think-Like-Leonardo-da-Vinci
+      text: How-to-Think-Like-Leonardo-da-Vinci
+    - source: content/curiosità
+      target: /continuous-learning
+      text: continuous-learning
+    - source: content/curiosità
+      target: /theme-observation
+      text: theme-observation
+    - source: content/darwinian-strategy
+      target: /books/Mastery
+      text: Mastery
+    - source: content/death-of-design
+      target: /_index
+      text: index
+    - source: content/decisions-determine-destiny
+      target: /books/Awaken-the-Giant-Within
+      text: Awaken-the-Giant-Within
+    - source: content/digital-garden
+      target: /Atomicity
+      text: Atomicity
+    - source: content/dogstudio
+      target: /WebGL
+      text: WebGL
+    - source: content/epicureanism
+      target: /_index
+      text: index
+    - source: content/epicureanism
+      target: /hedonism
+      text: hedonism
+    - source: content/epicureanism
+      target: /books/power-of-now
+      text: power-of-now
+    - source: content/epicureanism
+      target: /buddhism
+      text: buddhism
+    - source: content/epicureanism
+      target: /paradox-of-epicurus
+      text: paradoxof epicurus
+    - source: content/extroversion
+      target: /_index
+      text: index
+    - source: content/extroversion
+      target: /books/Be-Here-Now
+      text: Be Here Now
+    - source: content/extroversion
+      target: /Morals
+      text: Morals
+    - source: content/extroversion
+      target: /introversion
+      text: introversion
+    - source: content/feeling
+      target: /judgment
+      text: judgment
+    - source: content/feeling
+      target: /private/Fi
+      text: Fi
+    - source: content/feeling
+      target: /private/Fe
+      text: Fe
+    - source: content/feeling
+      target: /carl-jung
+      text: carl-jung
+    - source: content/feeling
+      target: /cognitive-functions
+      text: cognitive-functions
+    - source: content/feynman-technique
+      target: /bayesian-probability
+      text: bayesian probability
+    - source: content/feynman-technique
+      target: /elon-musk
+      text: elon-musk
+    - source: content/feynman-technique
+      target: /_index
+      text: index
+    - source: content/first-principles-thinking
+      target: /syllogism
+      text: Syllogisms
+    - source: content/first-principles-thinking
+      target: /math
+      text: Math
+    - source: content/first-principles-thinking
+      target: /axiom
+      text: axioms
+    - source: content/first-principles-thinking
+      target: /epistemology
+      text: Epistemology
+    - source: content/first-principles-thinking
+      target: /inductive-reasoning
+      text: Inductive Reasoning
+    - source: content/first-principles-thinking
+      target: /_index
+      text: index
+    - source: content/first-principles-thinking
+      target: /stoicism
+      text: stoicism
+    - source: content/first-principles-thinking
+      target: /logic
+      text: Logic
+    - source: content/free-energy-principle
+      target: /sensation
+      text: sensation
+    - source: content/free-energy-principle
+      target: /Surrealism
+      text: Surrealism
+    - source: content/free-energy-principle
+      target: /active-inference
+      text: active-inference
+    - source: content/free-energy-principle
+      target: /markov-blanket
+      text: markov-blanket
+    - source: content/galls-law
+      target: /murphys-law
+      text: Murphy's Law
+    - source: content/galls-law
+      target: /systems-design
+      text: Systems Design
+    - source: content/game-of-life
+      target: /timeblocking=tetris
+      text: timeblocking=tetris
+    - source: content/general-semantics
+      target: /consciousness-of-abstracting
+      text: consciousness-of-abstracting
+    - source: content/graphic-design
+      target: /_index
+      text: index
+    - source: content/great-prophet-theory
+      target: /books/Creativity-Flow
+      text: Creativity-Flow
+    - source: content/great-prophet-theory
+      target: /plato
+      text: plato
+    - source: content/hedonism
+      target: /_index
+      text: index
+    - source: content/hit-your-quality-target-with-minimum-effort
+      target: /fall-to-systems
+      text: systems
+    - source: content/hit-your-quality-target-with-minimum-effort
+      target: /pareto-principle
+      text: pareto-principle
+    - source: content/ideal-apprenticeship
+      target: /apprenticeship
+      text: apprenticeship
+    - source: content/idealism
+      target: /allegory-cave
+      text: allegory of the cave
+    - source: content/idealism
+      target: /theory-of-ideas
+      text: theory-of-ideas
+    - source: content/idealism
+      target: /hyperuranion
+      text: hyperuranion
+    - source: content/idealism
+      target: /mathematics
+      text: mathematics
+    - source: content/immanuel-kant
+      target: /synthetic-apriori-knowledge
+      text: synthetic-apriori-knowledge
+    - source: content/immersive-experiences
+      target: /_index
+      text: index
+    - source: content/immersive-experiences
+      target: /MOC_Marketing
+      text: Marketing
+    - source: content/inductive-reasoning
+      target: /first-principles-thinking
+      text: First Principles Thinking
+    - source: content/inductive-reasoning
+      target: /mental-models
+      text: Mental Models
+    - source: content/inductive-reasoning
+      target: /systems-thinking
+      text: Systems Thinking
+    - source: content/inductive-reasoning
+      target: /first-principles-thinking
+      text: first-principles-thinking
+    - source: content/inductive-reasoning
+      target: /deductive-reasoning
+      text: Deductive Reasoning
+    - source: content/inductive-reasoning
+      target: /rory-sutherland
+      text: Rory Sutherland
+    - source: content/internet
+      target: /_index
+      text: index
+    - source: content/introversion
+      target: /idealism
+      text: idealism
+    - source: content/introversion
+      target: /extroversion
+      text: extroversion
+    - source: content/intuition
+      target: /private/MOC_Astrology
+      text: astrology
+    - source: content/intuition
+      target: /collective-unconscious
+      text: collective unconscious
+    - source: content/intuition
+      target: /Tradition-builds-intuition
+      text: Tradition-builds-intuition
+    - source: content/intuition
+      target: /private/Ne
+      text: Ne
+    - source: content/intuition
+      target: /_index
+      text: index
+    - source: content/intuition
+      target: /sensation
+      text: sensation
+    - source: content/inventive-problem-solving
+      target: /40-inventive-principles
+      text: 40-inventive-principles
+    - source: content/inversion
+      target: /_index
+      text: index
+    - source: content/judgment
+      target: /_index
+      text: index
+    - source: content/judgment
+      target: /thinking
+      text: thinking,
+    - source: content/karl-friston
+      target: /free-energy-principle
+      text: free-energy-principle
+    - source: content/karl-friston
+      target: /statistical-parametric-mapping
+      text: statistical-parametric-mapping
+    - source: content/knowledge-power
+      target: /books/Mastery
+      text: Mastery
+    - source: content/learn-in-public
+      target: /_index
+      text: _index
+    - source: content/learn-in-public
+      target: /force-multiplier
+      text: Force multiplier
+    - source: content/library
+      target: /addiction-by-design
+      text: Addiction by Design
+    - source: content/library
+      target: /books/Creativity-Flow
+      text: Creativity - Flow
+    - source: content/library
+      target: /books/The-Mistborn-Trilogy
+      text: The Mistborn Trilogy
+    - source: content/library
+      target: /books/Illusions-The-Adventures-of-a-Reluctant-Messiah
+      text: Illusions The Adventures of a Reluctant Messiah
+    - source: content/library
+      target: /books/A-New-Earth
+      text: A New Earth
+    - source: content/library
+      target: /books/How-to-Think-Like-Leonardo-da-Vinci
+      text: How to Think Like Leonardo da Vinci
+    - source: content/library
+      target: /books/The-Power-of-Full-Engagement
+      text: The Power of Full Engagement
+    - source: content/library
+      target: /books/Jade-City
+      text: Jade City
+    - source: content/library
+      target: /books/This%20Is%20Marketing
+      text: This Is Marketing
+    - source: content/library
+      target: /books/The-Talent-Code
+      text: The Talent Code
+    - source: content/library
+      target: /books/What-I-Talk-About-When-I-Talk-About-Running
+      text: What I Talk About When I Talk About Running
+    - source: content/library
+      target: /books/How-to-Think-More-Effectively
+      text: How to Think More Effectively
+    - source: content/library
+      target: /books/The-Essence-of-Jungs-Psychology-and-Tibetan-Buddhism
+      text: The Essence of Jung's Psychology and Tibetan Buddhism
+    - source: content/library
+      target: /books/Steve%20Jobs
+      text: Steve Jobs
+    - source: content/library
+      target: /books/Meditations
+      text: Meditations
+    - source: content/library
+      target: /books/Deep-Work
+      text: Deep Work
+    - source: content/library
+      target: /books/Essentialism
+      text: Essentialism
+    - source: content/library
+      target: /tao-te-ching
+      text: tao te ching
+    - source: content/library
+      target: /books/power-of-now
+      text: power of now
+    - source: content/library
+      target: /books/Be-Here-Now
+      text: Be Here Now
+    - source: content/library
+      target: /books/High-Performance-Habits
+      text: High Performance Habits
+    - source: content/library
+      target: /books/Kafka-on-the-Shore
+      text: Kafka on the Shore
+    - source: content/library
+      target: /books/Getting-Things-Done
+      text: Getting Things Done
+    - source: content/library
+      target: /books/Homo-Deus
+      text: Homo Deus
+    - source: content/library
+      target: /books/intuition-pumps
+      text: Intuition Pumps and Other Tools for Thinking
+    - source: content/library
+      target: /books/Great-Thinkers
+      text: Great Thinkers
+    - source: content/library
+      target: /books/1Q84
+      text: 1Q84
+    - source: content/library
+      target: /books/history-of-nearly-everything
+      text: history of nearly everything
+    - source: content/library
+      target: /books/Mans-Search-for-Meaning
+      text: Mans Search for Meaning
+    - source: content/library
+      target: /books/The%2015%20Invaluable%20Laws%20of%20Growth
+      text: The 15 Invaluable Laws of Growth
+    - source: content/library
+      target: /books/The%20Magic%20of%20Thinking%20Big
+      text: The Magic of Thinking Big
+    - source: content/library
+      target: /books/Sapiens
+      text: Sapiens
+    - source: content/library
+      target: /books/Cant-Hurt-Me
+      text: Cant Hurt Me
+    - source: content/library
+      target: /books/Circe
+      text: Circe
+    - source: content/library
+      target: /books/Atomic-Habits
+      text: Atomic Habits
+    - source: content/library
+      target: /books/No%20Excuses!
+      text: No Excuses!
+    - source: content/library
+      target: /books/The%20War%20Of%20Art
+      text: The War Of Art
+    - source: content/library
+      target: /books/the-order-of-time
+      text: The Order of Time
+    - source: content/library
+      target: /books/Mastery
+      text: Mastery
+    - source: content/library
+      target: /_index
+      text: index
+    - source: content/map-territory-relation
+      target: /munger-two-step
+      text: munger-two-step
+    - source: content/map-territory-relation
+      target: /the-medium-is-the-message
+      text: the-medium-is-the-message
+    - source: content/map-territory-relation
+      target: /allegory-cave
+      text: allegory of the cave
+    - source: content/map-territory-relation
+      target: /product-design
+      text: product-design
+    - source: content/map-territory-relation
+      target: /first-principles-thinking
+      text: first-principles-thinking
+    - source: content/memory-palace
+      target: /_index
+      text: index
+    - source: content/mental-models
+      target: /second-order-thinking
+      text: second-order-thinking
+    - source: content/mental-models
+      target: /map-territory-relation
+      text: a map is not the territory
+    - source: content/mental-models
+      target: /availability-bias
+      text: availability-bias
+    - source: content/mental-models
+      target: /pareto-principle
+      text: pareto-principle
+    - source: content/mental-models
+      target: /diminishing-returns
+      text: diminishing-returns
+    - source: content/mental-models
+      target: /munger-two-step
+      text: munger-two-step
+    - source: content/mental-models
+      target: /_index
+      text: index
+    - source: content/mental-models
+      target: /first-principles-thinking
+      text: first-principles-thinking
+    - source: content/motion-design
+      target: /_index
+      text: index
+    - source: content/munger-two-step
+      target: /_index
+      text: index
+    - source: content/neuro-associative-conditioning
+      target: /allegory-cave
+      text: allegory of the cave
+    - source: content/neuro-associative-conditioning
+      target: /future-pacing
+      text: future pacing
+    - source: content/niagara-syndrome
+      target: /tao-te-ching
+      text: tao-te-ching
+    - source: content/niagara-syndrome
+      target: /decisions-determine-destiny
+      text: decisions-determine-destiny
+    - source: content/optionality
+      target: /_index
+      text: index
+    - source: content/paradox-of-epicurus
+      target: /_index
+      text: index
+    - source: content/pareto-principle
+      target: /1%25-rule
+      text: 1%-rule
+    - source: content/perception
+      target: /cognitive-functions
+      text: cognitive-functions
+    - source: content/perception
+      target: /intuition
+      text: intuition
+    - source: content/perception
+      target: /judgment
+      text: judgment
+    - source: content/perception
+      target: /carl-jung
+      text: Carl Jung
+    - source: content/platoism
+      target: /the-republic
+      text: The Republic
+    - source: content/primal-inclination-strategy
+      target: /MOC_Marketing
+      text: MOC_Marketing
+    - source: content/private/Dimonstratzione
+      target: /vinci-principles
+      text: vinci-principles
+    - source: content/private/ENTJ
+      target: /private/Te
+      text: Te
+    - source: content/private/ENTJ
+      target: /private/INTJ
+      text: INTJ
+    - source: content/private/INTJ
+      target: /_index
+      text: index
+    - source: content/private/Te
+      target: /thinking
+      text: thinking
+    - source: content/private/Ti
+      target: /thinking
+      text: thinking
+    - source: content/private/Ti
+      target: /private/Te
+      text: Te
+    - source: content/private/Ti
+      target: /private/ENTJ
+      text: ENTJ
+    - source: content/private/Ti
+      target: /carl-jung
+      text: Carl%20Jung
+    - source: content/private/Timestamps/21-08-01_Su
+      target: /digital-garden
+      text: Digital Garden
+    - source: content/private/Timestamps/21-08-01_Su
+      target: /galls-law
+      text: Gall's Law
+    - source: content/private/Timestamps/21-08-01_Su
+      target: /first-principles-thinking
+      text: first-principles-thinking
+    - source: content/private/Timestamps/21-08-01_Su
+      target: /daniel-goleman
+      text: Daniel Goleman
+    - source: content/private/Timestamps/21-08-03_Tu
+      target: /Haruki-Murakami
+      text: Haruki-Murakami
+    - source: content/private/Timestamps/21-08-03_Tu
+      target: /kuleshov-effect
+      text: Kuleshov Effect
+    - source: content/private/Timestamps/21-08-03_Tu
+      target: /two-words
+      text: two-words
+    - source: content/private/Timestamps/21-08-07_Sa
+      target: /one-percent
+      text: one-percent
+    - source: content/private/Timestamps/21-08-07_Sa
+      target: /hoea
+      text: hoea
+    - source: content/private/Timestamps/21-08-08_Su
+      target: /The%20School%20of%20Life
+      text: The School of Life
+    - source: content/private/Timestamps/21-08-08_Su
+      target: /memory-palace
+      text: memory palace
+    - source: content/private/Timestamps/21-08-09_Mo
+      target: /first-principles-thinking
+      text: first-principles-thinking
+    - source: content/probability
+      target: /bayesian-probability
+      text: bayesian probability
+    - source: content/probability
+      target: /mathematics
+      text: mathematics
+    - source: content/product-design
+      target: /_index
+      text: index
+    - source: content/product-of-experts
+      target: /karl-friston
+      text: karl-friston
+    - source: content/puzzle-exploration-curiosity
+      target: /immersive-experiences
+      text: immersive-experiences
+    - source: content/puzzle-exploration-curiosity
+      target: /digital-garden
+      text: digital garden
+    - source: content/puzzle-exploration-curiosity
+      target: /MOC_design
+      text: design
+    - source: content/puzzle-exploration-curiosity
+      target: /MOC_Marketing
+      text: marketing
+    - source: content/puzzle-exploration-curiosity
+      target: /copywriting
+      text: copywriting
+    - source: content/puzzle-exploration-curiosity
+      target: /MOC_design
+      text: MOC_design
+    - source: content/quantum-computing
+      target: /linear-algebra
+      text: linear-algebra
+    - source: content/red-queen-effect
+      target: /_index
+      text: index
+    - source: content/red-queen-effect
+      target: /temple-of-design
+      text: temple-of-design
+    - source: content/refraction-thinking
+      target: /_index
+      text: _index
+    - source: content/refraction-thinking
+      target: /limiting-beliefs
+      text: limiting-beliefs
+    - source: content/refraction-thinking
+      target: /Design
+      text: Design
+    - source: content/refraction-thinking
+      target: /the-medium-is-the-message
+      text: the-medium-is-the-message
+    - source: content/refraction-thinking
+      target: /carl-jung
+      text: carl-jung
+    - source: content/refraction-thinking
+      target: /first-principles-thinking
+      text: first-principles-thinking
+    - source: content/refraction-thinking
+      target: /map-territory-relation
+      text: a map is not the territory
+    - source: content/richard-feynman
+      target: /_index
+      text: index
+    - source: content/richard-feynman
+      target: /feynman-technique
+      text: feynman technique
+    - source: content/save-what-speaks
+      target: /learn-in-public
+      text: learn in public
+    - source: content/scenius
+      target: /learn-in-public
+      text: learn-in-public
+    - source: content/sensation
+      target: /_index
+      text: index
+    - source: content/sensation
+      target: /intuition
+      text: intuition
+    - source: content/sensation
+      target: /private/Se
+      text: Se
+    - source: content/significance-of-aesthetic
+      target: /_index
+      text: index
+    - source: content/significance-of-aesthetic
+      target: /social-signaling
+      text: social signaling
+    - source: content/significance-of-aesthetic
+      target: /refraction-thinking
+      text: refraction thinking
+    - source: content/significance-of-aesthetic
+      target: /decisions-determine-destiny
+      text: decisions-determine-destiny
+    - source: content/smart-notes
+      target: /_index
+      text: index
+    - source: content/smart-notes
+      target: /emergent-knowledge
+      text: emergent knowledge
+    - source: content/smart-notes
+      target: /save-what-speaks
+      text: save what speaks
+    - source: content/smart-notes
+      target: /note-symbols
+      text: note symbols
+    - source: content/social-signaling
+      target: /significance-of-aesthetic
+      text: significance-of-aesthetic
+    - source: content/social-signaling
+      target: /books/Sapiens
+      text: Sapiens
+    - source: content/social-signaling
+      target: /the-masks-we-wear
+      text: the masks we wear
+    - source: content/spirituality
+      target: /_index
+      text: index
+    - source: content/spirituality
+      target: /buddhism
+      text: buddhism
+    - source: content/statistical-parametric-mapping
+      target: /voxel-based-morphometry
+      text: voxel-based-morphometry
+    - source: content/still-waters
+      target: /introversion
+      text: introversion
+    - source: content/still-waters
+      target: /feeling
+      text: feeling
+    - source: content/still-waters
+      target: /shakespeare
+      text: shakespeare
+    - source: content/stoicism
+      target: /_index
+      text: index
+    - source: content/synthetic-apriori-knowledge
+      target: /judgment
+      text: judgment
+    - source: content/synthetic-apriori-knowledge
+      target: /analytic-judgments
+      text: analytic-judgments
+    - source: content/synthetic-apriori-knowledge
+      target: /synthetic-judgments
+      text: synthetic-judgments
+    - source: content/synthetic-apriori-knowledge
+      target: /immanuel-kant
+      text: immanuel-kant
+    - source: content/synthetic-apriori-knowledge
+      target: /apriori
+      text: apriori
+    - source: content/synthetic-apriori-knowledge
+      target: /aposteriori
+      text: aposteriori
+    - source: content/systematic-inventive-thinking
+      target: /convergent-thinking
+      text: Convergent Thinking
+    - source: content/systematic-inventive-thinking
+      target: /parkinsons-law
+      text: Parkinson's Law
+    - source: content/systematic-inventive-thinking
+      target: /40-inventive-principles
+      text: 40-inventive-principles
+    - source: content/systematic-inventive-thinking
+      target: /freedom-of-constraints
+      text: freedom-of-constraints
+    - source: content/templates/post
+      target: /_index
+      text: index
+    - source: content/temple-of-design
+      target: /_index
+      text: index
+    - source: content/temple-of-design
+      target: /death-of-design
+      text: death-of-design
+    - source: content/the-masks-we-wear
+      target: /persona
+      text: persona
+    - source: content/the-masks-we-wear
+      target: /MBTI
+      text: MBTI
+    - source: content/the-republic
+      target: /_index
+      text: index
+    - source: content/theme-observation
+      target: /curiosit%C3%A0
+      text: curiosità
+    - source: content/theme-observation
+      target: /perception
+      text: perception
+    - source: content/theory-of-constraints
+      target: /_index
+      text: index
+    - source: content/theory-of-constraints
+      target: /pleasure-of-challenge
+      text: pleasure-of-challenge
+    - source: content/thinking-in-maps
+      target: /memory-palace
+      text: Memory Palace
+    - source: content/thinking-in-maps
+      target: /vinci
+      text: vinci
+    - source: content/thinking-in-maps
+      target: /polymath-book
+      text: polymath-book
+    - source: content/thinking-in-maps
+      target: /illusion-of-specialization
+      text: Illusion of Specialization
+    - source: content/thinking-in-maps
+      target: /markov-blanket
+      text: markov-blanket
+    - source: content/thinking-in-maps
+      target: /memory-palace
+      text: memory-palace
+    - source: content/thinking
+      target: /carl-jung
+      text: carl-jung
+    - source: content/thinking
+      target: /judgment
+      text: judgment
+    - source: content/thinking
+      target: /private/Te
+      text: Te
+    - source: content/thinking
+      target: /cognitive-functions
+      text: cognitive-functions
+    - source: content/thinking
+      target: /vinci-principles
+      text: 7 Principles of da Vinci
+    - source: content/thinking
+      target: /critical-thinking
+      text: Critical Thinking
+    - source: content/thinking
+      target: /cognition
+      text: cognition
+    - source: content/thinking
+      target: /first-principles-thinking
+      text: first-principles-thinking
+    - source: content/three.js
+      target: /_index
+      text: index
+    - source: content/time-value-of-shipping
+      target: /_index
+      text: index
+    - source: content/train-perception
+      target: /theme-observation
+      text: theme-observation
+    - source: content/train-perception
+      target: /perception
+      text: perception
+    - source: content/transmissionism
+      target: /continuous-learning
+      text: continuous-learning
+    - source: content/two-words
+      target: /apple
+      text: Apple
+    - source: content/two-words
+      target: /infinite-games
+      text: Infinite Games
+    - source: content/two-words
+      target: /Atomicity
+      text: Atomicity
+    - source: content/two-words
+      target: /purple-cow
+      text: Purple Cow
+    - source: content/vinci-principles
+      target: /private/Dimonstratzione
+      text: Dimonstratzione
+    - source: content/vinci-principles
+      target: /Sfumato
+      text: Sfumato
+    - source: content/vinci-principles
+      target: /Arte/Scienza
+      text: Arte/Scienza
+    - source: content/vinci-principles
+      target: /Corporalita
+      text: Corporalita
+    - source: content/vinci-principles
+      target: /books/How-to-Think-Like-Leonardo-da-Vinci
+      text: How-to-Think-Like-Leonardo-da-Vinci
+    - source: content/vinci-principles
+      target: /curiosità
+      text: curiosità
+    - source: content/vinci
+      target: /vinci-principles
+      text: vinci-principles
+    - source: content/vinci
+      target: /renaissance-man
+      text: Renaissance Man
+    - source: content/voxel-based-morphometry
+      target: /hippocampus
+      text: Hippocampus
