@@ -1,3 +1,5 @@
 ---
 title: "Mathematics"
+alias: [""]
+tags:
 ---

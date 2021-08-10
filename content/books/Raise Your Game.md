@@ -11,7 +11,7 @@ title: "Raise Your Game"
 # Raise Your Game
 [[Alan Stein]]
 
-### [[Concepts]]
+### [[003MOC_concepts]]
 
 ### Tools
 

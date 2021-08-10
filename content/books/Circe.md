@@ -5,7 +5,7 @@ title: "Circe"
 # Circe
 [[Madeline Miller]]
 
-### [[Concepts]]
+### [[003MOC_concepts]]
 
 ### Tools
 

@@ -1,12 +1,10 @@
 ---
 title: "WebGL"
+alias: "WebGL"
+tags: 
 ---
-%% ---
-alias: [" "]
---- %%
-%% - metadata
-	- tags: #experimental #programming
-%%
+
+[index](_index.md) < [programming](MOC_programming.md) < [creative code](creative-code.md)
 
 ### Introduction
 https://www.youtube.com/watch?v=f-9LEoYYvE4
@@ -22,7 +20,7 @@ https://docs.spline.design/intro-tutorial
 
 it's dead. but think web experience and immersive installation.
 Read: https://www.awwwards.com/30-experimental-webgl-websites.html
-- [[Three.js]] is used (as a framework?)
+- [three.js](three.js) is used (as a framework?)
 ----
 ## Sites
 Most of these sites follow one of three formats:
@@ -41,14 +39,14 @@ https://dogstudio.co/cases/tomorrowland/ | #music/EDM
 > Asks how to translate emotions of a real experience (especially something as unique and as "immersive" as a music festival) to the digital landscape. 
 
 https://dogstudio.co/cases/navy-pier/ | #aquarium
-> Built with [[Unity3D]]. Physical experience, though. But I like the idea of an aquarium. I'm starting to think [[Game Design]] is a superior field, from the interaction, aesthetics, emotions, skill-building involved, etc. 
+> Built with [[Unity3D]]. Physical experience, though. But I like the idea of an aquarium. I'm starting to think [[game-design]] is a superior field, from the interaction, aesthetics, emotions, skill-building involved, etc. 
 
 > Talks a little about [[Human Behavior]] and it's sources, [[Desire]], [[Emotion]], and [[Knowledge]]. But that's it. Detailed process, but too wordy and not impactful enough. 
 
 - [ ] NTS: Look at https://www.awwwards.com/ frequently. Great inspiration.*
 
 https://www.oculus.com/medal-of-honor/ | #VR
-> Like a roller coaster. Each scroll is controlled, but takes you on a deliberate journey. It's static. I like the implications it has for VR. If I feel this entranced by a simple monitor, I can only imagine how immersive [[Virtual Reality]] will be. I also see stylistic choice with art. Definitely something that the [[Style Transfer]] via [[EbSynth]] would help with. 
+> Like a roller coaster. Each scroll is controlled, but takes you on a deliberate journey. It's static. I like the implications it has for VR. If I feel this entranced by a simple monitor, I can only imagine how immersive [[virtual-reality]] will be. I also see stylistic choice with art. Definitely something that the [[Style Transfer]] via [[EbSynth]] would help with. 
 
 https://weedensenteret.no/ | #on/cannabis
 > Learned a little about [[Cannabis]]. Had a game, which was cool and all but not that relevant. Could've had a better concept, like...
@@ -63,12 +61,12 @@ https://fremtidensuddannelser.dk/en | #on/education
 > Great copy, easy to read and understand. Good multimedia approach as well. The navigation was unintuitive, but overall I enjoyed it for it's simplicity and purpose. 
 
 https://turbulent.ca/life/
-> The copy is unclear, but I like their [[Three C's of Craftery]]. It's incredible how much good soundscape makes a difference in the experience. 
+> The copy is unclear, but I like their [3c-craftery](3c-craftery.md). It's incredible how much good soundscape makes a difference in the experience. 
 
 https://shutdown.gallery/ | [[Art]]
 > The idea of a virtual art gallery is appealing to me. I can browse art with more clarity, even if I'm not fully immersed in it. I should explore more virtual art exhibits. It'll allow me to take notes and remember the concepts and meanings behind paintings more. 
-> The copy talks about growth and how the pandemic halted it because it blocked or "shut us down". [[Limitation is a catalyst for creativity]]. 
-- [ ] Explore [[Patrik Huebner]]'s work. #todo
+> The copy talks about growth and how the pandemic halted it because it blocked or "shut us down". [freedom-of-constraints](freedom-of-constraints.md). 
+- [ ] Explore [[patrik-huebner]]'s work. #todo
 
 https://www.merci-michel.com/ | #studio
 > They call themselves a digital production house.
@@ -85,4 +83,5 @@ https://www.merci-michel.com/ | #studio
 
 -------------
 ### See also
-[[ here goes related concepts]] 
+
+ tags: #experimental #programming

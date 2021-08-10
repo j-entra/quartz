@@ -2,7 +2,7 @@
 title: "Kafka on the Shore"
 ---
 
-[[Haruki Murakami]]
+[[Haruki-Murakami]]
 
 ### Concepts
 

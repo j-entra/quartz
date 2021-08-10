@@ -11,7 +11,7 @@ title: "Breaking the Habit of Being Yourself"
 # Breaking the Habit of Being Yourself 
 [[Joe Dispenza]]
 
-### [[Concepts]]
+### [[003MOC_concepts]]
 
 ### Tools
 

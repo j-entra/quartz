@@ -5,13 +5,13 @@ title: "Sapiens"
 - metadata
 	- tags: #source/book
 	- dates: 
-	- people: [[Yuval Noah Harari]]
+	- people: [[Yuval-Noah-Harari]]
 %%
 
 # Sapiens
-[[Yuval Noah Harari]]
+[[Yuval-Noah-Harari]]
 
-### [[Concepts]]
+### [[003MOC_concepts]]
 
 ### Tools
 

@@ -1,7 +1,8 @@
 %% ---
-alias: 
---- %%
-%% - metadata
-	- tags: # 
-	- dates: 
-	- work: %%
+---
+- 
+	- alias: '000'
+	- tags: #test
+	- work: 
+
+---

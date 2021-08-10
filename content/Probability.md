@@ -2,22 +2,9 @@
 title: "Probability"
 ---
 
-[[_Index]]
-
-%% ---
-alias: [" "]
---- %%
-%% - metadata
-	- tags: #
-	- source: 
-	- fr: 
-%%
-
-# Probability
-
-[[Bayesian Probability]]
+[bayesian probability](bayesian-probability.md)
 
 -------------
 ### See also
-[[ here goes related concepts]]
+[mathematics](mathematics.md)
 

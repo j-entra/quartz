@@ -4,8 +4,8 @@ title: "How to Think Like Leonardo da Vinci"
 
 [[Michael J. Gelb]]
 
-### [[Concepts]]
-[[Curiosità]]
+### [[003MOC_concepts]]
+[[curiosità]]
 1. [[When am I most naturally myself?]]
 2. [[What is the one thing I could stop doing, or start doing, or do differently, starting today that would most improve the quality of my life?]]
 3. [[What is my greatest talent?]]
@@ -17,7 +17,7 @@ title: "How to Think Like Leonardo da Vinci"
 9. [[What are the blessings of my life?]]
 10. [[What legacy would I like to leave?]]
 
-- [ ] finish up [[Curiosità]] prompts #todo
+- [ ] finish up [[curiosità]] prompts #todo
 
 ### Tools
 

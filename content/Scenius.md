@@ -2,7 +2,7 @@
 title: "Scenius"
 ---
 
-[[_Index]]
+[[_index]]
 
 %% ---
 alias: [" "]
@@ -17,9 +17,8 @@ alias: [" "]
 
 **Being a valuable part of a scenius is not necessarily about how smart or talented you are, but about what you have to contribute—the ideas you share, the quality of the connections you make, and the conversations you start.**
 
-On [[Work-with-the-garage-door-up]]. My hope is that it grounds me in community/reality, allows me to practice communication via [[Feynman Technique]], and leaves some sort of negligible value.
+On [learn-in-public](learn-in-public.md). My hope is that it grounds me in community/reality, allows me to practice communication via [[feynman-technique]], and leaves some sort of negligible value.
 
 -------------
 ### See also
-[[ here goes related concepts]]
 

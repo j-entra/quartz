@@ -2,7 +2,7 @@
 title: "Ontology"
 ---
 
-[[_Index]]
+[[_index]]
 
 %% ---
 alias: [" "]
@@ -15,9 +15,9 @@ alias: [" "]
 
 # Ontology
 - fundamental categories of [[Being]]
-- Do [[Universals]] Exist?
+- Do [[universals]] Exist?
 
-[[Phenomenology]]
+[[phenomenology]]
 
 -------------
 ### See also

@@ -7,7 +7,7 @@ alias: ["Plato"]
 %% - metadata
 	- tags: # 
 	- dates: 
-	- people: [[Plato]] %%
+	- people: [[plato]] %%
 
 # Platoism
 
@@ -15,11 +15,11 @@ alias: ["Plato"]
 	
 1. [[Common sense ]]
 2. [[Knowing one's self leads to ]]
-3. [[Love is self-education]]
+3. [[love-selfeducation]]
 4. [[Beautiful ideas are ]]
-5. [[Hyperuranion]]
-6. [[Theory of Ideas]]
-7. [[Idealism]]
+5. [[hyperuranion]]
+6. [[theory-of-ideas]]
+7. [[idealism]]
 
 1) The Ion (Epistemology)
 2)The Meno (Epistemology about virtue)
@@ -32,7 +32,7 @@ After you finish there previous list, this order not that important
 a) Protagoras (Language and Rhetoric)
 b) Gorgias(Language and Rhetoric)
 c) Cratylus(Language and Rhetoric)
-d)The Republic 
+d)[The Republic](the-republic.md) 
 e)Lysis (Friendship & love)
 f)Symposium(Friendship & love)
 g)Phædrus(Friendship & love)

@@ -13,5 +13,5 @@ alias: ["Heaven of Ideas", "Platonic realm"]
 
 See also
 -----
-[[ here goes related concepts]] [[Theory of Ideas]]
+[[ here goes related concepts]] [[theory-of-ideas]]
 

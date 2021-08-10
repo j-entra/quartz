@@ -1,13 +1,14 @@
 ---
-title: "About"
+title: "home"
+alias: "index, home"
 ---
 
-# About
+# focus
 
 
 👋  Hello! I'm Jen, and these are my notes. 
 
-I’m a generally private person, but this is me [working with the garage door up.](Work-with-the-garage-door-up.md) Where to poke around? Maybe my [workbench,](workbench.md) or maybe my [bookshelf.](library.md)
+This is me [working with the garage door up.](learn-in-public.md) Where to poke around? Maybe my [desk,](_now.md) or maybe my [workbench,](_workbench.md) or maybe my [bookshelf.](library.md)
 
 Disclaimer: I'm currently transferring all of my notes from Obsidian formatting to one that will play nice with Quartz. That's why everything's so brutal and broken.  ¯\\\_(ツ)_/¯
 
@@ -16,8 +17,6 @@ This site was built by [Jacky Zhao](https://jzhao.xyz/) using [Quartz](https://g
 
 ---
 
-#### Inner-led Sense Making: [Mindsets](Mindset.md) & [Outputs](Outputs.md)
+#### Inner-led Sense Making: [mindsets](001MOC_mindset.md) & [outputs](002MOC_outputs.md)
 
-#### Things: [Concepts](Concepts.md) & [Interests](Interests.md)
-
-#### Outer-led Sense Making: [Sources](005MOC%20Sources.md) & [People](006MOC%20People.md)
+#### Things: [concepts](003MOC_concepts.md) & [Interests](004MOC_interests.md)

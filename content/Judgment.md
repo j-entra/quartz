@@ -1,22 +1,14 @@
 ---
-title: "Judgment"
+title: "judgment"
+alias: "judgment"
+tags: 
 ---
 
-[[_Index]] | [[MBTI]]
-%% ---
-alias: ["Judging"]
---- %%
-%% - metadata
-	- tags: #on/MBTI 
-	- source: [[Carl-Jung]]
-	- fr: [[Cognitive Functions]]
-%%
-
+[index](_index.md) < [MBTI](MBTI.md) < [cognitive functions](cognitive-functions.md)
 
 Judging the situation against formulations and principles; discriminating with reason and consistency.
 
 -------------
 ### See also
-[[Thinking]], [[Feeling]]
-[[Perception]]
+[thinking,](thinking.md) [feeling,](feeling.md) [perception](perception.md)
 
