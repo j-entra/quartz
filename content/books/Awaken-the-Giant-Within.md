@@ -1,16 +1,18 @@
 ---
 title: "Awaken the Giant Within"
+alias: "Awaken the Giant Within"
+tags: source/book on/discipline on/mindset
 ---
 
 [[Tony Robbins]]
 
-### [[Concepts]]
+### Concepts
+1. [Decisions determine destiny](decisions-determine-destiny.md)
+2. [Rewrite pain and pleasure.](neuro-associative-conditioning.md)
+3. [Direct yourself](niagara-syndrome.md)
 
-### Tools
 
-### Thoughts
-
-### [[Quotes]]
+### Quotes
 ---
 
 - sense of contribution, of knowing that we have made a difference in other people’s lives.
@@ -32,6 +34,8 @@ title: "Awaken the Giant Within"
 - We must make sure that we live our lives in the present and respond to things that are real, not to our fears of what once was or what might someday be.
 
 - The key thing to remember is that we don’t move away from real pain; we move away from what we believe will lead to pain.
+- 
+- Every change you’ve ever made in your life only took a moment.
 
 
 ----

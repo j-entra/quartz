@@ -2,7 +2,7 @@
 title: "Your interest must transcend the field itself and border on the religious."
 ---
 
-[[_Index]]
+[[_index]]
 
 %% ---
 alias: [" "]

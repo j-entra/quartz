@@ -10,4 +10,4 @@ alias: ["Plato"]
 	- work: [[The Republic]]
  %%
 
-[[Platoism]]
+[[platoism]]

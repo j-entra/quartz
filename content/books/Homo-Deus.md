@@ -2,7 +2,7 @@
 title: "Homo Deus"
 ---
 
-[[Yuval Noah Harari]]
+[[Yuval-Noah-Harari]]
 
 ### Concepts
 

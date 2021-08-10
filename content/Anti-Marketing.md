@@ -1,16 +1,10 @@
 ---
-title: "Anti-Marketing"
+title: "anti marketing"
+alias: "anti marketing"
+tags: 
 ---
 
-
-%% ---
-alias: [" "]
---- %%
-%% - metadata
-	- tags: #
-	- source: https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu?stackedNotes=z4bK6LaSBRetDzuYkeCs3A8mJ8DufTbK4o6FS
-	- fr: [[Michael Nielsen]]
-%%
+[index](_index.md) < [marketing](MOC_Marketing.md)
 
 # Anti-Marketing
 - lay out the ugliest parts of your work in public
@@ -20,5 +14,5 @@ alias: [" "]
 
 -------------
 ### See also
-[[Work-with-the-garage-door-up]]
+[learn in public](learn-in-public.md)
 

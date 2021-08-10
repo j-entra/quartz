@@ -1,29 +1,24 @@
 ---
-title: "Curiosità"
+title: "curiosità"
+alias: "curiosità, curiosity"
+tags: #on/curiosity #on/thinking
 ---
-%% ---
-alias: ["Curiosity"]
---- %%
-%% - metadata
-	- tags: #on/curiosity #on/thinking
-	- source: [[Public Garden/FRESH/Books/How to Think Like Leonardo da Vinci]]
-%%
 
-[[001MOC Mindsets/Thinking]]
-= an insatiable curious approach to _life_ and an unrelenting quest for [[Continuous Learning]]
+[thinking](thinking.md)
+= an insatiable curious approach to _life_ and an unrelenting quest for [continuous-learning](continuous-learning.md)
 
-*"The desire to know is natural to good men." — [[Leonardo da Vinci]] #quote/curiosity *
+*"The desire to know is natural to good men." — [vinci](vinci.md) #quote/curiosity *
 
-Dissect topics from all different angles, if not four: your own [[Unconscious]] beliefs, what there is in favor of it, what there is against it, then your own informed beliefs. Look at one concept with extreme and unusual [[Perspectives]]. Multiple [[Perspectives]] will yield a more thorough understanding of topics, and each [[Concepts]] will be layered with rich depth. Curiosità/Curiosity serves as a tool for greater knowledge [[Synthesis]]. 
+Dissect topics from all different angles, if not four: your own [unconsciousness](unconsciousness.md) beliefs, what there is in favor of it, what there is against it, then your own informed beliefs. Look at one concept with extreme and unusual [Perspectives](Perspectives.md). Multiple [[Perspectives]] will yield a more thorough understanding of topics, and each [003MOC_concepts](003MOC_concepts.md) will be layered with rich depth. Curiosità/Curiosity serves as a tool for greater knowledge [[Synthesis]]. 
 
 ## Tools
 1. Ask questions. 
 2. In decisions, seek out different perspectives. Not to use, but to know the thoughts of others. 
-3. [[Observe themes]].
-4. [[Contemplate Questions]].
-5. [[Stream of Consciousness]]
+3. [theme-observation](theme-observation.md).
+4. [contemplate-questions](contemplate-questions.md).
+5. [Stream of Consciousness](Stream%20of%20Consciousness.md)
 	1. *Not sure the different between this and contemplation: You just keep going, even if your thoughts are completely incoherent.*
-6. [[Question reframing brings about different perspectives and unseen solutions.]]
+6. [question-reframing](question-reframing.md) ^kjgjr4y
 
 ### 100 Questions
 1. [[What is there beyond the edge of the universe?]]
@@ -60,7 +55,7 @@ Dissect topics from all different angles, if not four: your own [[Unconscious]] 
 32. [[What will humans evolve into?]]
 33. [[What is consciousness?]]
 34. [[What is beyond reality?]]
-35. [[What is beyond consciousness?]]
+35. [[beyond-consciousness]]
 36. [[Will technology and computers be able to replicate the human brain?]]
 37. [[What is the next level of thought?]]
 38. [[How can you be here now and still thirst for knowledge?]]
@@ -76,7 +71,7 @@ Dissect topics from all different angles, if not four: your own [[Unconscious]] 
 48.  [[What can science not explain currently?]]
 49.  [[How can we train our acuity?]]
 50.  [[How can we train our intuition?]]
-51.  [[How can we improve and train the way we see things (not vision)?]]
+51.  [[train-perception]]
 52.  [[How can we improve our predictions?]]
 53.  [[How can we train our dreams (Lucid Dreaming)?]]
 54.  [[Are there realities beyond this one (Parallel universes)?]]
@@ -91,7 +86,7 @@ Dissect topics from all different angles, if not four: your own [[Unconscious]] 
 63.  [[Limits of math]]
 64.  [[Intersection of math and emotions?]]
 65.  [[How far can the mind be stretched?]]
-66.  [[How to connect to the "Inner God"]]
+66.  [[inner-god]]
 67.  [[How far can one develop oneself inwardly?]]
 68.  [[How far can one develop onself outwardly (physically)?]]
 69.  [[Can you really attract all that you want?]]
@@ -103,4 +98,6 @@ Curiosity requires a lot of thinking, of not taking the world for what it is. It
 
 -------------
 ### See also
-[[Dimonstratzione]] | [[Sensazione]] | [[Sfumato]] | [[Arte/Scienza]] | [[Corporalita]] | [[Connessione]]
+[[private/Dimonstratzione]] | [[Sensazione]] | [[Sfumato]] | [[Arte/Scienza]] | [[Corporalita]] | [[Connessione]] 
+
+[How-to-Think-Like-Leonardo-da-Vinci](books/How-to-Think-Like-Leonardo-da-Vinci.md)

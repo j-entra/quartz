@@ -1,15 +1,22 @@
 ---
 title: "Atomic Habits"
+alias: "Atomic Habits"
+tags: on/habits 
 ---
 
 [[James Clear]]
 
 ### Concepts
+- [1% better everyday.](one-percent.md)
+- [You don't rise to the level of your goals, you fall to the level of your systems](fall-to-systems.md)
+- [Build your identity, not your habits.](identity-not-habits.md)
+- [Make ideal habits obvious, easy, attractive.](hoea.md)
+	- Break habits by making it invisible, unattractive, difficult, and unsatisfying.
+
 
 ### Tools
-
+1. [[habit-stacking]]
 ### Thoughts
-
 ### Quotes
 ---
 
@@ -35,7 +42,7 @@ title: "Atomic Habits"
 
 - The all-or-nothing cycle of behavior change is just one pitfall that can derail your habits.
 
-- “Genes can predispose, but they don’t predetermine.” The
+- “Genes can predispose, but they don’t predetermine.”
 
 - fixable flaws—a spot on your shirt, a
 
@@ -48,3 +55,6 @@ title: "Atomic Habits"
 
 ----
 ### See Also
+
+### References
+- [Aidan Hornsby](https://medium.com/@aidanhornsby?p=c021e38eeae7)

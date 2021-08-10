@@ -3,7 +3,7 @@
 ---
 
 
-[[Thesaurus]]
+[[thesaurus]]
 
 
 # Kowtow

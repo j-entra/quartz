@@ -1,33 +1,24 @@
 ---
 title: "MBTI"
+alias: "MBTI, Myers Briggs, mbti"
+tags: 
 ---
 
-[[_Index]]
+[index](_index.md) < 
 
-%% ---
-alias: ["Myers-Briggs"]
---- %%
-%% - metadata
-	- tags: #
-	- source: 
-	- fr: [[Carl-Jung]]
-%%
-
-# MBTI
-
-[[ENTJ]] | [[INTJ]]
+[ENTJ](private/ENTJ.md) | [INTJ](private/INTJ.md)
 
 ### Definitions
-[[Attitudes of Consciousness]] (direction)
-- [[Introversion]]
-- [[Extroversion]]
+[consciousness attitudes](consciousness-attitudes.md) (direction)
+- [introversion](introversion.md)
+- [extroversion](extroversion.md)
 
-[[Cognitive Functions]] (ways)
-- **[[Judgment]]:** [[Thinking]] and [[Feeling]]
-- **[[Perception]]:** [[Intuition]] and [[Sensation]]
+[cognitive functions](cognitive-functions.md) (ways)
+- **[judgment](judgment.md):** [thinking](thinking.md) and [feeling](feeling.md)
+- **[perception](perception.md):** [intuition](intuition.md) and [sensation](sensation.md)
 
 
 -------------
 ### See also
-[[Carl-Jung]], [[Archetypes]]
+[carl jung](carl-jung.md), [archetypes](archetypes.md)
 

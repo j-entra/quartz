@@ -2,16 +2,8 @@
 title: "Universals"
 ---
 
-[[_Index]] 
+[[_index]] 
 
-%% ---
-alias: [" "]
---- %%
-%% - metadata
-	- tags: #
-	- source: 
-	- fr: 
-%%
 
 # Universals
 **Definition**: things that can be shared by different individual objects, such as red, square, or beautiful. 
@@ -20,5 +12,4 @@ The question is: Do these universals have any sort of existence apart from the t
 
 -------------
 ### See also
-[[ here goes related concepts]]
 

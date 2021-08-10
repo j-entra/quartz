@@ -1,16 +1,12 @@
 ---
-title: "Three.js"
+title: "three.js"
+alias: "three.js"
+tags: 
 ---
-%% ---
-alias: [" "]
---- %%
-%% - metadata
-	- tags: #
-%%
 
-https://threejs.org/
-Prereq: https://threejsfundamentals.org/threejs/lessons/threejs-prerequisites.html
+[index](_index.md) < [programming](MOC_Programming.md) < [creative code](creative-code.md)
+
+currently learning!
 
 -------------
 ### See also
-[[ here goes related concepts]]

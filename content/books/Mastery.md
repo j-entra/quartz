@@ -1,42 +1,35 @@
 ---
 title: "Mastery"
 ---
-%%
-- metadata
-	- tags: #source/book
-	- dates: 
-	- people: [[Robert Greene]]
-%%
+[Robert Greene](Robert-Greene.md)
 
-# Mastery
-[[Robert Greene]]
+## Concepts
 
-[---
-## [[Concepts]]
-
-[[The Flow State is]]
-[[Knowledge is Power.]]
+[[flow-state]]
+[[knowledge-power]]
 [[MOC Self-Knowledge]]
 [[Your interest must transcend the field itself and border on the religious.]]
-[[Mastery brings pleasure with challenges.]]
-[[The hacker approach to apprenticeship]]
+[[pleasure-of-challenge]]
+[[hacker-apprenticeship]]
 
 
 ## Tools for Finding Your Life Task
-1. [[Primal Inclination Strategy]]
-2. [[Darwinian Strategy]]
-3. [[Strategies for Completing the Ideal Apprenticeship]]
+1. [[primal-inclination-strategy]]
+2. [[darwinian-strategy]]
+3. [[ideal-apprenticeship]]
 
 ----
-## Thoughts:
+## Thoughts
 
 Counter-forces have been present, but I hardly think I have followed them. Everything that I have done is a result of my own actions, and even a lack of following the call to action.
 
-The field that sparks the "childlike sense of wonder and excitement" will allow you to learn with a sense of urgency and necessity. It will no longer feel like learning, but it will feel like you are experiencing what you are meant to do. [[Creative Code]]. 
+The field that sparks the "childlike sense of wonder and excitement" will allow you to learn with a sense of urgency and necessity. It will no longer feel like learning, but it will feel like you are experiencing what you are meant to do. [[creative-code]]. 
 
-On the way to the club [[21-07-18_Su]], #people/Andy talked about [[John Coltrane]] and said that he had followers. I didn't get it, but now I see. There's spirituality behind his music.](<### [[Concepts]]
+A friend talked about [[John Coltrane]] and said that he had followers. I didn't get it, but now I see. There's spirituality behind his music.]
 
-### [[Quotes]]
+## Concepts
+
+## Quotes
 ---
 
 - We feel as if the words we write or the physical movements we perform come so quickly and easily that they are coming from outside us. We are literally “inspired,” the Latin word meaning something from the outside breathing within us.
@@ -45,7 +38,7 @@ On the way to the club [[21-07-18_Su]], #people/Andy talked about [[John Coltran
 
 - Under the surface, however, their minds are transforming in ways we cannot see but contain all of the seeds of their future success.
 
-- the goal of an apprenticeship is not money, a good position, a title, or a diploma, but rather the transformation of your mind and character—the first transformation on the way to mastery.
+- the goal of an [apprenticeship](apprenticeship.md) is not money, a good position, a title, or a diploma, but rather the transformation of your mind and character—the first transformation on the way to mastery.
 
 - You are finally on your own, on a voyage in which you will craft your own future. It is the time of youth and adventure—of exploring the world with an open mind and spirit.
 
@@ -73,7 +66,7 @@ On the way to the club [[21-07-18_Su]], #people/Andy talked about [[John Coltran
 
 - As you progress in life, you will become addicted to the fat paycheck and it will determine where you go, how you think, and what you do. Eventually, the time that was not spent on learning skills will catch up with you, and the fall will be painful.
 
-- If your apprenticeship is to be mostly on your own time, you will choose a place that pays the bills—perhaps one that keeps your mind sharp, but that also leaves you the time and mental space to do valuable work on your own.
+- If your [apprenticeship](apprenticeship.md) is to be mostly on your own time, you will choose a place that pays the bills—perhaps one that keeps your mind sharp, but that also leaves you the time and mental space to do valuable work on your own.
 
 - But the paradox is that the mind is essentially free.
 

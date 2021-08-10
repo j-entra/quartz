@@ -11,7 +11,7 @@ title: "Discipline Equals Freedom"
 # Discipline Equals Freedom
 [[Jocko Willink]]
 
-### [[Concepts]]
+### [[003MOC_concepts]]
 
 ### Tools
 

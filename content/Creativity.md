@@ -1,27 +1,18 @@
 ---
-title: "Creativity"
+title: "creativity"
+alias: "creativity"
+tags: 
 ---
 
-%% ---
-alias: [" "]
---- %%
-%% - metadata
-	- tags: #
-	- source: 
-	- fr: 
-%%
+[index](_index.md) < [concepts](003MOC_concepts.md)
 
-# Creativity
-
-- [[Exploratory Creativity]]: generating new ideas within given space
-- [[Transformation Creativity]]: ignoring fundamental rules to come up with potentially impossible but highly creative ideas
-- [[Combinational Creativity]]: 
+- Exploratory Creativity: generating new ideas within given space
+- Transformational Creativity: ignoring fundamental rules to come up with potentially impossible but highly creative ideas
+- [combinational creativity](combinational-creativity.md)
 
 
 Counterargument: 
-- [[Systematic Inventive Thinking]]
+- [systematic inventive thinking](systematic-inventive-thinking.md)
 
 -------------
 ### See also
-[[ here goes related concepts]]
-

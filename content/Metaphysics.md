@@ -8,7 +8,7 @@ alias: [""]
 	- tags: #bud #philosophy
 %%
 
-[[MOC Philosophy]]
+[[MOC_Philosophy]]
 # Metaphysics
 
 Defined as abstract theory with no basis in reality. Doesn't actually have to do much with physics, but named "ta meta ta phusika": one should master [[Physics]] first. 
@@ -25,8 +25,8 @@ Theme 2: [[The Study of Being]]
 
 --- 
 
-Includes [[Concepts|Concepts]] such as:
-- General Metaphysics: [[Ontology]]
+Includes [[003MOC_concepts|Concepts]] such as:
+- General Metaphysics: [[ontology]]
 - Special Metaphysics: [[MOC Cosmology]], [[Rational Psychology]], [[Natural Theology]]
 
 - [[Philosophy of space and time]]
@@ -38,12 +38,12 @@ Includes [[Concepts|Concepts]] such as:
 - [[Time]]
 - [[Space]]
 - [[Relationship between mind and matter]]
-- [[Consciousness]]
+- [[consciousness]]
 - [[Problem of Free will]]
 
 ### Philosophers
 [[w]]
-[[Immanuel Kant]]
+[[immanuel-kant]]
 
 --
 
@@ -60,7 +60,7 @@ Includes [[Concepts|Concepts]] such as:
 
 ------
 ### See Also
-[[Ontology]] | [[Aquinas's Five Ways]] | 
+[[ontology]] | [[Aquinas's Five Ways]] | 
 
 -------
 #source | 

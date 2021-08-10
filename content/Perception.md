@@ -7,9 +7,9 @@ Manner in which we absorb information about the world.
 
 -------------
 ### See also
-[Intuition](Intuition.md), [Sensation](Sensation.md)
-[Judgment](Judgment.md) 
+[intuition](intuition.md), [sensation](sensation.md)
+[judgment](judgment.md) 
 
 - tags: #on/MBTI 
-- source: [Carl Jung](Carl-Jung.md)
-- fr: [Cognitive Functions](Cognitive%20Functions.md)
+- source: [Carl Jung](carl-jung.md)
+- fr: [cognitive-functions](cognitive-functions.md)

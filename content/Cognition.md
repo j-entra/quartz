@@ -1,8 +1,8 @@
 ---
-title: "Cognition"
+title: "cognition"
+alias: "cognition"
+tags: #
 ---
-
-
 
 %% ---
 alias: [" "]
@@ -14,7 +14,7 @@ alias: [" "]
 
 To understand something, you have to engage, wrestle with it. 
 
-[[Baader-Meinhof phenomenon]]
+[baader-meinhof](baader-meinhof.md)
 
 
 -------------

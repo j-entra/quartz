@@ -1,32 +1,22 @@
 ---
-title: "_Now"
+title: "Now"
+alias: "now"
+tags: 
 ---
 
-
-### Digest
-https://bonkerfield.org/tag/philosophy/
-https://github.com/MaggieAppleton/digital-gardeners
-
-# Now
-- [ ] fundamentals (ten keys to reality ) - sam harris #238 how to build a universe
-
-- [ ] tick tick in touch bar for pomodoro
-
-- [ ] ticktick launch pomodoro
-
-- [x] https://www.alfredforum.com/topic/16558-gmails-access-multiple-gmail-accounts/
-
-- [x] dont maintain relationship to detach myself from the old me
+[index](_index.md) | [workbench](_workbench.md) | [library](library.md)
 
 
-- [ ] https://dynamicland.org
-	- [ ] on the idea of engaging mediums rather than immersive experiences... 
-	- [ ]  [ ] [[For engaging - puzzle, exploration, curiosity.]]
+### Digesting
+- [ ] https://bonkerfield.org/tag/philosophy/
+- [ ] https://github.com/MaggieAppleton/digital-gardeners
+- [ ] fundamentals (ten keys to reality) - sam harris #238 how to build a universe
+- [ ] [the republic](the-republic.md)
 
+Here is everything that I am currently interested in, having problems with, etc. etc. etc.
 
-- [ ] [[Keep expanding your horizons]]
-- [ ] [[Cryptocurrency Mining]]
-- [ ] [[First Principles Thinking]]
-- [ ] [[Free Energy Principle]]
-- [ ] [[Inert Ideas]]
-	- do something with your ideas, rather than knowledge for the sake of knowledge
+1. On Three.js: to move my Blender pieces around with my mouse
+	1. but also to learn how to scrollytell
+2. On design systems, UI/UX, yadada for work
+3. On how to solidify legibility/partnerships with the restaurant industry when you're a start-up and not sure what you're doing
+4. turning all my book notes into actual book notes, and then turning those book notes into atomic ideas

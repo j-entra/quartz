@@ -1,8 +1,8 @@
 ---
 title: "Thesaurus"
 ---
-[[_Index]]
+[[_index]]
 
 [[Language]] 
 
-[[MOC Communication]]
+[[MOC_Communication]]
