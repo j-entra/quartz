@@ -17,7 +17,7 @@ alias: [" "]
 
 > *Do not think that what is hard for you to master is humanly impossible; and if it is humanly possible, consider it within your reach.*" — [[Marcus Aurelius]]
 
-1. [[¶-learning-over-money]]
+1. [[learning-over-money]]
 2. [[horizon-expansion]]
 3. [[childlike-learning]]
 4. [[trust-the-process]]

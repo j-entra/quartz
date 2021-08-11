@@ -33,15 +33,15 @@
     .backgroundColor(isDarkMode ? getStyle('light') : "rgba(0,0,0,0)")
     .graphData(data)
     .nodeLabel((d) => `<div class="nodeLabel"><p>${d.id}</p></div>`)
-    .onNodeClick((d) => window.location.href = `${d.id}`)
+    .onNodeClick((d) => window.location.href = `quartz/${d.id}`)
     .nodeColor((d) => {
       if (d.id === hoverNode) {
-        return getStyle('green')
+        return getStyle('0x84A59D')
       }
 
       // something else selected, dim self
       if (!!hoverNode && !highlightNodes.has(d.id)) {
-        return "#afbfc933"
+        return "0x84A59D"
       }
 
       for (const pathColor of pathColors) {
@@ -51,10 +51,10 @@
           return colour
         }
       }
-      return getStyle('green')
+      return getStyle('ox84A59D')
     })
     .linkOpacity(1)
-    .linkColor((l) => highlightLinks.has(l.index) ? "#5A7282" : getStyle('outlinegray'))
+    .linkColor((l) => highlightLinks.has(l.index) ? "#84A59D" : getStyle('outlinegray'))
     .onNodeHover((d) => {
       // empty selection
       if (!d) {
@@ -130,8 +130,8 @@
 
   const animate = function () {t
     const scene = Graph.scene()
-    scene.rotation.x += 5e-4
-    scene.rotation.y += 5e-4
+    scene.rotation.x += 3e-4
+    scene.rotation.y += 3e-4
     requestAnimationFrame(animate)
   }
   animate()

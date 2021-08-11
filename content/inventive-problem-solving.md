@@ -17,5 +17,5 @@ alias: [" "]
 
 -------------
 ### See also
-[¶-40-inventive-principles](¶-40-inventive-principles.md) [systematic-inventive-thinking](systematic-inventive-thinking.md)
+[40-inventive-principles](40-inventive-principles.md) [systematic-inventive-thinking](systematic-inventive-thinking.md)
 

@@ -3,7 +3,7 @@ title: "This Is Marketing"
 ---
 [[Seth Godin]]
 
-### [[§-concepts]]
+### [[1-concepts]]
 
 ### Tools
 

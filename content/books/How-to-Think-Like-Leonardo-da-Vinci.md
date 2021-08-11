@@ -4,7 +4,7 @@ title: "How to Think Like Leonardo da Vinci"
 
 [[Michael J. Gelb]]
 
-### [[§-concepts]]
+### [[1-concepts]]
 [[curiosity]]
 1. [[When am I most naturally myself?]]
 2. [[What is the one thing I could stop doing, or start doing, or do differently, starting today that would most improve the quality of my life?]]

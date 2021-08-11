@@ -13,4 +13,4 @@ See [Se].
 
 -------------
 ### See also
-[Se](private/Se.md), [Si](private/Si.md) | [cognitive functions](cognitive-functions.md), [feeling](feeling.md), [intuition](intuition.md), [§-thinking](§-thinking.md)
+[Se](private/Se.md), [Si](private/Si.md) | [cognitive functions](cognitive-functions.md), [feeling](feeling.md), [intuition](intuition.md), [1-thinking](1-thinking.md)

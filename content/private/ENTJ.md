@@ -7,8 +7,8 @@ alias: [" "]
 --- %%
 %% - metadata
 	- tags: #on/MBTI 
-	- source: [[Σ-carl-jung]]
-	- fr: [[§-MBTI]]
+	- source: [[carl-jung]]
+	- fr: [[1-MBTI]]
 %%
 
 # ENTJ: [Te](private/Te.md)-[Ni](private/Ni.md)-[Se](private/Se.md)-[Fi](private/Fi.md)

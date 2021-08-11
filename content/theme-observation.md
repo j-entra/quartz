@@ -9,7 +9,7 @@ In the source, the author describes the #theme [[Contact with Material Objects]]
 
 -------------
 ### See also
-[perception](perception.md), [be here now](books/Σ-be-here-now.md)
+[perception](perception.md), [be here now](books/be-here-now.md)
 
 - tags: #
 - fr: [curiosity](curiosity.md)

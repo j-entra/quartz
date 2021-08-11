@@ -4,7 +4,7 @@ alias: "now"
 tags: 
 ---
 
-[index](/.md) | [workbench](_workbench.md) | [§-library](§-library.md)
+[index](/.md) | [workbench](_workbench.md) | [1-library](1-library.md)
 
 
 ### Digesting

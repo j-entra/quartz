@@ -11,7 +11,7 @@ title: "Secret of the Ages"
 # Secret of the Ages
 [[Carol Rosselle]]
 
-### [[§-concepts]]
+### [[1-concepts]]
 
 ### Tools
 

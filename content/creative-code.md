@@ -4,9 +4,9 @@ alias: "creative code"
 tags: 
 ---
 
-[index](/.md) < [interests](§-interests.md) < [programming](§-programming.md)
+[index](/.md) < [interests](1-interests.md) < [programming](1-programming.md)
 
-Creative code serves at the intersection between [design](Design.md) and [programming](§-programming.md). It focuses on [[Animation]], [[Interaction]], and [[Visual Effects.]]
+Creative code serves at the intersection between [design](Design.md) and [programming](1-programming.md). It focuses on [[Animation]], [[Interaction]], and [[Visual Effects.]]
 
 ## Mathematical Concepts 
 - [[Lorenz Attractors]]

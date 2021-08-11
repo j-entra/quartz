@@ -4,7 +4,7 @@ alias: "introversion"
 tags: 
 ---
 
-[index](/.md) < [§-MBTI](§-MBTI.md)
+[index](/.md) < [1-MBTI](1-MBTI.md)
 
 # Introversion
 

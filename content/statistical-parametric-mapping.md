@@ -14,4 +14,4 @@ Corollary: [voxel-based-morphometry](voxel-based-morphometry.md)
 
 - tags: #on/neuroscience 
 - source: 
-- fr: [[Σ-karl-friston]]
+- fr: [[karl-friston]]

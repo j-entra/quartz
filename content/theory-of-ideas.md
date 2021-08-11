@@ -9,4 +9,4 @@ title: "Theory of Ideas"
 ### See also
 
 - tags: #on/philosophy 
-- source: [[Σ-plato]]
+- source: [[plato]]

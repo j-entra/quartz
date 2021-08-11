@@ -2,18 +2,18 @@
 title: "Te"
 ---
 
-[[_index]] | [[§-MBTI]]
+[[_index]] | [[1-MBTI]]
 
 %% ---
 alias: ["Extroverted Thinking"]
 --- %%
 %% - metadata
 	- tags: #on/MBTI 
-	- source: [[Σ-carl-jung]]
-	- fr: [[§-thinking]]
+	- source: [[carl-jung]]
+	- fr: [[1-thinking]]
 %%
 
-# Extroverted [§-thinking](§-thinking.md) (Te) - "Effectiveness"
+# Extroverted [1-thinking](1-thinking.md) (Te) - "Effectiveness"
 
 Te is the primary way TeNi’s interact with the world around them. Te is all about efficiency and getting things done. It is the TeNi’s primary decision-making process, which means that if a decision is needed in the moment, they will rely on what makes the most sense logically. They are primarily concerned with moving forward and are not interested in wasting time and energy nitpicking a solution to death before applying it. Their solution is the "perfect" solution in the moment. The best, most effective solution is often obvious to them, and they are masters of maximization and efficiency.
 
@@ -30,7 +30,7 @@ Te is the primary way TeNi’s interact with the world around them. Te is all ab
 
 -------------
 ### See also
-[[private/Ti]], [[§-thinking]]
+[[private/Ti]], [[1-thinking]]
 [[private/ENTJ]]: [[private/Te]]-[[private/Ni]]-[[private/Se]]-[[private/Fi]] | [[private/INTJ]] [[private/Ni]]-[[private/Te]]-[[private/Fi]]-[[private/Se]]
 
 

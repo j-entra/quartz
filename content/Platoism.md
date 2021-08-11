@@ -7,7 +7,7 @@ alias: ["Plato"]
 %% - metadata
 	- tags: # 
 	- dates: 
-	- people: [[Σ-plato]] %%
+	- people: [[plato]] %%
 
 # Platoism
 

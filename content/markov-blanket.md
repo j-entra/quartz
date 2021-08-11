@@ -28,7 +28,7 @@ Readings:
 	- external states cause sensory states, which influence internal states
 	- internal states cause active states, which influence external states
 	- each state influences the other
-	- In neuroscience, Markov blankets are at each level of the brain's hierarchy (aka, the brain is a hierarchical [[bayesian-probability|Baynesian network]] — what [[Σ-geoffrey-hinton]] said.)
+	- In neuroscience, Markov blankets are at each level of the brain's hierarchy (aka, the brain is a hierarchical [[bayesian-probability|Baynesian network]] — what [[geoffrey-hinton]] said.)
 	- [[Predictive Coding]]
 	- Imagine a creature confronted with a riverbank: in the absence of any prior beliefs about what it would be like to be in the water, the river holds an epistemic affordance (i.e. novelty), in the sense that entering the water resolves uncertainty about ‘what would happen if I did that’. If the unfortunate creature subsequently drowned, priors would emerge (with a bit of natural selection) in her conspecifics that water is not a natural habitat. A few generations down the line, the creature, when confronted with a riverbank, will maintain a safe distance in virtue of avoiding expected surprise, i.e. fulfilling the prior belief that ‘creatures like me are not found in water.’
 	- Isn't this just [[Natural Selection]]? But also, how can I relate this to [[collective-unconscious]].
@@ -36,5 +36,5 @@ Readings:
 
 -------------
 ### See also
-[[¶-free-energy-principle]] [[¶-active-inference]]
+[[free-energy-principle]] [[active-inference]]
 

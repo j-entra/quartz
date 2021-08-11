@@ -4,5 +4,5 @@ alias: "death of design"
 tags: 
 ---
 
-[index](_index.md) < [§-design](§-design.md)
+[index](_index.md) < [1-design](1-design.md)
 

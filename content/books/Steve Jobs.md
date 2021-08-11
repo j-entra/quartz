@@ -11,7 +11,7 @@ title: "Steve Jobs"
 # Steve Jobs
 [[Walter Isaacson]]
 
-### [[§-concepts]]
+### [[1-concepts]]
 
 ### Tools
 

@@ -4,11 +4,11 @@ alias: "Circe"
 tags: 
 ---
 
-[index](/.md) < [§-library](§-library.md)
+[index](/.md) < [1-library](1-library.md)
 
 [[Madeline Miller]]
 
-### [[§-concepts]]
+### [[1-concepts]]
 
 ### Tools
 

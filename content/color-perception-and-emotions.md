@@ -4,7 +4,7 @@ title: "Although we don't all see the same colors, our perceptions of the wavele
 
 tag: #color #perceptions #bud
 #source/article | https://www.livescience.com/21275-color-red-blue-scientists.html
-fr: [what-is-there](what-is-there.md)
+fr: [what-is-there](private/what-is-there.md)
 
 [color](color.md)
 
