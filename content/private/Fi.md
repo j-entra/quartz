@@ -2,14 +2,14 @@
 title: "Fi"
 ---
 
-[[_index]] | [[MBTI]]
+[[_index]] | [[§-MBTI]]
 
 %% ---
 alias: ["Introverted Feeling"]
 --- %%
 %% - metadata
 	- tags: #on/MBTI
-	- source: [[carl-jung]]
+	- source: [[Σ-carl-jung]]
 	- fr: [[feeling]]
 %%
 

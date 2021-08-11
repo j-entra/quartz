@@ -2,7 +2,7 @@
 title: "Universals"
 ---
 
-[[_index]] 
+[index](/..md) 
 
 
 # Universals

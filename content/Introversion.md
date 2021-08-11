@@ -1,17 +1,10 @@
 ---
-title: "Introversion"
+title: "introversion"
+alias: "introversion"
+tags: 
 ---
 
-[[_index]]
-
-%% ---
-alias: [" "]
---- %%
-%% - metadata
-	- tags: #on/MBTI 
-	- source: [[carl-jung]]
-	- fr: [[MBTI]]
-%%
+[index](/.md) < [§-MBTI](§-MBTI.md)
 
 # Introversion
 

@@ -4,7 +4,7 @@ alias: "optionality"
 tags: 
 ---
 
-[index](_index.md) < [concepts](003MOC_concepts.md)
+[index](_index.md) < [concepts](§-concepts.md)
 
 the choice to take action. in [[antifragile]]. 
 	1. there will be too many things going on in the future to accurately predict anything. therefore, position yourself to have options

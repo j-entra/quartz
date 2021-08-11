@@ -10,7 +10,7 @@ As opposed to [Deductive Reasoning](deductive-reasoning.md):
 		- talks about emotions and how humans *aren't* as logical as we think
 		- actually not a counterargument - Sutherland uses it to exploit (harsh word) us, but supporters of [First Principles Thinking](first-principles-thinking.md) use it on themselves.
 		- See: [Rory Sutherland Playbook](https://bettermarketing.pub/the-rory-sutherland-playbook-567b2db29961)]]
-		- See: [Mental Models](mental-models.md)
+		- See: [Mental Models](§-mental-models.md)
 		- See: [Systems Thinking](systems-thinking.md)
 		- From: [first-principles-thinking](first-principles-thinking.md)
 

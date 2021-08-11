@@ -11,7 +11,7 @@ title: "No Excuses!"
 # No Excuses!
 [[Tracy, Brian]]
 
-### [[003MOC_concepts]]
+### [[§-concepts]]
 
 ### Tools
 

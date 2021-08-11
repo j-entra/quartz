@@ -8,7 +8,7 @@ alias: [" "]
 --- %%
 %% - metadata
 	- tags: #on/MBTI 
-	- source: [carl-jung](carl-jung.md)
+	- source: [Σ-carl-jung](Σ-carl-jung.md)
 	- fr: [cognitive-functions](cognitive-functions.md)
 %%
 
@@ -22,5 +22,5 @@ See [Fi](private/Fi.md).
 
 -------------
 ### See also
-[Fe](private/Fe.md), [Fi](private/Fi.md) | [cognitive-functions](cognitive-functions.md), [thinking](thinking.md), [intuition](intuition.md), [sensation](sensation.md)
+[Fe](private/Fe.md), [Fi](private/Fi.md) | [cognitive-functions](cognitive-functions.md), [§-thinking](§-thinking.md), [intuition](intuition.md), [sensation](sensation.md)
 

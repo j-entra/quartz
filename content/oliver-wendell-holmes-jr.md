@@ -16,4 +16,4 @@ alias:
 
 
 # Quotes
-_“I would not give a fig for the simplicity this side of complexity, but I would give my life for the simplicity on the other side of complexity.” #on/simplicity [[complexity-then-simplicity]]
+_“I would not give a fig for the simplicity this side of complexity, but I would give my life for the simplicity on the other side of complexity.” #on/simplicity [[¶-complexity-then-simplicity]]

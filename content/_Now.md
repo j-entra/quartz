@@ -4,14 +4,14 @@ alias: "now"
 tags: 
 ---
 
-[index](_index.md) | [workbench](_workbench.md) | [library](library.md)
+[index](/.md) | [workbench](_workbench.md) | [§-library](§-library.md)
 
 
 ### Digesting
 - [ ] https://bonkerfield.org/tag/philosophy/
 - [ ] https://github.com/MaggieAppleton/digital-gardeners
 - [ ] fundamentals (ten keys to reality) - sam harris #238 how to build a universe
-- [ ] [the republic](the-republic.md)
+- [ ] [the republic](books/the-republic.md)
 
 Here is everything that I am currently interested in, having problems with, etc. etc. etc.
 

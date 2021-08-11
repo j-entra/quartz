@@ -4,6 +4,6 @@ alias: "spirituality"
 tags: 
 ---
 
-[index](_index.md) < [interests](004MOC_interests.md)
+[index](_index.md) < [interests](§-interests.md)
 
 [buddhism](buddhism.md)

@@ -4,7 +4,7 @@ title: "Mans Search for Meaning"
 
 [[Viktor Frankl]]
 
-### [[003MOC_concepts]]
+### [[§-concepts]]
 
 ### Tools
 

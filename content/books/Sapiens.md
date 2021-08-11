@@ -11,7 +11,7 @@ title: "Sapiens"
 # Sapiens
 [[Yuval-Noah-Harari]]
 
-### [[003MOC_concepts]]
+### [[§-concepts]]
 
 ### Tools
 

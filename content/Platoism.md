@@ -7,7 +7,7 @@ alias: ["Plato"]
 %% - metadata
 	- tags: # 
 	- dates: 
-	- people: [[plato]] %%
+	- people: [[Σ-plato]] %%
 
 # Platoism
 
@@ -32,7 +32,7 @@ After you finish there previous list, this order not that important
 a) Protagoras (Language and Rhetoric)
 b) Gorgias(Language and Rhetoric)
 c) Cratylus(Language and Rhetoric)
-d)[The Republic](the-republic.md) 
+d)[The Republic](books/the-republic.md) 
 e)Lysis (Friendship & love)
 f)Symposium(Friendship & love)
 g)Phædrus(Friendship & love)

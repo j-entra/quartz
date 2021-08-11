@@ -1,5 +1,0 @@
----
-title: "Mathematics"
-alias: [""]
-tags:
----

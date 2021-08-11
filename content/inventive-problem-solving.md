@@ -2,7 +2,7 @@
 title: "Theory of Inventive Problem Solving"
 ---
 
-[[_index]] | [[thinking]]
+[_index](_index.md) | [thinking](thinking.md)
 
 %% ---
 alias: [" "]
@@ -17,5 +17,5 @@ alias: [" "]
 
 -------------
 ### See also
-[40-inventive-principles](40-inventive-principles.md) [systematic-inventive-thinking](systematic-inventive-thinking.md)
+[¶-40-inventive-principles](¶-40-inventive-principles.md) [systematic-inventive-thinking](systematic-inventive-thinking.md)
 

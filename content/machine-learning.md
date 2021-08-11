@@ -1,31 +1,14 @@
 ---
-title: "Machine Learning"
+title: "machine learning"
+alias: "machine learning"
+tags: 
 ---
 
-[[_index]]
+[index](_index.md) < [interests](§-interests.md) < [ai](§-artificial-intelligence.md)
 
-%% ---
-alias: [" "]
---- %%
-%% - metadata
-	- tags: #
-	- source: 
-	- fr: 
-%%
-
-# Machine Learning
 = using machines to discover patterns in a set of "things". Each thing must be translated into numbers.
-[[Principle Component Analysis]]
 
-[[product-of-experts]]
-
-[[markov-blanket]]
-
-[[]]
-
--------------
-### See also
-[[ here goes related concepts]]
-
-
+- [product-of-experts](product-of-experts.md)
+- [markov-blanket](markov-blanket.md)
+- [principle-component-analysis](principle-component-analysis.md)
 

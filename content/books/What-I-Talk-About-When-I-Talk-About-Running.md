@@ -2,7 +2,7 @@
 title: "What I Talk About When I Talk About Running"
 ---
 
-[[Haruki-Murakami]]
+[[Σ-haruki-murakami]]
 
 ### Concepts
 

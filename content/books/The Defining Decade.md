@@ -11,7 +11,7 @@ title: "The Defining Decade"
 # The Defining Decade
 [[Meg Jay]]
 
-### [[003MOC_concepts]]
+### [[§-concepts]]
 
 ### Tools
 

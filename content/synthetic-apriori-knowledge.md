@@ -30,5 +30,5 @@ There are three types of knowledge
 
 
 -  tags: #
-- source: [immanuel-kant](immanuel-kant.md)
+- source: [Σ-immanuel-kant](Σ-immanuel-kant.md)
 - fr: https://www.youtube.com/watch?v=vZtQXteAE-w

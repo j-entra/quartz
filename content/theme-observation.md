@@ -1,5 +1,6 @@
 ---
 title: "Observe themes"
+alias: "observe themes"
 ---
 
 This is the answer to the question [[How can we improve/train the way we see things (not vision)?]]. 
@@ -8,9 +9,9 @@ In the source, the author describes the #theme [[Contact with Material Objects]]
 
 -------------
 ### See also
-[perception](perception.md), [Be-Here-Now](books/Be-Here-Now.md)
+[perception](perception.md), [be here now](books/Σ-be-here-now.md)
 
 - tags: #
-- fr: [curiosità](curiosit%C3%A0.md)
+- fr: [curiosity](curiosity.md)
 
 

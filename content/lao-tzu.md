@@ -1,14 +1,9 @@
 ---
-title: "Lao Tzu"
+title: "lao tzu"
+alias: "lao tzu"
+tags: 
 ---
-[[MOC_Philosophy]] | [[006MOC_people]]
 
-%% ---
-alias: 
---- %%
-%% - metadata
-	- tags: # 
-	- dates: 
-	- work: [[tao-te-ching]] %%
+[index](/.md) 
 
-# Lao Tzu
+- [Tao Te Ching](books/tao-te-ching.md)

@@ -9,7 +9,7 @@ title: "Book"
 %%
 
 ---
-[[003MOC_concepts]]
+[[§-concepts]]
 
 ----
 ## Thoughts:
