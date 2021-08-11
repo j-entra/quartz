@@ -33,7 +33,7 @@
     .backgroundColor(isDarkMode ? getStyle('light') : "rgba(0,0,0,0)")
     .graphData(data)
     .nodeLabel((d) => `<div class="nodeLabel"><p>${d.id}</p></div>`)
-    .onNodeClick((d) => window.location.href = `quartz/${d.id}`)
+    .onNodeClick((d) => window.location.href = `${d.id}`)
     .nodeColor((d) => {
       if (d.id === hoverNode) {
         return getStyle('0x84A59D')
