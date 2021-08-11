@@ -7,14 +7,14 @@ title: "Mastery"
 
 [[flow-state]]
 [[knowledge-power]]
-[[§-self-knowledge]]
+[[1-self-knowledge]]
 [[Your interest must transcend the field itself and border on the religious.]]
-[[¶-pleasure-of-challenge]]
+[[pleasure-of-challenge]]
 [[hacker-apprenticeship]]
 
 
 ## Tools for Finding Your Life Task
-1. [[¶-primal-inclination-strategy]]
+1. [[private/¶-primal-inclination-strategy]]
 2. [[darwinian-strategy]]
 3. [[ideal-apprenticeship]]
 

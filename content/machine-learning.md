@@ -4,7 +4,7 @@ alias: "machine learning"
 tags: 
 ---
 
-[index](_index.md) < [interests](§-interests.md) < [ai](§-artificial-intelligence.md)
+[index](_index.md) < [interests](1-interests.md) < [ai](artificial-intelligence.md)
 
 = using machines to discover patterns in a set of "things". Each thing must be translated into numbers.
 

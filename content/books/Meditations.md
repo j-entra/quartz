@@ -11,7 +11,7 @@ title: "Meditations"
 # Meditations
 [[Emperor of Rome Marcus Aurelius]]
 
-### [[§-concepts]]
+### [[1-concepts]]
 
 ### Tools
 

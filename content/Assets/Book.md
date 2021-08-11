@@ -9,7 +9,7 @@ title: "Book"
 %%
 
 ---
-[[§-concepts]]
+[[1-concepts]]
 
 ----
 ## Thoughts:

@@ -11,7 +11,7 @@ title: "Life of Pi"
 # Life of Pi
 [[Yann Martel]]
 
-### [[§-concepts]]
+### [[1-concepts]]
 
 ### Tools
 

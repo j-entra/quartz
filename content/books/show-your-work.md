@@ -4,7 +4,7 @@ alias: "show your work"
 tags: 
 ---
 
-[index](_index.md) < [learn in public](¶-learn-in-public.md)
+[index](_index.md) < [learn in public](learn-in-public.md)
 
 1.  You don’t have to be a genius.
 2.  Think process, not product.

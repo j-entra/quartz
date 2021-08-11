@@ -4,12 +4,12 @@ alias: "smart notes"
 tags: on/learning atom
 ---
 
-[index](/.md)  < [PKM](§-PKM.md)
+[index](/.md)  < [PKM](1-PKM.md)
 
 > "writing is where thinking takes place" #on/thinking #on/writing
 - [emergent knowledge](emergent-knowledge.md) 
 - notes capture insight, highlights don't
-- insights should be relevant, not verbatim. [save what speaks](¶-save-what-speaks.md)
+- insights should be relevant, not verbatim. [save what speaks](save-what-speaks.md)
 
 ## steps
 1. handwrite (in your moleskine)

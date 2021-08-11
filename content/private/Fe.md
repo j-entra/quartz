@@ -9,7 +9,7 @@ alias: [" "]
 --- %%
 %% - metadata
 	- tags: #on/MBTI 
-	- source: [[Σ-carl-jung]]
+	- source: [[carl-jung]]
 	- fr: [[feeling]]
 %%
 

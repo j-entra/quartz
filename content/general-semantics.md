@@ -11,4 +11,4 @@ vs. [[semantics]]
 	2. structure of their languages
 2. humans experience the world through their own "abstractions"
 
-solution: [¶-consciousness-of-abstracting](¶-consciousness-of-abstracting.md)
+solution: [consciousness-of-abstracting](consciousness-of-abstracting.md)

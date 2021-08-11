@@ -4,13 +4,13 @@ alias: "curiosità, curiosity"
 tags: #on/curiosity #on/thinking
 ---
 
-[index](/.md) < [§-thinking](§-thinking.md)
+[index](/.md) < [1-thinking](1-thinking.md)
 
 = an insatiable curious approach to _life_ and an unrelenting quest for [continuous learning](continuous-learning.md)
 
 *"The desire to know is natural to good men." — [vinci](vinci.md) #quote/curiosity *
 
-Dissect topics from all different angles, if not four: your own [unconsciousness](unconsciousness.md) beliefs, what there is in favor of it, what there is against it, then your own informed beliefs. Look at one concept with extreme and unusual [Perspectives](Perspectives.md). Multiple [[Perspectives]] will yield a more thorough understanding of topics, and each [§-concepts](§-concepts.md) will be layered with rich depth. Curiosità/Curiosity serves as a tool for greater knowledge [[Synthesis]]. 
+Dissect topics from all different angles, if not four: your own [unconsciousness](unconsciousness.md) beliefs, what there is in favor of it, what there is against it, then your own informed beliefs. Look at one concept with extreme and unusual [Perspectives](Perspectives.md). Multiple [[Perspectives]] will yield a more thorough understanding of topics, and each [1-concepts](1-concepts.md) will be layered with rich depth. Curiosità/Curiosity serves as a tool for greater knowledge [[Synthesis]]. 
 
 ## Tools
 1. Ask questions. 

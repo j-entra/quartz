@@ -3,7 +3,7 @@ title: "Digital Garden"
 alias: "digital garden"
 ---
 
-[index](/.md)  < [PKM](§-PKM.md) < [learn in public](¶-learn-in-public.md)
+[index](/.md)  < [PKM](1-PKM.md) < [learn in public](learn-in-public.md)
 
 ## Better Resourc
 ---
@@ -11,7 +11,7 @@ alias: "digital garden"
 ### Tools:
 1. ### Any analog writing tool (optional):
 	1. I process notes by **handwriting** them. Why?
-		1. If I process them directly in Obsidian (that is, by typing), I have a tendency to copy exactly what the author has written. By handwriting, I'm forced to distill information in a concise, direct manner. (See: [save what speaks)](¶-save-what-speaks.md)
+		1. If I process them directly in Obsidian (that is, by typing), I have a tendency to copy exactly what the author has written. By handwriting, I'm forced to distill information in a concise, direct manner. (See: [save what speaks)](save-what-speaks.md)
 			1. *?? What information is actually useful to me right now?*
 		2. Note: The point of PKM as a system is to serve as a Second Brain where you don't have to store information in your mind, but I find that it's useful practice for natural connections.
 2. #### Any bi-directional notetaking platform
@@ -31,7 +31,7 @@ alias: "digital garden"
 	5. [Daily Questions Tracker](https://thesweetsetup.com/journaling-using-daily-questions-in-obsidian/)
 
 4. #### A way to publish your notes.
-	1. the "public" in [learn in public.](¶-learn-in-public.md) Choose your method based on your wants and needs.
+	1. the "public" in [learn in public.](learn-in-public.md) Choose your method based on your wants and needs.
 		1. **Obisidan** ($8/month plan): useful if you want to effortlessly publish your notes.
 		2. **Quartz** (free): What I currently use. Why? I have little experience in coding, and wanted to learn. Also, free. Hosted on Hugo.
 	2. Note: This is optional. Have a Second Brain privately for a while before deciding to work with the garage door up. 
@@ -39,7 +39,7 @@ alias: "digital garden"
 ## Process
 1. On consumption: [how to read a book](books/how-to-read-a-book.md)
 2. On taking notes: [smart notes](smart-notes.md)
-3. On managing information pipeline:  [pkm](§-PKM.md)
+3. On managing information pipeline:  [pkm](1-PKM.md)
 
 
 ### Recap of what I use

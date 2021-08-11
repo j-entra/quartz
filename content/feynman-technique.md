@@ -4,7 +4,7 @@ alias: "feynman technique"
 tags: 
 ---
 
-[index](_index.md) < [richardfeynman](Σ-richard-feynman.md)
+[index](_index.md) < [richard feynman](richard-feynman.md)
 
 - the technique:
 1. teach it to a child

@@ -2,7 +2,7 @@
 title: "Kafka on the Shore"
 ---
 
-[[Σ-haruki-murakami]]
+[[haruki-murakami]]
 
 ### Concepts
 

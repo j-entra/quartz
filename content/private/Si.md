@@ -2,14 +2,14 @@
 title: "Si"
 ---
 
-[[_index]] | [[§-MBTI]]
+[[_index]] | [[1-MBTI]]
 
 %% ---
 alias: [" "]
 --- %%
 %% - metadata
 	- tags: #on/MBTI 
-	- source: [[Σ-carl-jung]]
+	- source: [[carl-jung]]
 	- fr: [[sensation]]
 %%
 

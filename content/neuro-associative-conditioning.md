@@ -4,7 +4,7 @@ alias: "neuro associative conditioning, rewrite pain and pleasure"
 tags: #on/neuroscience #on/mindset 
 ---
 
-- from [[§-alfred-korzybkski]]: [[general-semantics]]
+- from [[alfred-korzybkski]]: [[general-semantics]]
 	- a person's experience is not reality, but a representation of reality (see: [allegory of the cave](allegory-cave.md))
 - premise:
 	- the two determining reasons for human behavior are the need to avoid pain and the desire to gain pleasure

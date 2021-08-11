@@ -4,7 +4,7 @@ alias: "INTJ"
 tags: 
 ---
 
-[index](_index.md) < [§-MBTI](§-MBTI.md)
+[index](_index.md) < [1-MBTI](1-MBTI.md)
 
 # INTJ: [[private/Ni]]-[[private/Te]]-[[private/Fi]]-[[private/Se]]
 

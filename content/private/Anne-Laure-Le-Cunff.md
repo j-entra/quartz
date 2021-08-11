@@ -11,6 +11,6 @@ alias:
 
 # Anne-Laure Le Cunff
 
-[[¶-combinational-creativity]]
+[[combinational-creativity]]
 [[thinking-in-maps]]
 [[failing]]

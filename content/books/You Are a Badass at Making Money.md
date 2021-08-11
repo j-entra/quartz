@@ -8,7 +8,7 @@
 # You Are a Badass at Making Money
 [[Jen Sincero]]
 
-### [[§-concepts]]
+### [[1-concepts]]
 
 ### Tools
 

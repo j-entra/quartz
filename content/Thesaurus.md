@@ -5,4 +5,4 @@ title: "Thesaurus"
 
 [[Language]] 
 
-[[§-communication]]
+[[communication]]

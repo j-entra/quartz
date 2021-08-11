@@ -2,7 +2,7 @@
 title: "Ni"
 ---
 
-[[_index]] | [[§-MBTI]]
+[[_index]] | [[1-MBTI]]
 
 %% ---
 alias: ["Introverted Intuition"]

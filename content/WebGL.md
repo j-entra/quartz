@@ -4,7 +4,7 @@ alias: "WebGL"
 tags: 
 ---
 
-[index](_index.md) < [programming](§-programming.md) < [creative code](creative-code.md)
+[index](_index.md) < [programming](1-programming.md) < [creative code](creative-code.md)
 
 ### Introduction
 https://www.youtube.com/watch?v=f-9LEoYYvE4
@@ -61,11 +61,11 @@ https://fremtidensuddannelser.dk/en | #on/education
 > Great copy, easy to read and understand. Good multimedia approach as well. The navigation was unintuitive, but overall I enjoyed it for it's simplicity and purpose. 
 
 https://turbulent.ca/life/
-> The copy is unclear, but I like their [¶-3c-craftery](¶-3c-craftery.md). It's incredible how much good soundscape makes a difference in the experience. 
+> The copy is unclear, but I like their [3c-craftery](3c-craftery.md). It's incredible how much good soundscape makes a difference in the experience. 
 
 https://shutdown.gallery/ | [[Art]]
 > The idea of a virtual art gallery is appealing to me. I can browse art with more clarity, even if I'm not fully immersed in it. I should explore more virtual art exhibits. It'll allow me to take notes and remember the concepts and meanings behind paintings more. 
-> The copy talks about growth and how the pandemic halted it because it blocked or "shut us down". [¶-freedom-of-constraints](¶-freedom-of-constraints.md). 
+> The copy talks about growth and how the pandemic halted it because it blocked or "shut us down". [freedom-of-constraints](freedom-of-constraints.md). 
 - [ ] Explore [[patrik-huebner]]'s work. #todo
 
 https://www.merci-michel.com/ | #studio

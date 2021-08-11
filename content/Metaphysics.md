@@ -8,7 +8,7 @@ alias: [""]
 	- tags: #bud #philosophy
 %%
 
-[[§-philosophy]]
+[[1-philosophy]]
 # Metaphysics
 
 Defined as abstract theory with no basis in reality. Doesn't actually have to do much with physics, but named "ta meta ta phusika": one should master [[Physics]] first. 
@@ -25,9 +25,9 @@ Theme 2: [[The Study of Being]]
 
 --- 
 
-Includes [[§-concepts|Concepts]] such as:
+Includes [[1-concepts|Concepts]] such as:
 - General Metaphysics: [[ontology]]
-- Special Metaphysics: [[§-cosmology]], [[Rational Psychology]], [[Natural Theology]]
+- Special Metaphysics: [[1-cosmology]], [[Rational Psychology]], [[Natural Theology]]
 
 - [[Philosophy of space and time]]
 - [[Being]]
@@ -43,7 +43,7 @@ Includes [[§-concepts|Concepts]] such as:
 
 ### Philosophers
 [[w]]
-[[Σ-immanuel-kant]]
+[[immanuel-kant]]
 
 --
 
