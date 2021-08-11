@@ -33,15 +33,16 @@
     .backgroundColor(isDarkMode ? getStyle('light') : "rgba(0,0,0,0)")
     .graphData(data)
     .nodeLabel((d) => `<div class="nodeLabel"><p>${d.id}</p></div>`)
-    .onNodeClick((d) => window.location.href = `quartz${d.id}`)
+    .onNodeClick((d) => window.location.href = `${d.id}`)
     .nodeColor((d) => {
       if (d.id === hoverNode) {
-        return getStyle('salmon')
+        return "#348873"
+
       }
 
       // something else selected, dim self
       if (!!hoverNode && !highlightNodes.has(d.id)) {
-        return "#348873"
+        return "#000000"
       }
 
       for (const pathColor of pathColors) {
