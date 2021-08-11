@@ -21,10 +21,10 @@ tags: on/branding on/marketing on/culture #atom #bud
 	- why?
 		- brands allow for self expression. we "choose" our identities (or so we think). our identities or the brands we associate with will allow others to form an impression of what we are about (for better or for worse)
 		- this is why appearance is so important in culture
-			- [significance-of-aesthetic](significance-of-aesthetic.md)
+			- [¶-significance-of-aesthetic](¶-significance-of-aesthetic.md)
 	- why?
 		- we seek community! [Sapiens](books/Sapiens.md)
 		- brands are pillars of our identity
 
-see also: [the masks we wear](the-masks-we-wear.md)
+see also: [the masks we wear](¶-the-masks-we-wear.md)
 

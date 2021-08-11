@@ -11,5 +11,5 @@ Manner in which we absorb information about the world.
 [judgment](judgment.md) 
 
 - tags: #on/MBTI 
-- source: [Carl Jung](carl-jung.md)
+- source: [Carl Jung](Σ-carl-jung.md)
 - fr: [cognitive-functions](cognitive-functions.md)

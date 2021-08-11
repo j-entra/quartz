@@ -1,11 +1,14 @@
 ---
 title: "Circe"
+alias: "Circe"
+tags: 
 ---
 
-# Circe
+[index](/.md) < [§-library](§-library.md)
+
 [[Madeline Miller]]
 
-### [[003MOC_concepts]]
+### [[§-concepts]]
 
 ### Tools
 

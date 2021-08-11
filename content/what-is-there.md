@@ -2,7 +2,7 @@
 title: "What is there?"
 ---
 %%
-tags: [[metaphysics]], [[MOC_Philosophy]]
+tags: [[metaphysics]], [[§-philosophy]]
 fr: [[metaphysics]]
 %%
 

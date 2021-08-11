@@ -6,7 +6,7 @@ title: "Ti"
 
 
 
-# Introverted [thinking](thinking.md) (Ti)
+# Introverted [§-thinking](§-thinking.md) (Ti)
 
 Introverted Thinking activities are things like:
 
@@ -17,9 +17,9 @@ Introverted Thinking activities are things like:
 
 -------------
 ### See also
-[Te](private/Te.md), [thinking](thinking.md)
+[Te](private/Te.md), [§-thinking](§-thinking.md)
 [ENTJ](private/ENTJ.md): [Te](private/Te.md)-[Ni](private/Ni.md)-[Se](private/Se.md)-[Fi](private/Fi.md) | [INTJ](private/INTJ.md) [Ni](private/Ni.md)-[Te](private/Te.md)-[Fi](private/Fi.md)-[[private/Se]]
 
 - tags: #on/MBTI
-- source: [Carl%20Jung](carl-jung.md)
-- fr: [thinking](thinking.md)
+- source: [Carl%20Jung](Σ-carl-jung.md)
+- fr: [§-thinking](§-thinking.md)

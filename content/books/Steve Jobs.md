@@ -11,7 +11,7 @@ title: "Steve Jobs"
 # Steve Jobs
 [[Walter Isaacson]]
 
-### [[003MOC_concepts]]
+### [[§-concepts]]
 
 ### Tools
 

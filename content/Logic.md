@@ -4,6 +4,6 @@ alias: "Logic, logic"
 tags: 
 ---
 
-[index](_index.md) < [philosophy](MOC_Philosophy.md)
+[index](_index.md) < [philosophy](§-philosophy.md)
 
 [stoicism](stoicism.md)

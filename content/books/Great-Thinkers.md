@@ -5,10 +5,10 @@ title: "Great Thinkers"
 - metadata
 	- tags: #source/book #on/philosophy 
 	- dates: 
-	- people: [[The School of Life]]
+	- people: [[the-school-of-life]]
 %%
 
-[[The School of Life]]
+[[the-school-of-life]]
 
 ### Concepts
 

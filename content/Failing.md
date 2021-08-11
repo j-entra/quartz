@@ -24,5 +24,5 @@ My goals with learning in public are as follows (taken from [[private/Anne-Laure
 
 -------------
 ### See also
-[[learn-in-public]]
+[[¶-learn-in-public]]
 

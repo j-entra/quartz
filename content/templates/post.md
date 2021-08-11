@@ -4,4 +4,4 @@ alias: "<% tp.file.title.replaceAll("-", " ") %>"
 tags: 
 ---
 
-[index](_index.md) <
+[index](/.md) < [§-library](§-library.md)

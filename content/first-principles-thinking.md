@@ -4,7 +4,7 @@ alias: "first principles thinking"
 tags: 
 ---
 
-[index](_index.md) < [mindset](001MOC_mindset.md)
+[index](_index.md) < [mindset](§-mindset.md)
 
 > first principles thinking relieves you of unnecessary worries
 

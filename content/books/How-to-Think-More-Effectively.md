@@ -2,7 +2,7 @@
 title: "How-to-Think-More-Effectively"
 ---
 
-[[The School of Life]]
+[[the-school-of-life]]
 
 ### Concepts
 

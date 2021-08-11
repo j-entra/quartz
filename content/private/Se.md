@@ -2,14 +2,14 @@
 title: "Se"
 ---
 
-[[_index]] | [[MBTI]]
+[[_index]] | [[§-MBTI]]
 
 %% ---
 alias: ["Extroverted Sensing"]
 --- %%
 %% - metadata
 	- tags: #on/MBTI 
-	- source: [[carl-jung]]
+	- source: [[Σ-carl-jung]]
 	- fr: [[sensation]]
 %%
 
