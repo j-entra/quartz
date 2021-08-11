@@ -33,15 +33,15 @@
     .backgroundColor(isDarkMode ? getStyle('light') : "rgba(0,0,0,0)")
     .graphData(data)
     .nodeLabel((d) => `<div class="nodeLabel"><p>${d.id}</p></div>`)
-    .onNodeClick((d) => window.location.href = `${d.id}`)
+    .onNodeClick((d) => window.location.href = `quartz${d.id}`)
     .nodeColor((d) => {
       if (d.id === hoverNode) {
-        return getStyle('0x84A59D')
+        return getStyle('salmon')
       }
 
       // something else selected, dim self
       if (!!hoverNode && !highlightNodes.has(d.id)) {
-        return "0x84A59D"
+        return "#348873"
       }
 
       for (const pathColor of pathColors) {
@@ -51,7 +51,7 @@
           return colour
         }
       }
-      return getStyle('ox84A59D')
+      return "#80B9A0"
     })
     .linkOpacity(1)
     .linkColor((l) => highlightLinks.has(l.index) ? "#84A59D" : getStyle('outlinegray'))
@@ -81,7 +81,7 @@
   const bloomPass = new UnrealBloomPass()
   bloomPass.strength = 1
   bloomPass.radius = .5
-  bloomPass.threshold = 0.2
+  bloomPass.threshold = 0.3
   if (isDarkMode) {
     Graph.postProcessingComposer().addPass(bloomPass)
   }
@@ -130,8 +130,8 @@
 
   const animate = function () {t
     const scene = Graph.scene()
-    scene.rotation.x += 3e-4
-    scene.rotation.y += 3e-4
+    scene.rotation.x += 6e-4
+    scene.rotation.y += 7e-4
     requestAnimationFrame(animate)
   }
   animate()
