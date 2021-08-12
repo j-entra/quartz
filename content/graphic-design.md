@@ -4,4 +4,4 @@ alias: "graphic design"
 tags: 
 ---
 
-[index](_index.md) <
+[index](/.md) <

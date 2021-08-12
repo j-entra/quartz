@@ -1,15 +1,6 @@
 ---
 title: "Karl Friston"
 ---
-%% ---
-alias: 
---- %%
-%% - metadata
-	- tags: # 
-	- dates: 
-	- work: %%
-
-# Karl Friston
 
 [The Genius Neuroscientist Who Might Hold the Key to True AI](https://www.wired.com/story/karl-friston-free-energy-principle-artificial-intelligence/)
 

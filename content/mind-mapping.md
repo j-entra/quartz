@@ -1,21 +1,12 @@
 ---
 title: "Mind Mapping"
+alias: "mind mapping"
 ---
 
-[[_index]]
+[index](/.md) < [mindset](1-mindset.md)
 
-%% ---
-alias: [" "]
---- %%
-%% - metadata
-	- tags: #
-	- source: 
-	- fr: 
-%%
 
-# Mind Mapping
-
-# History
+## History
 [[Codex Amiatinus]]: oldest surviving example of a complete [[Bible]], created by [[Cassiodorus]] known for [[Stemmata]].
 
 -------------

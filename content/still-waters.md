@@ -2,7 +2,7 @@
 title: "Still waters run deep."
 ---
 
-[[_index]]
+[index](/.md) < [communication](communication.md)
 
  *altissima quaeque flumina minimo sono labi
  the deepest rivers flow with least sound*

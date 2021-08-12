@@ -4,4 +4,4 @@ alias: "buddhism"
 tags: 
 ---
 
-[index](_index.md) <
+[index](/.md)  <

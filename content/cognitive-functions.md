@@ -4,9 +4,9 @@ alias: "cognitive functions"
 tags: 
 ---
 
-[index](_index.md) < [1-MBTI](1-MBTI.md)
+[index](/.md) < [MBTI](1-MBTI.md)
 
-[1-thinking](1-thinking.md) and [feeling](feeling.md) are rational modes of evaluation, where one compares the Situation against formulas and principles and consistent, reasoned analysis. 
+[thinking](1-thinking.md) and [feeling](feeling.md) are rational modes of evaluation, where one compares the Situation against formulas and principles and consistent, reasoned analysis. 
 
 ### Learning processes
 

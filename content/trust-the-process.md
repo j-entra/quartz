@@ -2,7 +2,7 @@
 title: "Trust the process"
 ---
 
-[_index](_index.md)
+[index](/.md)
 
 
 With growth and skill-building, there comes many points where you reach a wall, an significant mental barrier that seems impossible to overcome, one that gives you endless frustration, doubts, anxieties, and gives way to negative thoughts. 

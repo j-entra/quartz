@@ -2,7 +2,7 @@
 title: "Statistical Parametric Mapping"
 ---
 
-[[_index]]
+[index](/.md)
 
 
 Computational technique that helps “squash and squish” brain images into a consistent shape so that researchers can do apples-to-apples comparisons of activity within different crania. 

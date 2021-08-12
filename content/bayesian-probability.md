@@ -4,7 +4,7 @@ alias: "bayesian probability"
 tags: #on/neuroscience #on
 ---
 
-[index](_index.md) < [interests](1-interests.md) < [probability](probability.md)
+[index](/.md) < [interests](1-interests.md) < [probability](probability.md)
 
 - Used in [machine learning](machine-learning.md). [geoffrey hinton](geoffrey-hinton.md) believes the brain to be a Bayesian probability machine. 
 	- This idea comes from [Hermann von Helmholtz](Hermann%20von%20Helmholtz.md): brains compute and perceive in a probabilistic manner, making predictions and adjusting beliefs based on sensory input. The brain is an inference engine, seeking to minimize "prediction error".

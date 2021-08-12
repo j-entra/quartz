@@ -4,7 +4,7 @@ alias: "richard feynman"
 tags: people
 ---
 
-[index](_index.md) <
+[index](/.md) <
 
 - [feynman technique](feynman-technique.md)
 - "You should never, ever fool anybody, and you are the easiest person to fool.”

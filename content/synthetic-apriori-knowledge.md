@@ -2,7 +2,7 @@
 title: "Synthetic Apriori Knowledge"
 ---
 
-[[_index]]
+[index](/.md)
 
 https://medium.com/@rgrydns/kant-how-is-a-synthetic-a-priori-judgment-possible-45af58688600
 

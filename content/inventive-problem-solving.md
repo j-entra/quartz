@@ -1,19 +1,11 @@
 ---
 title: "Theory of Inventive Problem Solving"
+alias: "inventive problem solving"
 ---
 
-[_index](_index.md) | [thinking](thinking.md)
+[index](/.md) < [thinking](thinking.md)
 
-%% ---
-alias: [" "]
---- %%
-%% - metadata
-	- tags: #
-	- source: https://the-trizjournal.com/
-	- fr: 
-%%
-
-
+https://the-trizjournal.com/
 
 -------------
 ### See also

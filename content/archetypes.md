@@ -4,4 +4,4 @@ alias: "archetypes"
 tags: 
 ---
 
-[index](_index.md) <
+[index](/.md) <

@@ -1,9 +1,9 @@
 ---
-title: "MOC Philosophy"
+title: "Philosophy"
 alias: "Philosophy, philosophy"
 ---
 
-[index](_index.md) < [interests](1-interests.md)
+[index](/.md) < [interests](1-interests.md)
 
 ## Branches
 

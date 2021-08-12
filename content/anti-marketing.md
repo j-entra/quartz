@@ -4,7 +4,7 @@ alias: "anti marketing"
 tags: 
 ---
 
-[index](_index.md) < [marketing](1-marketing.md)
+[index](/.md) < [marketing](1-marketing.md)
 
 # Anti-Marketing
 - lay out the ugliest parts of your work in public

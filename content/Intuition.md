@@ -23,4 +23,4 @@ Can lead to self-delusion and misguided visions. Be careful!
 
 -------------
 ### See also
-[Ne](private/Ne.md), [Ni](private/Ni.md) | [cognitive-functions](cognitive-functions.md), [feeling](feeling.md), [1-thinking](1-thinking.md), [sensation](sensation.md)
+[Ne](private/Ne.md), [Ni](private/Ni.md) | [cognitive-functions](cognitive-functions.md), [feeling](feeling.md), [thinking](1-thinking.md), [sensation](sensation.md)

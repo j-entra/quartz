@@ -39,7 +39,8 @@
 .sidetext::-webkit-scrollbar {
     display: none;
 }
-  .3dgr {
+
+.3dgr {
 
   }
 </style>
@@ -59,9 +60,8 @@
               {{ if not .IsHome }}
               <a href="/">Home</a>
               {{end}}
-              {{- range $.Site.Data.config.links -}}
-              <a href="{{.link}}">{{.link_name}}</a>
-              {{- end -}}
+
+            
           </footer>
       </div>
     </div>

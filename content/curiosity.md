@@ -4,7 +4,7 @@ alias: "curiosità, curiosity"
 tags: #on/curiosity #on/thinking
 ---
 
-[index](/.md) < [1-thinking](1-thinking.md)
+[index](/.md) < [thinking](1-thinking.md)
 
 = an insatiable curious approach to _life_ and an unrelenting quest for [continuous learning](continuous-learning.md)
 
