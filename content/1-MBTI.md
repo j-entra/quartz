@@ -14,7 +14,7 @@ tags:
 - [extroversion](extroversion.md)
 
 [cognitive functions](cognitive-functions.md) (ways)
-- **[judgment](judgment.md):** [1-thinking](1-thinking.md) and [feeling](feeling.md)
+- **[judgment](judgment.md):** [thinking](1-thinking.md) and [feeling](feeling.md)
 - **[perception](perception.md):** [intuition](intuition.md) and [sensation](sensation.md)
 
 

@@ -4,11 +4,11 @@ alias: "optionality"
 tags: 
 ---
 
-[index](_index.md) < [concepts](1-concepts.md)
+[index](/.md) < [concepts](1-concepts.md)
 
-the choice to take action. in [[antifragile]]. 
+the choice to take action. in [antifragile](antifragile.md). 
 	1. there will be too many things going on in the future to accurately predict anything. therefore, position yourself to have options
-	2. options: limited downside with large open-ended upside (passive income) -- everything? [[elon-musk]]
+	2. options: limited downside with large open-ended upside (passive income) -- everything? [elon musk](elon-musk.md)
 	3. to be free (free from obligations, wealth) we need to generate accelerating optionality
 	4. how? 
 **	"Through the Systematic Pursuit of Relatively Ambitious, Discrete Opportunities."**

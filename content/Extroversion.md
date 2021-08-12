@@ -4,7 +4,7 @@ alias: "extroversion"
 tags: 
 ---
 
-[index](_index.md) < [1-MBTI](1-MBTI.md)
+[index](/.md) < [MBTI](1-MBTI.md)
 
 # Extroversion
 

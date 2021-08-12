@@ -2,17 +2,10 @@
 title: "Timeblocking = Tetris"
 ---
 
-[[_index]] 
+[index](/.md)
 
-%% ---
-alias: [" "]
---- %%
-%% - metadata
-	- tags: #
-	- source: https://walkintheforest.com/Garden/Attention+as+Tetris+Blocks
-	- fr: 
-%%
 
+https://walkintheforest.com/Garden/Attention+as+Tetris+Blocks
 
 -------------
 ### See also

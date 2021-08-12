@@ -22,5 +22,5 @@ See [Fi](private/Fi.md).
 
 -------------
 ### See also
-[Fe](private/Fe.md), [Fi](private/Fi.md) | [cognitive-functions](cognitive-functions.md), [1-thinking](1-thinking.md), [intuition](intuition.md), [sensation](sensation.md)
+[Fe](private/Fe.md), [Fi](private/Fi.md) | [cognitive-functions](cognitive-functions.md), [thinking](1-thinking.md), [intuition](intuition.md), [sensation](sensation.md)
 

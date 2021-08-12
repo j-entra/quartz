@@ -1,22 +1,14 @@
 ---
-title: "The Flow State is"
+title: "flow state"
 ---
 
-[[_index]]
+[index](/.md)
 
-%% ---
-alias: [" "]
---- %%
-%% - metadata
-	- tags: #
-	- source: 
-	- fr: 
-%%
 - external
 - calls to you
 - see authors that put pen to paper 
+- [Creativity-Flow](books/Creativity-Flow.md)
 
 -------------
 ### See also
-[[ here goes related concepts]]
 

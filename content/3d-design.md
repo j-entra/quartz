@@ -4,4 +4,4 @@ alias: "3d design"
 tags: 
 ---
 
-[index](_index.md) <
+[index](/.md) <

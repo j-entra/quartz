@@ -4,7 +4,7 @@ alias: "The reward of simplicity comes after the toil of complexity, complexity 
 tags: atom 
 ---
 
-[_index](_index.md)
+[index](/.md)
 
 
 # [Notes](https://www.swyx.io/simplicity-rush/):

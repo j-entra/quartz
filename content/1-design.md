@@ -1,5 +1,5 @@
 ---
-title: "MOC Design"
+title: "Design"
 alias: "Design, design"
 ---
 

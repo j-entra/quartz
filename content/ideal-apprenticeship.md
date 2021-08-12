@@ -1,26 +1,17 @@
 ---
 title: "Strategies for Completing the Ideal Apprenticeship"
+alias: "ideal apprenticeship"
 ---
 
-[[_index]] | [[Public Garden/FRESH/Books/Mastery]]
+[index](/.md) | [mastery](books/Mastery.md) < [apprenticeship](apprenticeship.md)
 
-%% ---
-alias: [" "]
---- %%
-%% - metadata
-	- tags: #
-	- source: [[Robert Green]]
-	- fr: [[Public Garden/FRESH/Books/Mastery]]]
-%%
-
-# Strategies for Completing the Ideal [apprenticeship](apprenticeship.md)
 
 > *Do not think that what is hard for you to master is humanly impossible; and if it is humanly possible, consider it within your reach.*" — [[Marcus Aurelius]]
 
-1. [[learning-over-money]]
-2. [[horizon-expansion]]
-3. [[childlike-learning]]
-4. [[trust-the-process]]
+1. [learning over money](learning-over-money.md)
+2. [horizon expansion](horizon-expansion.md)
+3. [childlike learning](childlike-learning.md)
+4. [trust the process](trust-the-process.md)
 
 -------------
 ### See also

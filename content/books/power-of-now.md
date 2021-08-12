@@ -1,9 +1,9 @@
 ---
 title: "The Power of Now"
-categories: 
+alias: "power of now"
 ---
 
-[[Eckhart Tolle]]
+[Eckhart Tolle](Eckhart%20Tolle.md)
 
 ### Concepts
 

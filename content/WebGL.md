@@ -4,7 +4,7 @@ alias: "WebGL"
 tags: 
 ---
 
-[index](_index.md) < [programming](1-programming.md) < [creative code](creative-code.md)
+[index](/.md) < [programming](1-programming.md) < [creative code](creative-code.md)
 
 ### Introduction
 https://www.youtube.com/watch?v=f-9LEoYYvE4

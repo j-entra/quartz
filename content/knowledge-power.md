@@ -2,16 +2,7 @@
 title: "Knowledge is Power."
 ---
 
-[[_index]]
-
-%% ---
-alias: [" "]
---- %%
-%% - metadata
-	- tags: #
-	- source: 
-	- fr: [Mastery](books/Mastery.md)
-%%
+[index](/.md) < [mastery](books/Mastery.md)
 
 
 The pursuit of knowledge is difficult. Only an inner drive, be it passion, pleasure, love, will help you overcome these mental barriers. [[Johann Wolfgang von Goethe]]
