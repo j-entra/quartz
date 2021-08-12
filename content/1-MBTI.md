@@ -4,7 +4,7 @@ alias: "MBTI, Myers Briggs, mbti"
 tags: 
 ---
 
-[index](_index.md) < 
+[index](_index.md) 
 
 [ENTJ](private/ENTJ.md) | [INTJ](private/INTJ.md)
 

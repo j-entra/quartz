@@ -1,5 +1,5 @@
 ---
-title: "MOC_Marketing"
+title: "Marketing"
 alias: "Marketing, marketing"
 tags: 
 ---

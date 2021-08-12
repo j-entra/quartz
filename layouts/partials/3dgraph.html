@@ -87,11 +87,11 @@
     Graph.postProcessingComposer().addPass(bloomPass)
   }
 
-  const camera = Graph.camera()
+  const camera = Graph.camera() 
   const renderer = Graph.renderer()
   const controls = Graph.controls()
   controls.noZoom = false
-  const tanFOV = Math.tan(((Math.PI / 180) * camera.fov / 2))
+  const tanFOV = Math.tan(((Math.PI / 180) * camera.fov / 3))
   const windowHeight = window.innerWidth ;
   window.addEventListener('resize', () => {
     camera.aspect = window.innerWidth / window.innerHeight
@@ -99,8 +99,7 @@
     // adjust the FOV
     camera.fov = (360 / Math.PI) * Math.atan(tanFOV * (window.innerHeight / windowHeight))
     camera.updateProjectionMatrix()
-    camera.lookAt(scene.position)
-
+   
     renderer.setSize(window.innerWidth, window.innerHeight)
     renderer.render(scene, camera)
   }, false)
