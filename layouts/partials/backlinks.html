@@ -1,10 +1,26 @@
 <h3>Links to this note</h3>
+<style>
+ul.backlinks {
+    border: rgba(255, 255, 255, .1) 0px solid; 
+    box-shadow: 0 8px 32px 0 rgba(30,30,33, 0.05);
+     border-radius: 20px 
+    
+
+}
+
+li.backlinkz {
+    font-size:14px;
+   
+    
+}
+
+</style>
 <ul class="backlinks">
     {{$curPage := strings.TrimRight "/" .Page.RelPermalink }}
     {{$inbound := index $.Site.Data.linkIndex.index.backlinks $curPage}}
     {{if $inbound}}
     {{- range $inbound -}}
-    <li>
+    <li class="backlinkz">
         <a href="{{index . "source"}}">{{index . "source"}}</a>
     </li>
     {{- end -}}

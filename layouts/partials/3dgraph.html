@@ -87,7 +87,9 @@
     Graph.postProcessingComposer().addPass(bloomPass)
   }
 
+
   const camera = Graph.camera() 
+  camera.filmOffset = -8
   const renderer = Graph.renderer()
   const controls = Graph.controls()
   controls.noZoom = false
@@ -101,6 +103,7 @@
     camera.updateProjectionMatrix()
    
     renderer.setSize(window.innerWidth, window.innerHeight)
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2))
     renderer.render(scene, camera)
   }, false)
 
@@ -130,6 +133,7 @@
 
   const animate = function () {t
     const scene = Graph.scene()
+
     scene.rotation.x += 6e-4
     scene.rotation.y += 7e-4
     requestAnimationFrame(animate)
