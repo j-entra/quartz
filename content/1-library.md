@@ -3,20 +3,21 @@ title: "library"
 alias: "library"
 ---
 
-[index](_index.md) | [workbench](_workbench.md) | [now](_now.md)
+[index](/.md) | [workbench](_workbench.md) | [now](_now.md)
 
-## Currently
-- [Jade City](books/Jade-City.md)
-- [Mastery](books/Mastery.md)
-- [Sapiens](books/Sapiens.md)
-- [The Essence of Jung's Psychology and Tibetan Buddhism](books/The-Essence-of-Jungs-Psychology-and-Tibetan-Buddhism.md)
+## Currently 
 - [The Order of Time](books/the-order-of-time.md)
 - [Intuition Pumps and Other Tools for Thinking](books/intuition-pumps.md)
+- [Jade City](books/Jade-City.md)
+- [Mastery](books/Mastery.md)
 - [Addiction by Design](addiction-by-design.md)
 - [tao te ching](books/tao-te-ching.md)
-
-## Up Next
-- Hard Boiled Wonderland and the End of the World
+- [the republic](books/the-republic.md)
+- [how to read a book](books/how-to-read-a-book.md)
+- [the minds i](the-minds-i.md)
+- [how to speak machine](how-to-speak-machine.md)
+- [Sapiens](books/Sapiens.md)
+- [The Essence of Jung's Psychology and Tibetan Buddhism](books/The-Essence-of-Jungs-Psychology-and-Tibetan-Buddhism.md)
 
 
 ### Top Ten (as of right now)

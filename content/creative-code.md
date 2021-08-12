@@ -25,7 +25,7 @@ Creative code serves at the intersection between [design](Design.md) and [progra
 - [[CSS]]
 - [[JavaScript]]
 - [WebGL](WebGL.md)
-- [three.js](three.js)
+- [threejs](threejs.md)
 
 -------------
 ### See also

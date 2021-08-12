@@ -20,7 +20,7 @@ https://docs.spline.design/intro-tutorial
 
 it's dead. but think web experience and immersive installation.
 Read: https://www.awwwards.com/30-experimental-webgl-websites.html
-- [three.js](three.js) is used (as a framework?)
+- [threejs](threejs.md) is used (as a framework?)
 ----
 ## Sites
 Most of these sites follow one of three formats:

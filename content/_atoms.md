@@ -4,7 +4,7 @@ alias: "Atoms"
 tags: 
 ---
 
-[index](_index.md) <
+[index](_index.md) 
 
 ```dataview
 

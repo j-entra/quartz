@@ -1,10 +1,10 @@
 ---
 title: "theory of constraints"
 alias: "theory of constraints"
-tags: on/management
+tags: on/management atom 
 ---
 
-[index](_index.md) < [mindset](1-mindset.md)
+[index](/.md) < [mindset](1-mindset.md)
 
 > you're only as strong as your weakest link
 

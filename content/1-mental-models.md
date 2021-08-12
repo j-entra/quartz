@@ -4,9 +4,9 @@ alias: "mental models"
 tags: 
 ---
 
-[index](_index.md) 
+[index](/.md) < [thinking](1-thinking.md)
 
-- [first-principles-thinking](first-principles-thinking.md)
+- [first principles thinking](first-principles-thinking.md)
 - [second-order-thinking](second-order-thinking.md)
 - [[probabilistic-thinking]]
 - [[occams-razor]]

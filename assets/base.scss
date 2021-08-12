@@ -6,21 +6,30 @@
   --lt-colours-gray: var(--outlinegray) !important;
 }
 
-h1, h2, h3, h4, ol, ul, thead {
-  font-family: 'Helvetica Neue';
-  text-transform: lowercase;
-  font-weight: 500;
+h1 {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 60px;
+  font-weight: 600;
   color: var(--tertiary)
 }
 
+h2, h3, h4 {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-weight: 400;
+  color: var(--tertiary)
+}
+
+
 p, ul, text {
-  font-family: 'Helvetica Neue', sans-serif;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-weight: 500;
+  font-size: 20px;
   color: var(--gray);
   fill: var(--gray);
 }
 
 a { /* links */
-  font-family: Helvetica Neue;
+  font-family: 'Inter', system-ui, sans-serif;
   font-weight: 700;
   font-size: 1em;
   text-decoration: none;
@@ -55,6 +64,7 @@ a { /* links */
 
   & > li::marker, & > li > ol > li::marker {
     font-family: Helvetica Neue;
+    font-size: 20px;
     font-weight: 700;
   }
 }
@@ -85,9 +95,10 @@ sup {
 }
 
 p, tbody, li {
-  font-family: Helvetica Neue;
+  font-family: 'Inter', system-ui, sans-serif;
   color: var(--gray);
   line-height: 1.5em;
+  font-size: 20px;
 }
 
 h2 {
@@ -122,7 +133,7 @@ td, th {
 }
 
 article a {
-  font-family: Helvetica Neue;
+  font-family: 'Inter', system-ui, sans-serif;
   font-weight: 700;
   text-decoration-color: var(--tertiary);
   /* text-decoration-thickness: .15em; */
@@ -134,7 +145,7 @@ sup > a {
 }
 
 pre {
-  font-family: 'Helvetica Neue';
+  font-family: 'Inter', system-ui, sans-serif;
   padding: 0.75em;
   border-radius: 3px;
   overflow-x: scroll;
