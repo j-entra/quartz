@@ -10,7 +10,10 @@ h1 {
   font-family: 'Inter', system-ui, sans-serif;
   font-size: 60px;
   font-weight: 600;
+  text-transform: lowercase;
+  line-height: 90%;
   color: var(--tertiary)
+  
 }
 
 h2, h3, h4 {
@@ -30,7 +33,7 @@ p, ul, text {
 
 a { /* links */
   font-family: 'Inter', system-ui, sans-serif;
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1em;
   text-decoration: none;
   transition: all 0.2s ease;
@@ -63,9 +66,9 @@ a { /* links */
   }
 
   & > li::marker, & > li > ol > li::marker {
-    font-family: Helvetica Neue;
+    font-family: Inter;
     font-size: 20px;
-    font-weight: 700;
+    font-weight: 500;
   }
 }
 
@@ -205,10 +208,12 @@ a[href^="/"] {
 }
 
 .singlePage {
-  margin: 4em 30vw;
+  margin: 3em 30vw;
 
   @media all and (max-width: 1200px) {
     margin: 25px 5vw;
+    padding-left: 5%;
+    padding-right: 5%;
   }
 }
 
@@ -227,20 +232,20 @@ a[href^="/"] {
   & > .backlinks-container {
     & > ul {
       list-style: none;
-      padding-left: 0;
+      padding: 1%;
+
       margin-right: 2em;
 
       & > li {
-        margin: 0.5em 0;
-        padding: 0.25em 1em;
-        border: var(--outlinegray) 1px solid;
-        border-radius: 20px
+        margin: 0.4em 0;
+        padding: 0.1em 1em;
       }
     }
   }
 
   & #graph-container {
-    border: var(--outlinegray) 1px solid;
+    border: rgba(255, 255, 255, .06) 1px solid; 
+    box-shadow: 0 8px 32px 0 rgba(30,30,33, 0.05);
     border-radius: 20px
   }
 }

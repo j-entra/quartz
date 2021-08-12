@@ -18,7 +18,7 @@ tags:
 - package beliefs should be reevaluated.
 	- anything that you believe as a result of a tribe (any organizations, psychodemographic, geographical, corporation)
 	- what is our identity tied to? is it the people around us, and the corporations? or is our identity tied to ourselves? #on/identity 
-	- this is not to say that we shouldn't have an identity -- we should have steadfast principles by which to live by. we have to ensure, however, that these principles are formulated from our conscious pickings. 
+	- this is not to say that we shouldn't have an identity -- we should have steadfast principles by which to live by. we have to ensure, however, that these principles are formed from our conscious pickings. 
 	- by holding onto our identity (different from principles), we will never be able to evolve. we will be caught up when we fail, thinking that this aspect is the entirety of us and that we are nothing without our identity. 
 	- areas: losing jobs, being unable to do XYZ (running, creating, etc.)
 	- when we fail, we become tense because we cannot accept reality as it is. ([stoicism](stoicism.md), [buddhism](buddhism.md))

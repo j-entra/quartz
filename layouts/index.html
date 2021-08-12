@@ -4,11 +4,14 @@
 {{end}}
 {{define "main"}}
 <!-- Main Page -->
-<!-- {{partial "3dgraph.html" .}} -->
 <style>
+
+
 * {
-  box-sizing: borderbox;
-  overflow: hidden;
+
+  overflow: auto;
+  
+
 }
 
 .sidetext {
@@ -16,14 +19,14 @@
   height: 100%;
   border-top-right-radius: 50px;
     border-bottom-right-radius: 50px;
-  width: 500px;
+  max-width: 500px;
   padding: 50px;
   position: fixed;
-    overflow: hidden;
   z-index: 0;
   top: 0;
   left: 0;
   transition: .3s ease-out;
+  
 }
 .sidetext:hover {
 
@@ -33,9 +36,9 @@
   box-shadow: 0 0px 10px 0 rgba(0,0,0, 0.1 );
 }
 
-singlePage::-webkit-scrollbar {
+.sidetext::-webkit-scrollbar {
     display: none;
-
+}
   .3dgr {
 
   }
