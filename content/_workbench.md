@@ -2,7 +2,7 @@
 title: "Workbench"
 alias: "workbench"
 ---
-[index](/.md) | [now](_now.md) | [library](1-library.md)
+[index](/.md) | [now](now.md) | [library](1-library.md)
 - [ ] tick tick in touch bar for pomodoro
 - [ ] ticktick launch pomodoro
 

@@ -3,7 +3,7 @@ title: "library"
 alias: "library"
 ---
 
-[index](/.md) | [workbench](_workbench.md) | [now](_now.md)
+[index](/.md) | [workbench](_workbench.md) | [now](now.md)
 
 ## Currently 
 - [The Order of Time](books/the-order-of-time.md)

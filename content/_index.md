@@ -7,7 +7,7 @@ alias: "index, home"
 
 👋  Hello! I'm Jen, and these are some notes. 
 
-This is me [working with the garage door up.](learn-in-public.md) Where to poke around? Maybe my [desk,](_now.md) or maybe my [workbench,](_workbench.md) or maybe my [bookshelf.](1-library.md)
+This is me [working with the garage door up.](learn-in-public.md) Where to poke around? Maybe my [desk,](now.md) or maybe my [workbench,](_workbench.md) or maybe my [bookshelf.](1-library.md)
 
 Disclaimer: I'm currently transferring all of my notes from wikilinks to markdown. That's why everything's so brutal and broken.  ¯\\\_(ツ)_/¯
 

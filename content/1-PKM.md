@@ -7,7 +7,7 @@ tags: #
 
 ## consumption workflow
 1. **backlog**
-	1. [now](_now.md) | [how to read a book](books/how-to-read-a-book.md)
+	1. [now](now.md) | [how to read a book](books/how-to-read-a-book.md)
 	2. we do not have to finish anything. if it's irrelevant to us, skip and move on. we should prioritize and digest content with a purpose by setting an end goal or a question when taking in new information. always challenge the writing from [first principles.](first-principles-thinking.md)
 
 2. **capture**
