@@ -2,17 +2,9 @@
 title: "Aposteriori Knowledge"
 ---
 
-%% ---
-alias: [" "]
---- %%
-%% - metadata
-	- tags: #
-	- source: 
-	- fr: 
-%%
-
 empirical, justified by appeal to the senses, scientific knowledge 
 
 -------------
 ### See also
+[apriori](apriori.md) [synthetic-apriori-knowledge](synthetic-apriori-knowledge.md)
 

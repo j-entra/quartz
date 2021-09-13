@@ -27,6 +27,7 @@ p, ul, text {
   font-family: 'Inter', system-ui, sans-serif;
   font-weight: 500;
   font-size: 20px;
+  line-height: 30px;
   color: var(--gray);
   fill: var(--gray);
 }
@@ -34,13 +35,19 @@ p, ul, text {
 a { /* links */
   font-family: 'Inter', system-ui, sans-serif;
   font-weight: 600;
+  // background-color: var(--secondary);
+  // padding: .1em .5em;
+  // border-radius: .33em;
   font-size: 1em;
   text-decoration: none;
-  transition: all 0.2s ease;
+  transition: all 0.3s ease;
   color: var(--secondary);
 
   &:hover {
-    color: var(--outlinegray) !important;
+    color: var(--secondary) !important;
+    background-color: var(--hover);
+    padding: .1em .5em;
+  border-radius: .33em;
   }
 }
 
@@ -100,7 +107,7 @@ sup {
 p, tbody, li {
   font-family: 'Inter', system-ui, sans-serif;
   color: var(--gray);
-  line-height: 1.5em;
+  line-height: 1.8em;
   font-size: 20px;
 }
 
@@ -239,6 +246,7 @@ a[href^="/"] {
       & > li {
         margin: 0.4em 0;
         padding: 0.1em 1em;
+
       }
     }
   }

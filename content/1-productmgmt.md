@@ -13,3 +13,8 @@ tags:
 	2. [time horizon](time-horizon.md) will affect decisions
 2. designing and scoping
 	1. [inversion](inversion.md)
+3. [vuca](vuca.md)
+4. [bowmans-strategic-clock](bowmans-strategic-clock.md)
+5. [sqvid](sqvid.md)
+
+[online-meeting-magic](online-meeting-magic.md)

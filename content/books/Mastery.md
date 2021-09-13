@@ -5,30 +5,28 @@ title: "Mastery"
 
 ## Concepts
 
-[[flow-state]]
-[[knowledge-power]]
-[[1-self-knowledge]]
+[flow-state](flow-state.md)
+[knowledge-power](knowledge-power.md)
+[1-self-knowledge](1-self-knowledge.md)
 [[Your interest must transcend the field itself and border on the religious.]]
-[[pleasure-of-challenge]]
-[[hacker-apprenticeship]]
+[pleasure-of-challenge](pleasure-of-challenge.md)
+[hacker-apprenticeship](hacker-apprenticeship.md)
 
 
 ## Tools for Finding Your Life Task
-1. [[private/¶-primal-inclination-strategy]]
-2. [[darwinian-strategy]]
-3. [[ideal-apprenticeship]]
+1. [primal-inclination-strategy](private/%C2%B6-primal-inclination-strategy.md)
+2. [darwinian-strategy](darwinian-strategy.md)
+3. [ideal-apprenticeship](ideal-apprenticeship.md)
 
 ----
 ## Thoughts
 
 Counter-forces have been present, but I hardly think I have followed them. Everything that I have done is a result of my own actions, and even a lack of following the call to action.
 
-The field that sparks the "childlike sense of wonder and excitement" will allow you to learn with a sense of urgency and necessity. It will no longer feel like learning, but it will feel like you are experiencing what you are meant to do. [[creative-code]]. 
+The field that sparks the "childlike sense of wonder and excitement" will allow you to learn with a sense of urgency and necessity. It will no longer feel like learning, but it will feel like you are experiencing what you are meant to do. [creative code](creative-code.md). 
 
-A friend talked about [[John Coltrane]] and said that he had followers. I didn't get it, but now I see. There's spirituality behind his music.]
 
 ## Concepts
-
 ## Quotes
 ---
 

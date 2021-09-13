@@ -7,21 +7,7 @@ title: "<% tp.date.now("dddd, MMMM Do YYYY") %>"
 **Month**: <% tp.date.now("MMMM") %> | [[<% tp.date.now("YY-MM_MMM") %>]]
 **Year**: [[<% tp.date.now("YYYY") %>]]
 
-----
-## Morning Startup
-
-### Gratitudes
-
-### Accomplishments
-
-### Lessons Learned
-
-### What would make today great?
-- [ ]  
-
-----
-## Pages
-
+## Daily Notes
 
 ----
 %% - metadata:

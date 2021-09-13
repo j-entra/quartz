@@ -1,5 +1,6 @@
 ---
 title: "Synthetic Apriori Knowledge"
+alias: "synthetic apriori knowledge"
 ---
 
 [index](/.md)
@@ -13,8 +14,8 @@ Knowledge:
 2. [aposteriori](aposteriori.md)
 
 [judgment](judgment.md):
-1. [analytic-judgments](analytic-judgments.md)
-2. [synthetic-judgments](synthetic-judgments.md)
+1. [analytic judgments](analytic-judgments.md)
+2. [synthetic judgments](synthetic-judgments.md)
 
 All analytic judgments are apriori. This is because analytic judgments are based on definition, and apriori knowledge is **necessary** and **universal** — you don't need to do experiments or use your senses. They are self-contained.
 
@@ -25,6 +26,7 @@ All empirical knowledge is synthetic. You do need more than the current definiti
 However, 
 
 There are three types of knowledge
+
 -------------
 ### See also
 

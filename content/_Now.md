@@ -20,3 +20,6 @@ Here is everything that I am currently interested in, having problems with, etc.
 2. On design systems, UI/UX, yadada for work
 3. On how to solidify legibility/partnerships with the restaurant industry when you're a start-up and not sure what you're doing
 4. turning all my book notes into actual book notes, and then turning those book notes into atomic ideas
+
+Active Projects:
+1. [ten-rings](ten-rings.md)
