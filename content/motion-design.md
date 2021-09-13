@@ -5,3 +5,7 @@ tags:
 ---
 
 [index](/.md) <
+
+[[after-effects-timesavers]]
+[[after-effects-best-practices]]
+[[after-effects-inspiration]]

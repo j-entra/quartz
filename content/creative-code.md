@@ -8,6 +8,10 @@ tags:
 
 Creative code serves at the intersection between [design](Design.md) and [programming](1-programming.md). It focuses on [[Animation]], [[Interaction]], and [[Visual Effects.]]
 
+https://tympanus.net/codrops/2021/07/13/rock-the-stage-with-a-smooth-webgl-shader-transformation-on-scroll/
+
+https://tympanus.net/codrops/2019/10/01/simulating-depth-of-field-with-particles-using-the-blurry-library/
+
 ## Mathematical Concepts 
 - [[Lorenz Attractors]]
 - [[Recursive Patterns]]

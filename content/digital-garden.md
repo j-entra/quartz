@@ -7,11 +7,12 @@ alias: "digital garden"
 
 ## Where do I get started?
 ### Tools:
-1. ### Any analog writing tool (optional).
-	1. I process notes by **handwriting** them. Why?
-		1. If I process them directly in Obsidian (that is, by typing), I have a tendency to copy exactly what the author has written. By handwriting, I'm forced to distill information in a concise, direct manner. (See: [save what speaks)](save-what-speaks.md)
-			1. *?? What information is actually useful to me right now?*
-		2. Note: The point of PKM as a system is to serve as a Second Brain where you don't have to store information in your mind, but I find that it's useful practice for natural connections.
+1. ### ~~Any analog writing tool (optional).~~
+	1. ~~I process notes by **handwriting** them. Why?
+		1. ~~If I process them directly in Obsidian (that is, by typing), I have a tendency to copy exactly what the author has written. By handwriting, I'm forced to distill information in a concise, direct manner. (See: [save what speaks)](save-what-speaks.md)
+			1. ~~*?? What information is actually useful to me right now?*
+		2. ~~Note: The point of PKM as a system is to serve as a Second Brain where you don't have to store information in your mind, but I find that it's useful practice for natural connections.
+		3. not efficient, unfortunately. i do still alternate between typing notes directly and handwriting, depending on how much i have to wrestle with the text to understand it.
 2. #### Any bi-directional linking notetaking platform.
 	1. **Notion**: too clunky
 	2. **Roam Research**: out of my budget

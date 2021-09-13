@@ -16,3 +16,4 @@ alias: "workbench"
 - [ ] [horizon expansion](horizon-expansion.md)
 - [ ] [inert ideas](Inert-Ideas.md)
 	- do something with your ideas, rather than knowledge for the sake of knowledge
+[[ten-rings]]
