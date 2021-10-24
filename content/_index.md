@@ -14,7 +14,7 @@ Disclaimer: I'm currently transferring all of my notes from wikilinks to markdow
 
 This site was built by [Jacky Zhao](https://jzhao.xyz/) using [Quartz](https://github.com/jackyzha0/quartz) (with some tweaks). If you're wondering what *exactly* this is, [here's a good article](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/) on digital gardens.
 
-*Updated: 10.24.2021*
+Updated: 21-10-24_Su
 
 ---
 [making](1-outputs.md) + [sense](1-mindset.md) = [making sense](1-interests.md)
