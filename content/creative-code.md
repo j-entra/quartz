@@ -31,6 +31,11 @@ https://tympanus.net/codrops/2019/10/01/simulating-depth-of-field-with-particles
 - [WebGL](WebGL.md)
 - [threejs](threejs.md)
 
+
+## Projects
+https://codepen.io/sanprieto/pen/XWNjBdb
+https://codepen.io/isladjan/pen/bGpjZwN
+Simplex noise.
 -------------
 ### See also
 [[ here goes related concepts]]
