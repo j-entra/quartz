@@ -16,8 +16,5 @@ Here is everything that I am currently interested in, having problems with, etc.
 5. work-life balance at an agency
 
 Active Projects:
-1. [Time-Tracking](time-tracking.md)
+1. [[30-days]]
 
-On-Hold Projects:
-1. [ten-rings](ten-rings.md)
-2. [coral reef](coral-reef.md)

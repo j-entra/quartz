@@ -6,20 +6,11 @@ alias: "library"
 [index](/.md) | [workbench](_workbench.md) | [now](now.md)
 
 ## Currently 
-- [The Order of Time](books/the-order-of-time.md)
-- 
-- [Intuition Pumps and Other Tools for Thinking](books/intuition-pumps.md)
-- [Jade City](books/Jade-City.md)
-- [Mastery](books/Mastery.md)
-- [Addiction by Design](addiction-by-design.md)
-- [tao te ching](books/tao-te-ching.md)
-- [the republic](books/the-republic.md)
-- [how to read a book](books/how-to-read-a-book.md)
-- [the minds i](the-minds-i.md)
-- [how to speak machine](how-to-speak-machine.md)
-- [Sapiens](books/Sapiens.md)
-- [The Essence of Jung's Psychology and Tibetan Buddhism](books/The-Essence-of-Jungs-Psychology-and-Tibetan-Buddhism.md)
 
+**2022**
+- [[if-i-had-your-face]]
+- [[green-bone-saga]]
+- 
 
 ### Top Ten (as of right now)
 - [Creativity - Flow](books/Creativity-Flow.md) 
@@ -37,6 +28,8 @@ alias: "library"
 - [Kafka on the Shore](books/Kafka-on-the-Shore.md)
 - [The Mistborn Trilogy](books/The-Mistborn-Trilogy.md)
 - [Illusions The Adventures of a Reluctant Messiah](books/Illusions-The-Adventures-of-a-Reluctant-Messiah.md)
+- [Jade City](books/Jade-City.md)
+- 
 
 ### Non-fiction
 - [history of nearly everything](books/history-of-nearly-everything.md)
@@ -57,3 +50,15 @@ alias: "library"
 - [The Power of Full Engagement](books/The-Power-of-Full-Engagement.md)
 - [The Talent Code](books/The-Talent-Code.md)
 - [This Is Marketing](books/This%20Is%20Marketing.md)
+- [Mastery](books/Mastery.md)
+- [Addiction by Design](addiction-by-design.md)
+- [Intuition Pumps and Other Tools for Thinking](books/intuition-pumps.md)
+-  [tao te ching](books/tao-te-ching.md)
+-  [The Order of Time](books/the-order-of-time.md)
+- [tao te ching](books/tao-te-ching.md)
+- [the republic](books/the-republic.md)
+- [how to read a book](books/how-to-read-a-book.md)
+- [the minds i](the-minds-i.md)
+- [how to speak machine](how-to-speak-machine.md)
+- [Sapiens](books/Sapiens.md)
+- [The Essence of Jung's Psychology and Tibetan Buddhism](books/The-Essence-of-Jungs-Psychology-and-Tibetan-Buddhism.md)

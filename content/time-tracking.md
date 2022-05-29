@@ -51,4 +51,5 @@ tags:
 ----
 
 ## Lessons Learned
-TBD
+1. Social media should only be consumed in transit.
+2. What gets measured, gets managed — all the Youtube videos on time tracking
