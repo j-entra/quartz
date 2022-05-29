@@ -9,11 +9,9 @@ tags:
 
 Here is everything that I am currently interested in, having problems with, etc. etc. etc.
 
-1. On Three.js: to move my Blender pieces around with my mouse
-	1. but also to learn how to scrollytell
-2. On design systems, UI/UX
+1. [[may-curation]]: discoveries i loved in the month of may
+2. [[analog-vs-digital]]: my neverending battle of picking between analog vs. digital notetaking/writing
 4. turning all my book notes into actual book notes, and then turning those book notes into atomic ideas
-5. work-life balance at an agency
 
 Active Projects:
 1. [[30-days]]
