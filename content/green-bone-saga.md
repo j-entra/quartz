@@ -6,5 +6,5 @@ tags:
 
 [index](/.md) < 
 
-**Atom:** 
+**Atom:** character driven, family relationships
 

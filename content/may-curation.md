@@ -8,16 +8,22 @@ tags:
 
 **Atom:**  things that i really, really, really liked in the month of may.
 
+**Things:** 
+1. [fountain pens](fountain-pens.md)
+
 **Books:**
 1. [if i had your face](if-i-had-your-face.md)
-2. [[little-gods]]
+2. [little gods](little-gods.md)
 
 **Art:**
-1. Calart's new student films:
+1. [Nick Cave's Forothermore MCA Exhibition](https://mcachicago.org/exhibitions/2022/nick-cave-forothermore)
+2. [FATIAS DA VIDA, and Vinicus Costa in general](https://www.behance.net/gallery/117525721/FATIAS-DA-VIDA)
+
+**Animation:**
+1. Calart's 2022 student films:
 	1. [Pavit Panag's UMBILICAL](https://www.youtube.com/watch?v=UpC3bgj5NjQ)
 	2. [Lyly Hoang's TIGER.](https://www.youtube.com/watch?v=Awa7Mlx2FAs)
 		[1. Also, her experimental film "a love letter"](https://www.youtube.com/watch?v=6Jxms_F1HzM)
-2. Nick Cave's MCA Exhibition
 3. [1001 Nights (1998)](https://www.youtube.com/watch?v=pzWMFPUBX2Y)
 4. [A Taste of Tokyo](https://www.youtube.com/watch?v=f9E69xPoqYk)
 
