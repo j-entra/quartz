@@ -8,11 +8,17 @@ alias: "library"
 ## Currently 
 
 **2022**
+<<<<<<< HEAD
 - [if-i-had-your-face](if-i-had-your-face.md)
 - [little gods](little-gods.md)
 
 there's more, but not all need book analyses or notes. see the rest here: 
 [Reading Challenge: 19/50 books](https://www.goodreads.com/user/show/45269111-jennifer-nguyen)
+=======
+- [[if-i-had-your-face]]
+- [[green-bone-saga]]
+- 
+>>>>>>> 73d60d3d16697df04d04adf6a91f8b2a651fd868
 
 ### Top Ten (as of right now)
 - [Creativity - Flow](books/Creativity-Flow.md) 

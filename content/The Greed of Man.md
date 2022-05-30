@@ -4,7 +4,11 @@ alias: "The Greed of Man"
 tags: 
 ---
 
+<<<<<<< HEAD
 [index](/.md) < [may pieces](may-pieces.md)
+=======
+[index](/.md) < 
+>>>>>>> 73d60d3d16697df04d04adf6a91f8b2a651fd868
 
 **Atom:** 
 

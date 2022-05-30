@@ -8,6 +8,7 @@ tags:
 
 **Atom:**  things that i really, really, really liked in the month of may.
 
+<<<<<<< HEAD
 **Things:** 
 1. [fountain pens](fountain-pens.md)
 
@@ -24,6 +25,18 @@ tags:
 	1. [Pavit Panag's UMBILICAL](https://www.youtube.com/watch?v=UpC3bgj5NjQ)
 	2. [Lyly Hoang's TIGER.](https://www.youtube.com/watch?v=Awa7Mlx2FAs)
 		[1. Also, her experimental film "a love letter"](https://www.youtube.com/watch?v=6Jxms_F1HzM)
+=======
+**Books:**
+1. [if i had your face](if-i-had-your-face.md)
+2. [[little-gods]]
+
+**Art:**
+1. Calart's new student films:
+	1. [Pavit Panag's UMBILICAL](https://www.youtube.com/watch?v=UpC3bgj5NjQ)
+	2. [Lyly Hoang's TIGER.](https://www.youtube.com/watch?v=Awa7Mlx2FAs)
+		[1. Also, her experimental film "a love letter"](https://www.youtube.com/watch?v=6Jxms_F1HzM)
+2. Nick Cave's MCA Exhibition
+>>>>>>> 73d60d3d16697df04d04adf6a91f8b2a651fd868
 3. [1001 Nights (1998)](https://www.youtube.com/watch?v=pzWMFPUBX2Y)
 4. [A Taste of Tokyo](https://www.youtube.com/watch?v=f9E69xPoqYk)
 
